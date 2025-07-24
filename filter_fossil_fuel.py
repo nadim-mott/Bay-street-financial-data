@@ -7,22 +7,64 @@ from functools import cmp_to_key
 
 fossil_fuel_symbols : Set[str] = set()
 non_fossil_fossil_symbols : Set[str] = set()
+
+import pycountry
+
+# Global caches
+fossil_fuel_symbols = set()
+non_fossil_fossil_symbols = set()
+fossil_fuel_country_codes = set()  # Store tuples: (symbol, bloomberg_code)
+
+# Bloomberg-style suffix mapping for major exchanges
+EXCHANGE_TO_BLOOMBERG = {
+    # US markets
+    "NYSE": "US", "NYS": "US", "NASDAQ": "US", "NMS": "US", "BATS": "US",
+    # London Stock Exchange
+    "LSE": "LN", "LON": "LN",
+    # Euronext Paris
+    "EPA": "FP", "PAR": "FP",
+    # Frankfurt / Xetra
+    "FRA": "GY", "XETRA": "GY", "GER": "GY",
+    # Hong Kong
+    "HKG": "HK",
+    # Tokyo
+    "TYO": "JP", "TSE": "JP",
+    # Toronto
+    "TSE": "CN", "TSX": "CN",
+    # Australia (ASX)
+    "ASX": "AU",
+    # Shanghai/Shenzhen (approximation)
+    "SHG": "CH", "SHA": "CH", "SHE": "CH",
+}
+
+def _to_bloomberg_code(symbol: str, exchange: str, country: str) -> str:
+    """
+    Convert Yahoo Finance exchange/country to a Bloomberg-style suffix.
+    Uses a predefined exchange mapping first; falls back to ISO country codes.
+    """
+    exchange = exchange.upper() if exchange else ""
+    
+    # Use predefined Bloomberg mapping for known exchanges
+    if exchange in EXCHANGE_TO_BLOOMBERG:
+        return f"{symbol}_{EXCHANGE_TO_BLOOMBERG[exchange]}"
+    
+    # Otherwise, try ISO Alpha-2 country code
+    if country:
+        try:
+            iso_code = pycountry.countries.lookup(country).alpha_2
+            return f"{symbol}_{iso_code}"
+        except LookupError:
+            pass
+    
+    # Fallback if nothing else works
+    return f"{symbol}_UN"  # UN = Unknown
+
 def is_fossil_fuel_company(symbol: str) -> bool:
     """
-    Check if a company (given a ticker) is likely a fossil fuel company
-    by querying Yahoo Finance for its sector and industry classification.
-    Code written with the help of chatGPT.
-    
-    Doctests:
-    >>> print(is_fossil_fuel_company("XOM"))
-    True
-    >>> print(is_fossil_fuel_company("CVX"))
-    True
-    >>> print(is_fossil_fuel_company("EFA"))
-    False
-
-    Returns True if the sector or industry matches oil, gas, coal, or fossil fuels.
+    Check if a company is a fossil fuel company by querying Yahoo Finance,
+    and store its Bloomberg-style exchange code in `fossil_fuel_country_codes`.
     """
+    symbol = symbol.split("/")[0]
     if symbol in fossil_fuel_symbols:
         return True
     elif symbol in non_fossil_fossil_symbols:
@@ -30,31 +72,45 @@ def is_fossil_fuel_company(symbol: str) -> bool:
 
     if not isinstance(symbol, str) or not symbol.strip():
         return False
-    
-    try:
-        stock = yf.Ticker(symbol)
-        info = stock.info
-        
-        sector = str(info.get("sector", "")).lower()
-        industry = str(info.get("industry", "")).lower()
-        
-        # Check for energy-related sectors/industries
-        fossil_keywords = ["oil", "gas", "coal", "fossil", "petroleum", "energy"]
-        
-        if any(keyword in sector for keyword in fossil_keywords):
-            fossil_fuel_symbols.add(symbol)
-            return True
-        if any(keyword in industry for keyword in fossil_keywords):
-            fossil_fuel_symbols.add(symbol)
-            return True
-        
-    except Exception as error:
-        # If ticker lookup fails, default to False
-        print(f"{error}: {symbol} defaulting to not fossil fuel")
-        non_fossil_fossil_symbols.add(symbol)
-        return False
+
+    for _ in range(3):  # retry up to 3 times
+        try:
+            stock = yf.Ticker(symbol)
+            info = stock.info
+
+            sector = str(info.get("sector", "")).lower()
+            industry = str(info.get("industry", "")).lower()
+            
+            fossil_keywords = ["oil", "gas", "coal", "fossil", "petroleum"]
+
+            is_fossil = any(keyword in sector for keyword in fossil_keywords) or \
+                        any(keyword in industry for keyword in fossil_keywords)
+
+            if is_fossil:
+                fossil_fuel_symbols.add(symbol)
+                
+                # Retrieve exchange and country
+                exchange = info.get("exchange", "")
+                country = info.get("country", "")
+
+                # Convert to Bloomberg-style format
+                bloomberg_code = _to_bloomberg_code(symbol, exchange, country)
+                fossil_fuel_country_codes.add((symbol, bloomberg_code))
+                
+                return True
+
+            non_fossil_fossil_symbols.add(symbol)
+            return False
+
+        except Exception as error:
+            print(f"{error}: {symbol}")
+            print("pausing for request limit")
+            time.sleep(5 * 60)
+            print("Resuming.")
+
     non_fossil_fossil_symbols.add(symbol)
     return False
+
 
 
 def filter_csv(source_path: str, destination_path: str, top_number: int = -1) -> None:
@@ -178,6 +234,8 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
 
 
 if __name__ == "__main__":
-    # filter_csv("data/raw_data/test.csv", "./data/filtered_data/test.csv")
-    reorder_bulk_csv("./data/raw_data", "./data/sorted_by_value", 4)
+    # filter_csv("data/raw_data/test.csv", "./data/filtered_data/test.csv", top_number = 2)
+    # reorder_bulk_csv("./data/raw_data", "./data/sorted_by_value", 4)
     filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = 20)
+    print(f"found {len(fossil_fuel_symbols)} tickers")
+    print(f"tickers are {"+".join(company[1] for company in list(fossil_fuel_country_codes))}")
