@@ -134,7 +134,7 @@ def filter_csv(source_path: str, destination_path: str, top_number: int = -1) ->
                     number_of_fossil_fuels_needed -= 1
                     # include
                     writer.writerow(line)
-                if number_of_fossil_fuels_needed <= 0:
+                if number_of_fossil_fuels_needed == 0:
                     return
 
 
@@ -202,6 +202,14 @@ def reorder_bulk_csv(source_root: str, destination_root: str, column_index: int,
                 print(f"Sorted to {destination_path}")
 
 
+def is_GOGEL(ticker : str):
+    if ticker == "":
+        return False
+    with open("data/GOGEL_2024_with_identifiers.csv", 'r') as file:
+        file_content = file.read()
+        return ticker in file_content
+
+
 def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = -1) -> None:
     """
     Given a path to a source directory, filter all the csv to only include 
@@ -236,6 +244,6 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
 if __name__ == "__main__":
     # filter_csv("data/raw_data/test.csv", "./data/filtered_data/test.csv", top_number = 2)
     # reorder_bulk_csv("./data/raw_data", "./data/sorted_by_value", 4)
-    filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = 20)
+    filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = -1)
     print(f"found {len(fossil_fuel_symbols)} tickers")
     print(f"tickers are {"+".join(company[1] for company in list(fossil_fuel_country_codes))}")

@@ -3,3 +3,4 @@ venv
 .mypy_cache
 .history
 __pycache__
+data/GOGEL_2024_with_identifiers.csv
