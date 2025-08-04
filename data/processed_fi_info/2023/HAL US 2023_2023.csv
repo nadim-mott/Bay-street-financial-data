@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,HAL US 2023,3443.17,845.388,203.023,,,,,,,,,,,,,,,,,38888.35,23018.0,32137.35,HALLIBURTON CO,899.0,36.15,8973.0,2264.0,24683.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.011422645910443768,0.002804557364561795,0.0,0.014227203275005562
+BMO,0.016356620393094014,0.004015976730999911,0.0,0.020372597124093925
+TD,0.06249718867890476,0.015344689150661147,0.0,0.0778418778295659
+CIBC,0.0003637375872621732,8.930706047636162e-05,0.0,0.0004530446477385348
+Scotiabank,4.831977963335496e-05,1.1863765618509305e-05,0.0,6.0183545251864265e-05
+National Bank of Canada,0.102291473534999,0.025115223537846152,0.0,0.12740669707284516
+Power Corp of Canada,0.00043305665028385977,0.00010632669762752686,0.0,0.0005393833479113866
+Brookfield Asset Management,0.00015042343814906955,3.693287567269859e-05,0.0,0.00018735631382176815
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0011758527305456112,0.00028870250036172867,0.0,0.0014645552309073399
+HOOPP,0.0026289817131779692,0.0006454835493281182,0.0,0.0032744652625060875
+OTPP,0.003299030275987286,0.0008099979399670477,0.0,0.004109028215954334
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.00010092512730514496,2.4779749917152473e-05,0.0,0.00012570487722229743
+CPP,0.012619926481181553,0.003098520958324193,0.0,0.015718447439505748

@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,OGS US 2021,434.136,,,,,,,,,,,,,,,,,,,8361.1268,1808.597,4161.4008,ONE GAS INC,53.575,77.59,4208.578,8.852,8402.12
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.07191556288449794,,0.0,0.07191556288449794
+BMO,0.07345080202224212,,0.0,0.07345080202224212
+TD,0.00835054916700165,,0.0,0.00835054916700165
+CIBC,0.0039443001712308025,,0.0,0.0039443001712308025
+Scotiabank,0.0014850590599203998,,0.0,0.0014850590599203998
+National Bank of Canada,0.10091224082813652,,0.0,0.10091224082813652
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.0007293324824660004,,0.0,0.0007293324824660004
+Fairfax,7.521795449263143e-05,,0.0,7.521795449263143e-05
+Intact Financial,0.0009423630831233558,,0.0,0.0009423630831233558
+OMERS,3.4427080419650995e-06,,0.0,3.4427080419650995e-06
+HOOPP,0.00810152661863284,,0.0,0.00810152661863284
+OTPP,0.011166788669815221,,0.0,0.011166788669815221
+OPSEU,0.00018110730790458829,,0.0,0.00018110730790458829
+IMCO,2.6707068446759562e-05,,0.0,2.6707068446759562e-05
+CPP,0.015597553919824304,,0.0,0.015597553919824304

@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,OVV US 2019,5956.21,424.944,,,,,,,,,,,,,,,,,,14141.31,6726.0,6092.31,OVINTIV INC,261.2,23.45,8239.0,190.0,21487.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1.6243210988557706,0.1158866972507965,0.0,1.7402077961065672
+BMO,1.2633248984900638,0.09013153257926797,0.0,1.3534564310693318
+TD,0.26163168947410753,0.018666033711350866,0.0,0.2802977231854584
+CIBC,0.12507991139321537,0.008923788427049838,0.0,0.1340036998202652
+Scotiabank,0.13055872006184846,0.009314672373533192,0.0,0.13987339243538166
+National Bank of Canada,0.9334241635980441,0.06659486448194528,0.0,1.0000190280799894
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.9093913165794256,0.06488024828414839,0.0,0.974271564863574
+Fairfax,0.49505005622169584,0.0353191964506074,0.0,0.5303692526723033
+Intact Financial,0.01589382450499072,0.0011339400995681443,0.0,0.017027764604558866
+OMERS,0.11902721609208987,0.008491960712439125,0.0,0.12751917680452898
+HOOPP,0.02526078843328721,0.0018022233064305658,0.0,0.027063011739717778
+OTPP,0.14656888614991687,0.01045691282813908,0.0,0.15702579897805594
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.012679277234743474,0.000904599197348789,0.0,0.013583876432092263
+CPP,0.012917826363070824,0.0009216184127202983,0.0,0.013839444775791122

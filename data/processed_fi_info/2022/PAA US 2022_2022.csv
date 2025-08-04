@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,PAA US 2022,785.0,1199.0,,,,,,,,,,,,,,,,,,18928.6489,57342.0,8212.6489,PLAINS ALL AMER PIPELINE LP,701.0,11.76,8825.0,401.0,27892.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.011570761901193657,0.01767304906946649,0.0,0.029243810970660148
+BMO,0.0039611074814119955,0.006050150153137558,0.0,0.010011257634549554
+TD,0.0021799903073903477,0.003329692201988569,0.0,0.005509682509378917
+CIBC,0.00034553711409725555,0.0005277694265001393,0.0,0.0008733065405973949
+Scotiabank,3.0586964456741846e-06,4.671817883265411e-06,0.0,7.730514328939595e-06
+National Bank of Canada,0.02282418404614862,0.0348613970335442,0.0,0.05768558107969282
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.005381967564691582,0.008220355554223194,0.0,0.013602323118914777
+Fairfax,0.031202144779378063,0.04765779820442585,0.0,0.07885994298380392
+Intact Financial,0.0025833559011636305,0.003945788185344195,0.0,0.006529144086507826
+OMERS,0.0012312209036477865,0.0018805526923231796,0.0,0.003111773595970966
+HOOPP,0.0018349311146127285,0.00280265274703269,0.0,0.004637583861645419
+OTPP,0.00964913585919885,0.014737979484304995,0.0,0.024387115343503844
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.0,0.0,0.0,0.0
+CPP,0.005758282811773434,0.008795135148173691,0.0,0.014553417959947124

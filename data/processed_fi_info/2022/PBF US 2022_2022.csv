@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,PBF US 2022,11720.0,,,,,,,,,,,,,,,,,,,5851.7915,46830.3,5286.6915,PBF ENERGY INC-CLASS A,122.5981,40.78,2641.9,2203.6,13549.1
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.39872937545154663,,0.0,0.39872937545154663
+BMO,0.1479639354783611,,0.0,0.1479639354783611
+TD,0.0659989560578672,,0.0,0.0659989560578672
+CIBC,0.04051583490354979,,0.0,0.04051583490354979
+Scotiabank,0.01848662438502417,,0.0,0.01848662438502417
+National Bank of Canada,0.529361684902552,,0.0,0.529361684902552
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.0054690613212441085,,0.0,0.0054690613212441085
+Fairfax,0.723671869258874,,0.0,0.723671869258874
+Intact Financial,0.0599158169149836,,0.0,0.0599158169149836
+OMERS,0.028555727149957588,,0.0,0.028555727149957588
+HOOPP,0.09397385869782643,,0.0,0.09397385869782643
+OTPP,0.22379257045734557,,0.0,0.22379257045734557
+OPSEU,0.0,,0.0,0.0
+IMCO,0.0,,0.0,0.0
+CPP,0.1335519502130964,,0.0,0.1335519502130964

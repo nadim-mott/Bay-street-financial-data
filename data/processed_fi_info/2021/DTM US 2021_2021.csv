@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,DTM US 2021,1466.21,,,,,,,,,,,,,,,,,,,7741.2014,840.0,4641.2014,DT MIDSTREAM INC,96.7,47.98,3083.0,132.0,8166.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1.0417056872774364,,0.0,1.0417056872774364
+BMO,0.2665202012866755,,0.0,0.2665202012866755
+TD,0.10501411625015884,,0.0,0.10501411625015884
+CIBC,0.16365080982480096,,0.0,0.16365080982480096
+Scotiabank,0.07838212492567119,,0.0,0.07838212492567119
+National Bank of Canada,0.30557889673135064,,0.0,0.30557889673135064
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.06460868906701614,,0.0,0.06460868906701614
+Fairfax,0.00022777236299204772,,0.0,0.00022777236299204772
+Intact Financial,0.040694170511540395,,0.0,0.040694170511540395
+OMERS,0.03682361989936485,,0.0,0.03682361989936485
+HOOPP,0.021589092253139458,,0.0,0.021589092253139458
+OTPP,0.03381487650805242,,0.0,0.03381487650805242
+OPSEU,0.0005781184802710781,,0.0,0.0005781184802710781
+IMCO,8.087340489038033e-05,,0.0,8.087340489038033e-05
+CPP,0.1383664979739944,,0.0,0.1383664979739944

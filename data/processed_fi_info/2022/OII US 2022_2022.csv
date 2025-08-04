@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,OII US 2022,43.59,11.59,,,,,,,,,,,,,,,,,,2063.2521,2066.084,1753.5391,OCEANEERING INTL INC,100.185,17.49,872.395,568.745,2031.683
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.0021920048432338924,0.0005828248711420236,0.0,0.002774829714375916
+BMO,0.0010009194263190368,0.0002661311344583078,0.0,0.0012670505607773445
+TD,0.0006172564330045449,0.00016412025828223617,0.0,0.0007813766912867811
+CIBC,8.72526309792579e-05,2.3199311609304863e-05,0.0,0.00011045194258856276
+Scotiabank,7.9546558157728e-07,2.1150369558340616e-07,0.0,1.006969277160686e-06
+National Bank of Canada,0.005935813886328512,0.0015782537954243507,0.0,0.007514067681752863
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,5.613004010004682e-05,1.4924229519604096e-05,0.0,7.10542696196509e-05
+Fairfax,0.00811464383086753,0.002157575636608274,0.0,0.010272219467475804
+Intact Financial,0.0006718452585402858,0.00017863469939164743,0.0,0.0008504799579319332
+OMERS,0.0003201997548842795,8.513684696280796e-05,0.0,0.0004053366018470875
+HOOPP,0.00047720477404809516,0.00012688238887858275,0.0,0.0006040871629266779
+OTPP,0.002509420468582651,0.0006672214551702897,0.0,0.0031766419237529405
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.0,0.0,0.0,0.0
+CPP,0.001963532213225243,0.0005220770440761772,0.0,0.0024856092573014204

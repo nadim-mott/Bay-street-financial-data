@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,EPD US 2021,9960.11,,,,,,,,,,,,,,,,,,,76042.3957,40806.9,47793.2957,ENTERPRISE PRODUCTS PARTNERS,2183.3,21.96,29910.1,2820.0,67526.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.12471015063269639,,0.0,0.12471015063269639
+BMO,0.051484736912169045,,0.0,0.051484736912169045
+TD,0.012314965344187386,,0.0,0.012314965344187386
+CIBC,0.0008246377382591759,,0.0,0.0008246377382591759
+Scotiabank,0.0002717532501111866,,0.0,0.0002717532501111866
+National Bank of Canada,0.20158339325655672,,0.0,0.20158339325655672
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.04262087112460839,,0.0,0.04262087112460839
+Fairfax,0.000150256206541538,,0.0,0.000150256206541538
+Intact Financial,0.0018824747762686725,,0.0,0.0018824747762686725
+OMERS,6.8771911454518094e-06,,0.0,6.8771911454518094e-06
+HOOPP,0.007001188985801622,,0.0,0.007001188985801622
+OTPP,0.022306898879333823,,0.0,0.022306898879333823
+OPSEU,0.0003617819341971012,,0.0,0.0003617819341971012
+IMCO,5.335033131017161e-05,,0.0,5.335033131017161e-05
+CPP,0.027939735226922217,,0.0,0.027939735226922217

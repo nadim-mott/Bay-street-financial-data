@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,SXC US 2023,4400.0,200.0,,,,,,,,,,,,,,,,,,1291.9498,2063.2,899.5498,SUNCOKE ENERGY INC,84.7,10.74,501.2,140.1,1660.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3.3664715394300573,0.15302143361045714,0.0,3.5194929730405144
+BMO,4.283675233989269,0.19471251063587586,0.0,4.478387744625145
+TD,2.8532481470175415,0.12969309759170644,0.0,2.982941244609248
+CIBC,0.23163898207747918,0.010529044639885419,0.0,0.2421680267173646
+Scotiabank,0.10347131420628408,0.004703241554831095,0.0,0.10817455576111518
+National Bank of Canada,4.670017379804875,0.21227351726385799,0.0,4.882290897068733
+Power Corp of Canada,0.01977077867173113,0.0008986717578059603,0.0,0.02066945042953709
+Brookfield Asset Management,0.006867435243718581,0.00031215614744175364,0.0,0.007179591391160334
+Fairfax,0.004255462009996556,0.00019343009136347985,0.0,0.004448892101360036
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.05368240868932437,0.0024401094858783803,0.0,0.05612251817520275
+HOOPP,0.7925039836593817,0.036022908348153714,0.0,0.8285268920075354
+OTPP,0.15061400714001605,0.006846091233637093,0.0,0.15746009837365313
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.13464868759906345,0.006120394890866521,0.0,0.14076908248992998
+CPP,0.4625980685004877,0.02102718493184035,0.0,0.48362525343232804

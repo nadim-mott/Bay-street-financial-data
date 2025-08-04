@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,TRGP US 2018,6600.0,,37900.0,,,,,,,,,,,37900.0,,,,,,17133.7949,10484.0,8349.0949,TARGA RESOURCES CORP,224.2,36.02,6660.3,232.1,16938.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1.2250508974332057,,7.034761971624014,8.25981286905722
+BMO,0.3580346655300325,,2.055986942967914,2.4140216084979462
+TD,0.1133528617575062,,0.6509202213044674,0.7642730830619735
+CIBC,0.2418976456957029,,1.3890789048283545,1.6309765505240574
+Scotiabank,0.074647372854751,,0.42865688351440345,0.5033042563691544
+National Bank of Canada,0.7547368757300866,,4.334019331843982,5.088756207574069
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,1.2120138914698406,,6.959897952531358,8.171911844001198
+Fairfax,0.413348661302197,,2.3736233732353433,2.7869720345375404
+Intact Financial,0.03446996392387395,,0.19794115647194283,0.23241112039581677
+OMERS,0.009446532940953874,,0.0542459997669927,0.06369253270794657
+HOOPP,0.055324272335196475,,0.3176954426521131,0.37301971498730957
+OTPP,0.05028006089618169,,0.2887294406008009,0.3390095014969826
+OPSEU,0.0,,0.0,0.0
+IMCO,0.010252057381692955,,0.05887166284335803,0.06912372022505098
+CPP,0.2420423080829995,,1.3899096176281336,1.631951925711133

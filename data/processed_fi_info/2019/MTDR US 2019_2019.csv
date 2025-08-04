@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,MTDR US 2019,940.81,,,,,,,,,,,,,,,,,,,3867.2089,946.052,2096.0729,MATADOR RESOURCES CO,116.555,17.97,1675.362,40.024,4069.676
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3.665584266272418,,0.0,3.665584266272418
+BMO,1.776581588388457,,0.0,1.776581588388457
+TD,0.28371347169270683,,0.0,0.28371347169270683
+CIBC,0.8084813720553325,,0.0,0.8084813720553325
+Scotiabank,0.21147425451185403,,0.0,0.21147425451185403
+National Bank of Canada,0.42853527180757883,,0.0,0.42853527180757883
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.4175017856058346,,0.0,0.4175017856058346
+Fairfax,0.2272776071958184,,0.0,0.2272776071958184
+Intact Financial,0.05362161185329002,,0.0,0.05362161185329002
+OMERS,0.07951857114797868,,0.0,0.07951857114797868
+HOOPP,0.02322274601708748,,0.0,0.02322274601708748
+OTPP,0.06728981304991825,,0.0,0.06728981304991825
+OPSEU,0.0,,0.0,0.0
+IMCO,0.005821059415443041,,0.0,0.005821059415443041
+CPP,0.10167755659643325,,0.0,0.10167755659643325

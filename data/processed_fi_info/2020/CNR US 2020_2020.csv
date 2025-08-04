@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CNR US 2020,6001.0,395.0,42175.0,,,,,,,,,,,,,,,,,907.3192,879.462,245.3662,CORE NATURAL RESOURCES INC,26.067,7.21,712.803,50.85,2523.366
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,90.24135250902529,5.939899057001331,0.0,96.18125156602662
+BMO,45.909620526380564,3.0218797047026036,0.0,48.93150023108317
+TD,10.54455398094766,0.6940674591691928,0.0,11.238621440116852
+CIBC,15.959771786008016,1.0505098909303727,0.0,17.010281676938387
+Scotiabank,4.867618380200696,0.3203981436726004,0.0,5.188016523873296
+National Bank of Canada,23.350700923762115,1.5369983110958234,0.0,24.88769923485794
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,36.72102935530648,2.4170649217373867,0.0,39.13809427704386
+Fairfax,0.003864256772122648,0.00025435451174611666,0.0,0.004118611283868765
+Intact Financial,1.9781081501853146,0.1302037525951007,0.0,2.1083119027804154
+OMERS,3.911410487671081,0.257458280724892,0.0,4.168868768395973
+HOOPP,5.171989744308711,0.3404325860693119,0.0,5.512422330378023
+OTPP,11.959434477935428,0.787198236757956,0.0,12.746632714693384
+OPSEU,0.04079481199937074,0.0026852109214716615,0.0,0.0434800229208424
+IMCO,0.5588253353558884,0.03678320404358872,0.0,0.5956085393994771
+CPP,31.18408746192426,2.0526103228562045,0.0,33.23669778478047

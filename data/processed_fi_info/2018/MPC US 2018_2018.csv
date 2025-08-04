@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,MPC US 2018,37020.0,8180.0,,,,,,,,,,,,,,,,,,75841.8,97102.0,40126.8,MARATHON PETROLEUM CORP,518.0,59.01,27524.0,1687.0,92940.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.3885592511737791,0.08585669029177506,0.0,0.47441594146555416
+BMO,0.5430924818325906,0.12000260673664483,0.0,0.6630950885692355
+TD,0.13979416549537965,0.030889148399573352,0.0,0.170683313894953
+CIBC,0.03385851849636652,0.007481433854680662,0.0,0.041339952351047184
+Scotiabank,0.027487212536260054,0.006073619625786258,0.0,0.03356083216204631
+National Bank of Canada,0.8808316651215647,0.1946300113639762,0.0,1.075461676485541
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1.4145064969048116,0.31255167867858885,0.0,1.7270581755834005
+Fairfax,0.4824073148120458,0.10659351256516841,0.0,0.5890008273772143
+Intact Financial,0.005519768832800024,0.0012196571867181035,0.0,0.006739426019518127
+OMERS,0.011024776458626154,0.0024360527129001063,0.0,0.01346082917152626
+HOOPP,0.06456736445467867,0.014266910892470867,0.0,0.07883427534714954
+OTPP,0.058680410598403066,0.012966119899917262,0.0,0.07164653049832033
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.011964880827775951,0.002643779718293011,0.0,0.014608660546068962
+CPP,0.2824806049822064,0.0624173784104389,0.0,0.3448979833926453

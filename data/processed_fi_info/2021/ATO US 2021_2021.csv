@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ATO US 2021,679.389,,20661.0,,,,,,,,,,,,,,,,,19036.4573,3407.49,11679.4223,ATMOS ENERGY CORP,129.779,88.2,7581.829,224.794,19608.662
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.19181228622600624,,0.0,0.19181228622600624
+BMO,0.04907513682470408,,0.0,0.04907513682470408
+TD,0.019336553471827115,,0.0,0.019336553471827115
+CIBC,0.030133497741836088,,0.0,0.030133497741836088
+Scotiabank,0.014432727751097756,,0.0,0.014432727751097756
+National Bank of Canada,0.05626712757770562,,0.0,0.05626712757770562
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.006600055442639488,,0.0,0.006600055442639488
+Fairfax,4.1940385099355475e-05,,0.0,4.1940385099355475e-05
+Intact Financial,0.007493135515358495,,0.0,0.007493135515358495
+OMERS,0.0067804398173872005,,0.0,0.0067804398173872005
+HOOPP,0.003975262104445012,,0.0,0.003975262104445012
+OTPP,0.00622643117981957,,0.0,0.00622643117981957
+OPSEU,0.00013995640298065086,,0.0,0.00013995640298065086
+IMCO,1.489145434873093e-05,,0.0,1.489145434873093e-05
+CPP,0.025477824147089875,,0.0,0.025477824147089875

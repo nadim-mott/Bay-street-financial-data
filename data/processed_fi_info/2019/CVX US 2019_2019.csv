@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CVX US 2019,63000.0,,622000.0,,,,,,,,,,,622000.0,,,,,,252924.0779,146516.0,226820.0779,CHEVRON CORP,1870.0,120.51,30858.0,5749.0,237428.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.46146942532198115,,4.556094961115433,5.017564386437415
+BMO,0.35891044899425106,,3.5435285599114947,3.9024390089057457
+TD,0.0743295309484593,,0.7338566388879634,0.8081861698364227
+CIBC,0.03553518751348599,,0.3508394703712427,0.3863746578847287
+Scotiabank,0.03709171638548318,,0.3662071046312783,0.4032988210167615
+National Bank of Canada,0.2651856906006292,,2.618182532596688,2.8833682231973174
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.2583579617049413,,2.5507722568329125,2.8091302185378537
+Fairfax,0.1406436603644249,,1.3885770912170203,1.5292207515814453
+Intact Financial,0.004515433596013239,,0.04458094756698785,0.049096381163001086
+OMERS,0.0338156175194577,,0.3338621285254395,0.3676777460448972
+HOOPP,0.012923022631586885,,0.12758920756900066,0.14051223020058753
+OTPP,0.041640202611005275,,0.4111143813340521,0.45275458394505735
+OPSEU,0.0,,0.0,0.0
+IMCO,0.0036021811100876975,,0.03556439127737378,0.039166572387461476
+CPP,0.05640972844406205,,0.5569341443207396,0.6133438727648016

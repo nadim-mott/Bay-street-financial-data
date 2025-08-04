@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,GTE CA 2019,450.884,189.91,,,,,,,,,,,,,,,,,,1070.8232,570.983,473.4062,GRAN TIERRA ENERGY INC,37.6495,,700.459,103.042,2044.664
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2.1858120499140066,0.9206526876073867,0.0,3.106464737521393
+BMO,0.8352797674639665,0.35181550163474834,0.0,1.1870952690987149
+TD,0.27195263751932275,0.11454503905948,0.0,0.38649767657880274
+CIBC,0.31366981419339246,0.1321160972965711,0.0,0.44578591148996355
+Scotiabank,0.11435769510411989,0.04816686748082302,0.0,0.1625245625849429
+National Bank of Canada,0.9093308276317463,0.38300542373547286,0.0,1.2923362513672192
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.8859183110909828,0.37314419331643733,0.0,1.2590625044074202
+Fairfax,0.48227193477398483,0.20313043517385282,0.0,0.6854023699478377
+Intact Financial,0.07339102949644513,0.030911920608559837,0.0,0.10430295010500497
+OMERS,0.015268328560124476,0.006430940722787323,0.0,0.0216992692829118
+HOOPP,0.04431348779969506,0.018664611004249626,0.0,0.06297809880394468
+OTPP,0.14278568280685805,0.060140588315066426,0.0,0.20292627112192446
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.01235200256354902,0.005202599353367151,0.0,0.01755460191691617
+CPP,0.2157547879347588,0.09087479657004914,0.0,0.30662958450480793

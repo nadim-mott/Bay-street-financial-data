@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,DK US 2022,5200.0,700.0,40000.0,,,,,,,,,,,,,,,,,4317.5177,20245.8,1807.2177,DELEK US HOLDINGS INC,70.7895,27.0,3225.7,841.3,8192.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1.2540215824579406,0.16881059763856893,0.0,1.4228321800965096
+BMO,0.37302556299664397,0.05021497963416361,0.0,0.42324054263080757
+TD,0.07392490677797146,0.009951429758573082,0.0,0.08387633653654454
+CIBC,0.07494348909929335,0.01008854660952026,0.0,0.08503203570881361
+Scotiabank,0.005357627916105515,0.0007212191425526654,0.0,0.00607884705865818
+National Bank of Canada,0.6870711812970846,0.09249035132845368,0.0,0.7795615326255383
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.006497058987414743,0.0008746040944596769,0.0,0.00737166308187442
+Fairfax,0.9392710131159074,0.12644032868867985,0.0,1.0657113418045874
+Intact Financial,0.07776617061685485,0.010468522967653538,0.0,0.08823469358450839
+OMERS,0.03706316068064185,0.004989271630086403,0.0,0.042052432310728256
+HOOPP,0.125121616504752,0.01684329452948585,0.0,0.14196491103423786
+OTPP,0.29046572529695786,0.03910115532843664,0.0,0.3295668806253945
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.00042297062495569846,5.693835335942094e-05,0.0,0.0004799089783151194
+CPP,1.9945107886006208,0.2684918369270067,0.0,2.2630026255276277

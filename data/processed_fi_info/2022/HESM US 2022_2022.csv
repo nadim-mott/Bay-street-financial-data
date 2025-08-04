@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,HESM US 2022,404.479,286.761,,,,,,,,,,,,,,,,,,4199.0652,1275.2,1316.5652,HESS MIDSTREAM LP - CLASS A,41.3,29.92,2885.6,3.1,3588.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.07925982568276907,0.05619235330540409,0.0,0.13545217898817316
+BMO,0.02424326753357904,0.017187600941449766,0.0,0.041430868475028804
+TD,0.00614753055146832,0.004358377093667674,0.0,0.010505907645135995
+CIBC,0.001124128650066096,0.0007969666059835092,0.0,0.0019210952560496054
+Scotiabank,9.831133315691466e-06,6.969918390672942e-06,0.0,1.6801051706364407e-05
+National Bank of Canada,0.07336053124752195,0.052009966651100914,0.0,0.12537049789862287
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0469166259658086,0.03326219303988895,0.0,0.08017881900569755
+Fairfax,0.10028861984503311,0.07110100874305351,0.0,0.17138962858808662
+Intact Financial,0.00830331375384979,0.005886749510772425,0.0,0.014190063264622216
+OMERS,0.003957338382481931,0.0028056099621955677,0.0,0.006762948344677499
+HOOPP,0.0058977583206665345,0.00418129760455464,0.0,0.010079055925221174
+OTPP,0.03101384615892931,0.02198769661312634,0.0,0.05300154277205565
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.0,0.0,0.0,0.0
+CPP,0.01850803013553753,0.01312152480029094,0.0,0.031629554935828474

@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,EE US 2023,596.397,0.145,,,,,,,,,,,,,,,,,,1892.8759,1158.963,1674.0829,EXCELERATE ENERGY INC-A,26.2561,15.46,774.646,555.853,2860.379
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.010982210211334218,2.6700678920978163e-06,0.0,0.010984880279226316
+BMO,0.05438807170122818,1.3223189245885015e-05,0.0,0.054401294890474065
+TD,0.20781197443627195,5.05246275438331e-05,0.0,0.2078624990638158
+CIBC,0.0015418628408425893,3.7486793515422685e-07,0.0,0.0015422377087777434
+Scotiabank,6.091925734382689e-05,1.4811094480446577e-08,0.0,6.093406843830734e-05
+National Bank of Canada,0.34013358892860085,8.269553735958953e-05,0.0,0.3402162844659604
+Power Corp of Canada,0.0014399744923026215,3.500961630992109e-07,0.0,0.0014403245884657208
+Brookfield Asset Management,0.0005001791655598418,1.2160688099735085e-07,0.0,0.0005003007724408391
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.003909876311979533,9.505950989643345e-07,0.0,0.0039108269070784974
+HOOPP,0.008741735302355697,2.1253487506502814e-06,0.0,0.008743860651106347
+OTPP,0.010969741357491914,2.667036381531643e-06,0.0,0.010972408393873445
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,8.514445909458845e-05,2.0700886437583227e-08,0.0,8.516515998102603e-05
+CPP,0.02455865452780146,5.9708632111348844e-06,0.0,0.024564625391012597

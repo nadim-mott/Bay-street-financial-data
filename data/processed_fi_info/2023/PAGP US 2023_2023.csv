@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,PAGP US 2023,832.0,1190.0,,,,,,,,,,,,,,,,,,24197.8473,48712.0,3132.8473,PLAINS GP HOLDINGS LP-CL A,195.0,15.95,8094.0,453.0,28597.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.02831407710168319,0.04049729777764783,0.0,0.06881137487933102
+BMO,0.04054424995434664,0.057989972891433296,0.0,0.09853422284577994
+TD,0.15491596542225344,0.22157451785154036,0.0,0.3764904832737938
+CIBC,0.0009016207077823422,0.001289577695025225,0.0,0.002191198402807567
+Scotiabank,0.00020502244076817913,0.0002932412313871793,0.0,0.0004982636721553584
+National Bank of Canada,0.2535567233040691,0.3626592556873104,0.0,0.6162159789913795
+Power Corp of Canada,0.0010734465098251038,0.0015353381570815787,0.0,0.0026087846669066825
+Brookfield Asset Management,0.00037286464616389056,0.0005333040011238338,0.0,0.0009061686472877245
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.002914664880091666,0.0041688115472464935,0.0,0.00708347642733816
+HOOPP,0.006516632968354378,0.009320664942718401,0.0,0.01583729791107278
+OTPP,0.008177527197064473,0.011696222793878271,0.0,0.019873749990942744
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.00025016986943474713,0.00035781507767710226,0.0,0.0006079849471118494
+CPP,0.018307547897403107,0.026185074516718386,0.0,0.0444926224141215

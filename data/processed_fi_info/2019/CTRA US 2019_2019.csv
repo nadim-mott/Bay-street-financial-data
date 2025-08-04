@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CTRA US 2019,2869.33,,,,,,,,,,,,,,,,,,,7983.4676,2123.919,6927.8686,COTERRA ENERGY INC,416.0,17.41,1255.826,200.227,4487.245
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.9505233503822518,,0.0,0.9505233503822518
+BMO,0.36323018857343803,,0.0,0.36323018857343803
+TD,0.11826146359213568,,0.0,0.11826146359213568
+CIBC,0.13640261646128796,,0.0,0.13640261646128796
+Scotiabank,0.049729646012627894,,0.0,0.049729646012627894
+National Bank of Canada,0.3954320706212586,,0.0,0.3954320706212586
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.3852508916566345,,0.0,0.3852508916566345
+Fairfax,0.20972102118969174,,0.0,0.20972102118969174
+Intact Financial,0.03191486077117571,,0.0,0.03191486077117571
+OMERS,0.006639593197538418,,0.0,0.006639593197538418
+HOOPP,0.019270186058378762,,0.0,0.019270186058378762
+OTPP,0.062091855342060034,,0.0,0.062091855342060034
+OPSEU,0.0,,0.0,0.0
+IMCO,0.0053713981772113865,,0.0,0.0053713981772113865
+CPP,0.09382323786568354,,0.0,0.09382323786568354

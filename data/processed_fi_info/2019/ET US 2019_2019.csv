@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ET US 2019,12672.3,,,,,,,,,,,,,,,,,,,98992.3195,54213.0,34507.3195,ENERGY TRANSFER LP,2628.0,12.83,52019.0,291.0,98973.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.8428031569012481,,0.0,0.8428031569012481
+BMO,0.21596253418350853,,0.0,0.21596253418350853
+TD,0.10485921762482883,,0.0,0.10485921762482883
+CIBC,0.12094448360151533,,0.0,0.12094448360151533
+Scotiabank,0.04409392218946476,,0.0,0.04409392218946476
+National Bank of Canada,0.35061884310950314,,0.0,0.35061884310950314
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.3415914691171535,,0.0,0.3415914691171535
+Fairfax,0.1859539154468373,,0.0,0.1859539154468373
+Intact Financial,0.02829803749607384,,0.0,0.02829803749607384
+OMERS,0.0058871463864354915,,0.0,0.0058871463864354915
+HOOPP,0.00948862131699334,,0.0,0.00948862131699334
+OTPP,0.05505515638211192,,0.0,0.05505515638211192
+OPSEU,0.0,,0.0,0.0
+IMCO,0.004762672415050957,,0.0,0.004762672415050957
+CPP,0.08319050871511477,,0.0,0.08319050871511477

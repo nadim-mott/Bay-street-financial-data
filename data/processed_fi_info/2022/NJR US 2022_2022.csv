@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,NJR US 2022,33.938,0.3,,,,,,,,,,,,,,,,,,6756.8665,2905.979,3724.8695,NEW JERSEY RESOURCES CORP,96.1,38.7,3127.365,1.107,6261.416
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.0010586293613776268,9.357911733552007e-06,0.0,0.0010679872731111787
+BMO,0.0003668621330223784,3.242932403403663e-06,0.0,0.00037010506542578206
+TD,8.068871352405769e-05,7.132598873598122e-07,0.0,8.14019734114175e-05
+CIBC,3.198028279916921e-05,2.8269446755114507e-07,0.0,3.226297726672036e-05
+Scotiabank,6.6693923102540916e-06,5.895508554058068e-08,0.0,6.7283473957946724e-06
+National Bank of Canada,0.0021756250166616573,1.923176100531844e-05,0.0,0.0021948567776669758
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Brookfield Asset Management,5.099533983673791e-05,4.507808931292761e-07,0.0,5.1446120729867186e-05
+Fairfax,0.0029742209674728202,2.6291068720662562e-05,0.0,0.003000512036193483
+Intact Financial,0.0002462481775536029,2.176747400143817e-06,0.0,0.00024842492495374675
+OMERS,0.00011736126003877452,1.0374323180986608e-06,0.0,0.00011839869235687318
+HOOPP,0.00017490754669391775,1.546121280222032e-06,0.0,0.00017645366797413979
+OTPP,0.0009197656889724594,8.130405642399016e-06,0.0,0.0009278960946148584
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.0,0.0,0.0,0.0
+CPP,0.0005488855204189033,4.8519552161491825e-06,0.0,0.0005537374756350525

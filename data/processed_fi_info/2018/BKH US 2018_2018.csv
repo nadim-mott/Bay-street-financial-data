@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,BKH US 2018,4063.14,,1333.37,,,1333.37,,,,,,,,,,,,,,6990.9588,1754.3,3767.0708,BLACK HILLS CORP,54.42,62.78,3142.198,20.776,6963.327
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.07219569005711281,,0.02369191493560461,0.09588760499271742
+BMO,0.07425580461614896,,0.024367967188193007,0.09862377180434197
+TD,0.12818011214442795,,0.04206390036523868,0.17024401250966664
+CIBC,0.03958440016577336,,0.01299011396334786,0.052574514129121216
+Scotiabank,0.005463078660480711,,0.0017927773085655834,0.007255855969046294
+National Bank of Canada,1.0297908667976188,,0.3379386996416419,1.3677295664392606
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,1.6537165149909048,,0.5426876724881305,2.196404187479035
+Fairfax,0.5639881790594432,,0.1850797457908144,0.7490679248502576
+Intact Financial,0.006453227961630028,,0.0021177071346787533,0.008570935096308782
+OMERS,0.01288919841910059,,0.004229751004414358,0.017118949423514947
+HOOPP,0.07548648038152082,,0.024771828769451318,0.10025830915097214
+OTPP,0.06860397200392411,,0.022513247919311734,0.09111721992323585
+OPSEU,0.0,,0.0,0.0
+IMCO,0.013988285715256532,,0.0045904301904811555,0.01857871590573769
+CPP,0.3302514641296362,,0.10837613144674636,0.43862759557638253

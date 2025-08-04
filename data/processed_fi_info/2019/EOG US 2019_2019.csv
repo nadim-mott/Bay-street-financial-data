@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,EOG US 2019,5400.0,,,,,,,,,,,,,,,,,,,52687.9526,17379.973,48741.1166,EOG RESOURCES INC,578.0,83.76,5974.808,2027.972,37124.608
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.05126071321886787,,0.0,0.05126071321886787
+BMO,0.005931997873023697,,0.0,0.005931997873023697
+TD,0.029648356476100916,,0.0,0.029648356476100916
+CIBC,0.007078557572478756,,0.0,0.007078557572478756
+Scotiabank,0.000348986670526953,,0.0,0.000348986670526953
+National Bank of Canada,0.10577653036368889,,0.0,0.10577653036368889
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.10305310486054807,,0.0,0.10305310486054807
+Fairfax,0.056099551892498094,,0.0,0.056099551892498094
+Intact Financial,0.0018011035881767225,,0.0,0.0018011035881767225
+OMERS,0.001715574156542815,,0.0,0.001715574156542815
+HOOPP,0.002862577013674734,,0.0,0.002862577013674734
+OTPP,0.016609328149860235,,0.0,0.016609328149860235
+OPSEU,0.0,,0.0,0.0
+IMCO,0.0014368279777981123,,0.0,0.0014368279777981123
+CPP,0.0020191371651916566,,0.0,0.0020191371651916566

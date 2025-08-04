@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,FANG US 2018,538.75,,,,,,,,,,,,,,,,,,,19944.9455,2009.347,15228.1485,DIAMONDBACK ENERGY INC,104.622,92.7,4464.338,214.516,21595.687
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.001998499604203361,,0.0,0.001998499604203361
+BMO,0.004211181024403591,,0.0,0.004211181024403591
+TD,0.004204388340447297,,0.0,0.004204388340447297
+CIBC,0.0012983932353956228,,0.0,0.0012983932353956228
+Scotiabank,0.00017919241790950488,,0.0,0.00017919241790950488
+National Bank of Canada,0.03377778846522281,,0.0,0.03377778846522281
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,0.05424294235441689,,0.0,0.05424294235441689
+Fairfax,0.01849916718371902,,0.0,0.01849916718371902
+Intact Financial,0.00021166993807553164,,0.0,0.00021166993807553164
+OMERS,0.00042277381915470553,,0.0,0.00042277381915470553
+HOOPP,0.0024760040591934075,,0.0,0.0024760040591934075
+OTPP,0.0022502534533334765,,0.0,0.0022502534533334765
+OPSEU,0.0,,0.0,0.0
+IMCO,0.0004588245741102406,,0.0,0.0004588245741102406
+CPP,0.010832455846487182,,0.0,0.010832455846487182

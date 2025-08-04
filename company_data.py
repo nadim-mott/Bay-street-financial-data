@@ -40,11 +40,12 @@ class FossilFuelCompanyYear:
 
     
     def _read_from_csv(self, path_to_csv: str, year: int):
+        self.year = year
         with open(path_to_csv, mode='r', newline='') as source_file:
             reader = csv.reader(source_file)
             for line in reader:
                 if str(year) in line[0]:
-                    self.year = year
+                    
                     self.ticker = line[0]
                     fields = [safe_to_float(val) for val in line]
 
@@ -77,21 +78,25 @@ class FossilFuelCompanyYear:
                     self.cash_and_marketable_securities = safe_to_float(line[27]) if len(line) > 27 else None
                     self.bs_tot_asset = safe_to_float(line[28]) if len(line) > 28 else None
                     break
+            
 
     def _add_financial_data_from_csv(self, path_to_csv: str, financial_institutions: str):
         with open(path_to_csv, mode='r', newline='') as source_file:
             reader = csv.reader(source_file)
             reader = (row for row in reader if row and any(cell.strip() for cell in row))
-
+            
             line_for_company = next(
-                (line for line in reader if line and len(line) > 1 and ".".split(line[0])[0] in self.ticker),
+                (line for line in reader if line and len(line) > 1 and line[0].split('.')[0] in self.ticker),
                 None
             ) # find the line corresponding to that company
+            
 
             if line_for_company is None:
                 self.investment_data[financial_institutions] = 0
             else:
                 share_value = safe_to_float(line_for_company[4], 0)
+                print("found, value = ", share_value)
+
                 assert share_value is not None
                 self.investment_data[financial_institutions] = share_value # Note that this is slightly different to the previous calculation from bay street report
 
@@ -113,11 +118,8 @@ class FossilFuelCompanyYear:
                 self._add_financial_data_from_csv(matching_file, institution)
     
     def __init__(self, path_to_csv: str, path_to_fi_dir: str, year: int):
-        try:
-            self._read_from_csv(path_to_csv, year)
-            self._add_financial_data_from_all_csv(path_to_fi_dir)
-        except Exception as e:
-            raise ValueError(f"Failed to parse {path_to_csv} for year {year}: {e}")
+        self._read_from_csv(path_to_csv, year)
+        self._add_financial_data_from_all_csv(path_to_fi_dir)
 
 
             

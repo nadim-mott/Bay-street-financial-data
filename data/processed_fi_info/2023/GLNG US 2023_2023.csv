@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,GLNG US 2023,584.778,0.016,,,,,,,,,,,,,,,,,,3476.5291,298.429,2404.2501,GOLAR LNG LTD,106.62,22.99,1216.73,679.225,4083.987
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.021858547112881474,5.98067563769676e-07,0.0,0.021859145180445242
+BMO,0.037132702178529604,1.0159808249566051e-06,0.0,0.03713371815935456
+TD,0.14188074543742352,3.881972179183855e-06,0.0,0.1418846274096027
+CIBC,0.0017595024960173652,4.814141423972489e-08,0.0,0.001759550637431605
+Scotiabank,0.0009266940157348854,2.535509928854739e-08,0.0,0.000926719370834174
+National Bank of Canada,0.23222149385956148,6.353768270613777e-06,0.0,0.23222784762783208
+Power Corp of Canada,0.0009831226277166422,2.689903184365054e-08,0.0,0.000983149526748486
+Brookfield Asset Management,0.050749023540437824,1.3885344124556758e-06,0.0,0.05075041207485028
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0026694138642231937,7.303732669076316e-08,0.0,0.0026694869015498847
+HOOPP,0.007903897305858488,2.1625703582168927e-07,0.0,0.00790411356289431
+OTPP,0.007489438879923515,2.0491711739972476e-07,0.0,0.007489643797040915
+OPSEU,0.0,0.0,0.0,0.0
+IMCO,0.0011040063352810094,3.020650805005686e-08,0.0,0.0011040365417890594
+CPP,0.07340973255985307,2.0085497760819475e-06,0.0,0.07341174110962916

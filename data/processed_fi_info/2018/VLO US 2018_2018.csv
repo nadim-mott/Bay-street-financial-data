@@ -1,0 +1,20 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,VLO US 2018,25350.0,,,,,,,,,,,,,,,,,,,38498.2128,117033.0,31307.2128,VALERO ENERGY CORP,426.0,74.97,9109.0,2982.0,50155.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.8386803487661476,,0.0,0.8386803487661476
+BMO,0.5577156424477365,,0.0,0.5577156424477365
+TD,0.09622683498672868,,0.0,0.09622683498672868
+CIBC,0.06922437375198089,,0.0,0.06922437375198089
+Scotiabank,0.05757253804465149,,0.0,0.05757253804465149
+National Bank of Canada,0.7730802708186147,,0.0,0.7730802708186147
+Power Corp of Canada,0.0,,0.0,0.0
+Brookfield Asset Management,1.2414711107722756,,0.0,1.2414711107722756
+Fairfax,0.4233948350713609,,0.0,0.4233948350713609
+Intact Financial,0.0048445401693503675,,0.0,0.0048445401693503675
+OMERS,0.1556884441019291,,0.0,0.1556884441019291
+HOOPP,0.056668893246223435,,0.0,0.056668893246223435
+OTPP,0.059767682353377684,,0.0,0.059767682353377684
+OPSEU,0.0,,0.0,0.0
+IMCO,0.010501227052700138,,0.0,0.010501227052700138
+CPP,0.24792499094649523,,0.0,0.24792499094649523

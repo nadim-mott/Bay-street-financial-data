@@ -7,10 +7,12 @@ def print_cond(cond: bool, *objects: Any, sep: str = ' ', end: str = '\n', file 
 
 
 
-def safe_to_float(value: Any, default : float | None = None) -> float | None:
-  if value is None:
-    return default
-  try:
-    return float(value) if value not in {"", "#N/A N/A", "#N/A Invalid Security"} else default
-  except (ValueError, TypeError):
-    return default
+def safe_to_float(value: Any, default: float | None = None) -> float | None:
+    if value is None:
+        return default
+    try:
+        if isinstance(value, str):
+            value = value.replace(",", "").strip()
+        return float(value) if value not in {"", "#N/A N/A", "#N/A Invalid Security"} else default
+    except (ValueError, TypeError):
+        return default
