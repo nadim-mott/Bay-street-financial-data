@@ -55,17 +55,15 @@ def is_fossil_fuel_company(symbol: str) -> Optional[Tuple[str,str]]:
     """
     Check if a company is a fossil fuel company by querying Yahoo Finance,
     and store its Bloomberg-style exchange code in `fossil_fuel_country_codes`.
-    return the bloomberg ticker and country code if true, return false if not
+    return the bloomberg ticker and country code if true, return None if not
     fossil fuel.
     """
     symbol = symbol.split("/")[0]
-    if symbol in fossil_fuel_symbols:
-        return True
-    elif symbol in non_fossil_fossil_symbols:
-        return False
+    if symbol in non_fossil_fossil_symbols:
+        return None
 
     if not isinstance(symbol, str) or not symbol.strip():
-        return False
+        return None
 
     for _ in range(3):  # retry up to 3 times
         try:

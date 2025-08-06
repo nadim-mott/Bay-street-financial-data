@@ -1,4 +1,4 @@
-from typing import Optional, Dict
+from typing import Optional, Dict, Any
 import os
 import csv
 from utilities import safe_to_float
@@ -82,7 +82,7 @@ class FossilFuelCompanyYear:
 
     def _add_financial_data_from_csv(self, path_to_csv: str, financial_institutions: str):
         with open(path_to_csv, mode='r', newline='') as source_file:
-            reader = csv.reader(source_file)
+            reader : Any = csv.reader(source_file)
             reader = (row for row in reader if row and any(cell.strip() for cell in row))
             
             line_for_company = next(
@@ -95,8 +95,6 @@ class FossilFuelCompanyYear:
                 self.investment_data[financial_institutions] = 0
             else:
                 share_value = safe_to_float(line_for_company[4], 0)
-                print("found, value = ", share_value)
-
                 assert share_value is not None
                 self.investment_data[financial_institutions] = share_value # Note that this is slightly different to the previous calculation from bay street report
 

@@ -29,9 +29,15 @@ def main(fi_data_dir: str, fossil_csv_dir: str, years: List[int], output_dir: st
 
 
 if __name__ == "__main__":
-    fi_data_dir = sys.argv[1]
-    fossil_csv_dir = sys.argv[2]
-    output_dir = sys.argv[3]
+    if len(sys.argv) < 4:
+        fi_data_dir = "data/13f_data"
+        fossil_csv_dir = "data/Bloomberg"
+        output_dir = "data/processed_fi_info"
+    else:
+        fi_data_dir = sys.argv[1]
+        fossil_csv_dir = sys.argv[2]
+        output_dir = sys.argv[3]
     years = [int(arg) for arg in sys.argv[4:]]
+
 
     main(fi_data_dir, fossil_csv_dir, years, output_dir)

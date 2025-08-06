@@ -1,16 +1,52 @@
 
 import csv
-from typing import Set, Callable, Tuple, Optional, Any
+from typing import Set, Callable, Tuple, Optional, Any, Dict
 import time
 import os
 from functools import cmp_to_key
-from yahoo import is_fossil_fuel_company
-
-from utilities import print_cond
-
+from utilities import print_cond, contains_which
+from datagen import generate_tables
 
 
-def filter_csv(source_path: str, destination_path: str, top_number: int = -1, filter_method : Callable[[str], Optional[Tuple[str,str]]] = is_fossil_fuel_company) -> Set[Tuple[str, str]]:
+urgewald_tickers = []
+with open("data/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as file:
+    reader = csv.reader(file)
+    found_ticker_index = False
+    while not found_ticker_index:
+        try:
+            bb_ticker_index = list(next(reader)).index("BB Ticker")
+            bb_industry_index
+            found_ticker_index = True
+        except ValueError:
+            pass
+        except StopIteration:
+            raise Exception("Make sure the Urgewald file has a column 'BB Ticker'")
+    tickers = [line[bb_ticker_index] for line in reader if line[bb_ticker_index] != "! - n.a." and line[bb_ticker_index] != "" and line[bb_ticker_index] != " "][5:]
+    urgewald_tickers.extend(tickers)
+
+with open("data/urgewald GCEL 2024 for FI.csv", encoding='iso-8859-1') as file:
+    reader = csv.reader(file)
+    found_ticker_index = False
+    while not found_ticker_index:
+        # This is done because the header is a bit inconsistent when a csv
+        try:
+            bb_ticker_index = list(next(reader)).index("BB Ticker")
+            found_ticker_index = True
+        except ValueError:
+            pass
+        except StopIteration:
+            raise Exception("Make sure the Urgewald file has a column 'BB Ticker'")
+    tickers = [line[bb_ticker_index] for line in reader if line[bb_ticker_index] != "! - n.a." and line[bb_ticker_index] != "" and line[bb_ticker_index] != " "][1:]
+    urgewald_tickers.extend(tickers)
+
+
+def is_urgewald(ticker: str) -> Optional[Tuple[str,str]]:
+    for urgewald_ticker in urgewald_tickers:
+        if urgewald_ticker.split(" ")[0] == ticker.split(".")[0]:
+            return ticker, urgewald_ticker
+    return None
+
+def filter_csv(source_path: str, destination_path: str, top_number: int = -1, filter_method : Callable[[str], Optional[Tuple[str,str]]] = is_urgewald) -> Set[Tuple[str, str]]:
     """
     Given a path to a csv file, filter the CSV to only include fossil fuel 
     companies and save it as a new csv
@@ -39,6 +75,8 @@ def filter_csv(source_path: str, destination_path: str, top_number: int = -1, fi
                     return bloomberg_codes
 
     return bloomberg_codes
+
+
 
 
 def reorder_csv(source_path: str, destination_path: str, column_index: int, comparison_function: Callable[[Any, Any], bool] = lambda a,b : float(a) >= float(b) ) -> None:
@@ -105,15 +143,9 @@ def reorder_bulk_csv(source_root: str, destination_root: str, column_index: int,
                 print_cond(verbose, f"Sorted to {destination_path}")
 
 
-def is_GOGEL(ticker : str) -> Optional[Tuple[str,str]]:
-    if ticker == "":
-        return None
-    with open("data/GOGEL_2024_with_identifiers.csv", 'r') as file:
-        file_content = file.read()
-        return (ticker, ticker+"_UN") if ticker in file_content else None # TODO: make this also give bloomberg country
 
 
-def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = -1, filter_method : Callable[[str], Optional[Tuple[str,str]]] = is_fossil_fuel_company, verbose = False) -> Set[Tuple[str, str]]:
+def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = -1, filter_method : Callable[[str], Optional[Tuple[str,str]]] = is_urgewald, verbose = False) -> Dict[str, Set[Tuple[str, str]]]:
     """
     Given a path to a source directory, filter all the csv to only include 
     fossil fuel companies and save the new ones to a new directory.
@@ -124,10 +156,16 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
 
     return a set containing all fossil fuel companies and bloomberg codes
     """
-    bloomberg_codes : Set[Tuple[str, str]] = set()
+    bloomberg_codes : Dict[str, Set[Tuple[str, str]]] = {}
     for root, _, files in os.walk(source_root):
         for file in files:
             if file.lower().endswith(".csv"):
+
+                year = contains_which(file, list(map(str, range(2018, 2025))))
+                if year is None:
+                    raise ValueError(f"Could not find year for: {file} Make sure that each 13F file has the year in it's name")
+                if year not in bloomberg_codes:
+                    bloomberg_codes[year] = set()
                 # Construct source file path
                 source_path = os.path.join(root, file)
 
@@ -142,14 +180,18 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
                 destination_path = os.path.join(dest_dir, dest_file)
 
                 print_cond(verbose, f"Filtering {source_path}...")
-                bloomberg_codes |= filter_csv(source_path, destination_path, top_number, filter_method)
+                bloomberg_codes[year] |= filter_csv(source_path, destination_path, top_number, filter_method)
                 print_cond(verbose, f"Filtered to {destination_path}")
     return bloomberg_codes
 
 
 if __name__ == "__main__":
-    # filter_csv("data/raw_data/test.csv", "./data/filtered_data/test.csv", top_number = 2)
-    # reorder_bulk_csv("./data/raw_data", "./data/sorted_by_value", 4)
-    fossil_fuel_country_codes = filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = -1, verbose = True)
+    reorder_bulk_csv("./data/13f_data", "./data/sorted_by_value", 4)
+    fossil_fuel_country_codes = filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = 20, filter_method = is_urgewald, verbose = True)
     print(f"found {len(fossil_fuel_country_codes)} tickers")
-    print(f"tickers are {"+".join(company[1] for company in list(fossil_fuel_country_codes))}")
+    for year in fossil_fuel_country_codes:
+        codes = fossil_fuel_country_codes[year]
+        print(f"for year: {year} found {len(codes)} tickers, the tickers are {"+".join(company[1].replace(" ", "_") for company in list(codes))}\n")
+        generate_tables([company[1] for company in list(codes)], [year])
+
+    
