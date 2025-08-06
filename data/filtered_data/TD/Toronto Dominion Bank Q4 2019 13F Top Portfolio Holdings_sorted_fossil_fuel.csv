@@ -1,5 +1,4 @@
 Sym,Issuer Name,Cl,CUSIP,Value ($000),%,Shares,Principal,Option Type
-MSFT,Microsoft Corp,COM,594918104,"1,818,563",3.1%,"5,932,918",,
 ENB.TO,Enbridge Inc,COM,29250N105,"443,139",0.7%,"11,139,348",,
 XOM,Exxon Mobil Corp,COM,30231G102,"409,868",0.7%,"2,981,282",,
 FTS.TO,Fortis Inc/Canada,COM,349553107,"359,425",0.6%,"8,657,676",,
@@ -18,4 +17,5 @@ SO,Southern Co/The,COM,842587107,"48,106",0.1%,"755,285",,
 DUK,Duke Energy Corp,COM,26441C204,"47,568",0.1%,"521,595",,
 EL,Estee Lauder Cos Inc/The,COM,518439104,"47,524",0.1%,"230,127",,
 SLB,Schlumberger Ltd,COM,806857108,"47,099",0.1%,"1,171,752",,
-D,Dominion Energy Inc,COM,25746U109,"44,792",0.1%,"540,900",,
+CSX,CSX Corp,COM,126408103,"40,191",0.1%,"555,515",,
+ECL,Ecolab Inc,COM,278865100,"39,758",0.1%,"206,033",,

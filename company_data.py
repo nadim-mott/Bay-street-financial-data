@@ -49,8 +49,8 @@ class FossilFuelCompanyYear:
                     self.ticker = line[0]
                     fields = [safe_to_float(val) for val in line]
 
-                    self.ghg_scope_1 = fields[1]
-                    self.ghg_scope_2_location_based = fields[2]
+                    self.ghg_scope_1 = fields[1] 
+                    self.ghg_scope_2_location_based = fields[2] 
                     self.ghg_scope_3 = fields[3]
                     self.scope_3_purch_goods_srvcs = fields[4]
                     self.scope_3_capital_goods = fields[5]
@@ -147,21 +147,21 @@ class FossilFuelCompanyYear:
         if self.historical_market_cap is None or self.ghg_scope_1 is None :
             return None
         
-        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_1
+        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_1 * 1000
         
     def get_financed_scope_2_emission(self, fi: str) -> Optional[float]:
         share_value = self.investment_data[fi]
         if self.historical_market_cap is None or self.ghg_scope_2_location_based is None :
             return None
         
-        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_2_location_based
+        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_2_location_based * 1000
 
     def get_financed_scope_3_emission(self, fi: str) -> Optional[float]:
         share_value = self.investment_data[fi]
         if self.historical_market_cap is None :
             return None
         
-        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.total_scope_3_emissions()
+        return (share_value / (self.historical_market_cap * (10 ** 6))) * self.total_scope_3_emissions() * 1000
         
     def get_total_financed_emission(self, fi: str) -> float:
         emissions = [

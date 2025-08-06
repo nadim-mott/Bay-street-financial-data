@@ -1,5 +1,4 @@
 Sym,Issuer Name,Cl,CUSIP,Value ($000),%,Shares,Principal,Option Type
-MSFT,Microsoft Corp,COM,594918104,"2,084,139",2.8%,"6,591,534",,
 ENB.TO,Enbridge Inc,COM,29250N105,"660,692",0.9%,"16,238,839",,
 TRP.TO,TransCanada Corp,COM,87807B107,"567,996",0.8%,"12,213,279",,
 CNQ.TO,Canadian Natural Resources Ltd,COM,136385101,"465,119",0.6%,"10,800,032",,
@@ -19,3 +18,4 @@ DVN,Devon Energy Corp,COM,25179M103,"64,657",0.1%,"1,467,831",,
 EL,Estee Lauder Cos Inc/The,COM,518439104,"58,047",0.1%,"156,802",,
 DUK,Duke Energy Corp,COM,26441C204,"57,716",0.1%,"550,205",,
 HUN,Huntsman Corp,COM,447011107,"55,488",0.1%,"1,590,833",,
+IMO.TO,Imperial Oil Ltd,COM,453038408,"54,857",0.1%,"1,521,099",,

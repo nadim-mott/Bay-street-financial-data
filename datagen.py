@@ -2,6 +2,7 @@ import xlsxwriter
 import os
 import datetime
 from typing import List
+from utilities import print_cond
 
 
 # Fields to include in columns (column label and Bloomberg field)
@@ -36,7 +37,7 @@ fields = [
     ("BS_TOT_ASSET", "AC"),
 ]
 directory = "data/Bloomberg_template"
-def generate_tables(tickers : List[str], years = List[int]):
+def generate_tables(tickers : List[str], years : List[int], verbose = False):
     
     os.makedirs(directory, exist_ok=True)
     for ticker in tickers:
@@ -58,10 +59,10 @@ def generate_tables(tickers : List[str], years = List[int]):
                         formula = f'=BDH("{ticker} Equity", "{field_name}", "FY {year}")'
                     worksheet.write(f'{col}{row}', formula)
 
-            print(f'\nA new .xlsx file containing the Bloomberg plugin functions for your desired company ({ticker}) from {years[0]}-{years[-1]} has been successfully created!')
+            print_cond(verbose, f'\nA new .xlsx file containing the Bloomberg plugin functions for your desired company ({ticker}) from {years[0]}-{years[-1]} has been successfully created!')
             workbook.close()
         except Exception as e:
-            print(f'\nProcess failed for {ticker}! Error: {e}')
+            print_cond(verbose, f'\nProcess failed for {ticker}! Error: {e}')
 
 
 
@@ -77,5 +78,5 @@ if __name__ == "__main__":
     )
     tickers = tickers_input.upper().replace("_", " ").split("+")
     years = list(range(2023, 2017, -1))
-    generate_tables(tickers, years)
+    generate_tables(tickers, years, True)
     print("\nTask fully completed!!\n")
