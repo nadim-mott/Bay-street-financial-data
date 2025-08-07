@@ -11,6 +11,8 @@ TODO: automate this process using EDGAR
 
 TODO: add support for "investment" pages
 
+TODO: add support for Sedar+ files
+
 On 13f.info, find the company you are interested in, then download the csv for the final quarter of each year you would like to analyze. Put each year's report in a directory for that company. Ensure that the year is in the name of each respective csv file.
 
 Place each company's directory in the directory data/13f_data.

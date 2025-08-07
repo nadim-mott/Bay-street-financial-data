@@ -1,5 +1,6 @@
 import xlsxwriter
 import os
+import traceback
 import datetime
 from typing import List
 from utilities import print_cond
@@ -36,10 +37,21 @@ fields = [
     ("CASH_AND_MARKETABLE_SECURITIES", "AB"),
     ("BS_TOT_ASSET", "AC"),
 ]
+
 directory = "data/Bloomberg_template"
-def generate_tables(tickers : List[str], years : List[int], verbose = False):
-    
+
+
+def col_index_to_excel_col(index: int) -> str:
+    """Convert 0-based column index to Excel-style column letters (e.g., 0 -> 'A', 27 -> 'AB')"""
+    result = ''
+    while index >= 0:
+        result = chr(index % 26 + ord('A')) + result
+        index = index // 26 - 1
+    return result
+
+def generate_tables(tickers: List[str], years: List[int], banks: List[str], financial_institutions: List[str], verbose=False):
     os.makedirs(directory, exist_ok=True)
+
     for ticker in tickers:
         try:
             sanitized_ticker = ticker.replace("/", "-")
@@ -49,34 +61,53 @@ def generate_tables(tickers : List[str], years : List[int], verbose = False):
             for i, year in enumerate(years):
                 row = i + 1  # Excel rows are 1-indexed
                 worksheet.write(f'A{row}', f'{ticker} {year}')
+                
+                # Write environmental + financial fields
                 for field in fields:
                     field_name = field[0]
                     col = field[1]
                     formula_type = field[2] if len(field) == 3 else "BDH"
                     if formula_type == "BDP":
-                        formula = f'=BDP("{ticker} Equity", "{field_name}")'
+                        formula = f'=BDP("{ticker}", "{field_name}")'
                     else:
-                        formula = f'=BDH("{ticker} Equity", "{field_name}", "FY {year}")'
+                        formula = f'=BDH("{ticker}", "{field_name}", "FY {year}")'
                     worksheet.write(f'{col}{row}', formula)
 
-            print_cond(verbose, f'\nA new .xlsx file containing the Bloomberg plugin functions for your desired company ({ticker}) from {years[0]}-{years[-1]} has been successfully created!')
+                # Offset to place financial institution data after existing fields
+                start_col_index = len(fields) + 1
+
+                # Add Bank Loan/Bond exposure
+                for j, bank_ticker in enumerate(banks):
+                    col_letter = col_index_to_excel_col(start_col_index + j)
+                    formula = f'=BDP("{bank_ticker} Equity", "BANK_LOAN_TO_{ticker}")'
+                    worksheet.write(f'{col_letter}{row}', formula)
+
+                # Add Financial Institution Shareholding
+                fi_offset = start_col_index + len(banks)
+                for k, fi_ticker in enumerate(financial_institutions):
+                    col_letter = col_index_to_excel_col(fi_offset + k)
+                    formula = f'=BDP("{fi_ticker} Equity", "HOLDINGS_VALUE_IN_{ticker}")'
+                    worksheet.write(f'{col_letter}{row}', formula)
+
+            print_cond(verbose, f'\nA new .xlsx file for {ticker} from {years[0]}–{years[-1]} has been successfully created.')
             workbook.close()
         except Exception as e:
-            print_cond(verbose, f'\nProcess failed for {ticker}! Error: {e}')
+            print(f'\nProcess failed for {ticker}! Error: {e}')
+            traceback.print_exc()
 
 
 
 
 
-if __name__ == "__main__":
-    print("\nWelcome to the GHG Emissions DataGen Tool!\nThis can be used to generate .xlsx files that when accessed through a Microsoft Excel session with a Bloomberg Terminal plugin, will output the company's most recent GHG emissions data.\n")
+# if __name__ == "__main__":
+#     print("\nWelcome to the GHG Emissions DataGen Tool!\nThis can be used to generate .xlsx files that when accessed through a Microsoft Excel session with a Bloomberg Terminal plugin, will output the company's most recent GHG emissions data.\n")
 
-    tickers_input = input(
-        "Enter the ticker, then an underscore, then the Bloomberg exchange country code for your desired company. "
-        "For example for Microsoft you would enter MSFT_US. "
-        "If you want to generate the template sheets for multiple companies use a '+' to separate them like this: XOM_US+CNQ_CN+SU_CN.\n\n"
-    )
-    tickers = tickers_input.upper().replace("_", " ").split("+")
-    years = list(range(2023, 2017, -1))
-    generate_tables(tickers, years, True)
-    print("\nTask fully completed!!\n")
+#     tickers_input = input(
+#         "Enter the ticker, then an underscore, then the Bloomberg exchange country code for your desired company. "
+#         "For example for Microsoft you would enter MSFT_US. "
+#         "If you want to generate the template sheets for multiple companies use a '+' to separate them like this: XOM_US+CNQ_CN+SU_CN.\n\n"
+#     )
+#     tickers = tickers_input.upper().replace("_", " ").split("+")
+#     years = list(range(2023, 2017, -1))
+#     generate_tables(tickers, years, True)
+#     print("\nTask fully completed!!\n")
