@@ -1,35 +1,18 @@
 import sys
 
 from company_data import FossilFuelCompanyYear
-from functools import partial
-from extract_13F_data import get_share_value_from_13F
+
 from generate_bloomberg_template import urgewald_tickers
-
-HOLDINGS_DATA_COLLECTION = partial(get_share_value_from_13F, aggregation_method=sum)
-FINANCIAL_INSTITUTIONS = [
-    "BMO", 
-    "Brookfield Asset Management", 
-    "CIBC", 
-    "Fairfax", 
-    "Healthcare of Ontario Pension Plan Trust Fund",
-    "Intact Financial",
-    "Investment Management of Ontario",
-    "Manulife",
-    "National Bank of Canada",
-    "OMERS",
-    "OPSEU",
-    "OTPP",
-    "Power Corp of Canada",
-    "RBC",
-    "Scotiabank",
-    "TD"
-]
-
 
 import os
 from typing import List
 
-def main(fi_data_dir: str, fossil_csv_dir: str, years: List[int], output_dir: str):
+
+YEARS_OF_INTEREST = (str(i) for i in range(2018,2024))
+
+
+
+def main(fossil_csv_dir: str, years: List[int], output_dir: str):
     os.makedirs(output_dir, exist_ok=True)
 
     for year in years:
@@ -42,9 +25,11 @@ def main(fi_data_dir: str, fossil_csv_dir: str, years: List[int], output_dir: st
 
             company_csv_path = os.path.join(fossil_csv_dir, filename)
             try:
-                company = FossilFuelCompanyYear(company_csv_path, fi_data_dir, year)
+                print(f"Creating company from file {company_csv_path}, {year}")
+                company = FossilFuelCompanyYear(company_csv_path, year)
                 output_path = os.path.join(year_dir, f"{company.ticker}_{year}.csv")
                 company.export_with_financed_data_to_csv(output_path)
+                print("success!")
             except StopIteration:
                 print(f"[WARN] Skipping {filename}: no data for year {year}")
             except Exception as e:
@@ -52,15 +37,13 @@ def main(fi_data_dir: str, fossil_csv_dir: str, years: List[int], output_dir: st
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 4:
-        fi_data_dir = "data/13f_data"
+    if len(sys.argv) < 3:
         fossil_csv_dir = "data/Bloomberg"
         output_dir = "data/processed_fi_info"
     else:
-        fi_data_dir = sys.argv[1]
-        fossil_csv_dir = sys.argv[2]
-        output_dir = sys.argv[3]
-    years = [int(arg) for arg in sys.argv[4:]]
+        fossil_csv_dir = sys.argv[1]
+        output_dir = sys.argv[2]
+    years = YEARS_OF_INTEREST
 
 
-    main(fi_data_dir, fossil_csv_dir, years, output_dir)
+    main(fossil_csv_dir, years, output_dir)

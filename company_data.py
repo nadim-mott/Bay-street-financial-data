@@ -2,7 +2,28 @@ from typing import Optional, Dict, Any
 import os
 import csv
 from utilities import safe_to_float
+from functools import partial
+from extract_13F_data import get_share_value_from_13F
 
+HOLDINGS_DATA_COLLECTION = partial(get_share_value_from_13F, aggregation_method=sum)
+FINANCIAL_INSTITUTIONS = [
+    "BMO", 
+    "Brookfield Asset Management", 
+    "CIBC", 
+    "Fairfax", 
+    "Healthcare of Ontario Pension Plan Trust Fund",
+    "Intact Financial",
+    "Investment Management of Ontario",
+    "Manulife",
+    "National Bank of Canada",
+    "OMERS",
+    "OPSEU",
+    "OTPP",
+    "Power Corp of Canada",
+    "RBC",
+    "Scotiabank",
+    "TD"
+]
 class FossilFuelCompanyYear:
     year : int
     ticker : str
@@ -35,7 +56,6 @@ class FossilFuelCompanyYear:
     cash_and_marketable_securities : Optional[float] = None
     bs_tot_asset : Optional[float] = None
 
-
     investment_data : Dict[str, float] = {}
 
     
@@ -48,7 +68,6 @@ class FossilFuelCompanyYear:
                     
                     self.ticker = line[0]
                     fields = [safe_to_float(val) for val in line]
-
                     self.ghg_scope_1 = fields[1] 
                     self.ghg_scope_2_location_based = fields[2] 
                     self.ghg_scope_3 = fields[3]
@@ -77,47 +96,14 @@ class FossilFuelCompanyYear:
                     self.short_and_long_term_debt = safe_to_float(line[26]) if len(line) > 26 else None
                     self.cash_and_marketable_securities = safe_to_float(line[27]) if len(line) > 27 else None
                     self.bs_tot_asset = safe_to_float(line[28]) if len(line) > 28 else None
-                    break
+                    return
+            print(path_to_csv)
             
-
-    def _add_financial_data_from_csv(self, path_to_csv: str, financial_institutions: str):
-        with open(path_to_csv, mode='r', newline='') as source_file:
-            reader : Any = csv.reader(source_file)
-            reader = (row for row in reader if row and any(cell.strip() for cell in row))
-            
-            line_for_company = next(
-                (line for line in reader if line and len(line) > 1 and line[0].split('.')[0] in self.ticker),
-                None
-            ) # find the line corresponding to that company
-            
-
-            if line_for_company is None:
-                self.investment_data[financial_institutions] = 0
-            else:
-                share_value = safe_to_float(line_for_company[4], 0)
-                assert share_value is not None
-                self.investment_data[financial_institutions] = share_value # Note that this is slightly different to the previous calculation from bay street report
-
-
-    def _add_financial_data_from_all_csv(self, raw_fi_csv_dir: str):
-        for institution in os.listdir(raw_fi_csv_dir):
-            institution_dir = os.path.join(raw_fi_csv_dir, institution)
-            if not os.path.isdir(institution_dir):
-                continue
-
-            # Find the file in the subdirectory that contains the year
-            matching_file = None
-            for file in os.listdir(institution_dir):
-                if file.endswith('.csv') and str(self.year) in file:
-                    matching_file = os.path.join(institution_dir, file)
-                    break
-
-            if matching_file:
-                self._add_financial_data_from_csv(matching_file, institution)
-    
-    def __init__(self, path_to_csv: str, path_to_fi_dir: str, year: int):
+    def __init__(self, path_to_csv: str, year: int):
         self._read_from_csv(path_to_csv, year)
-        self._add_financial_data_from_all_csv(path_to_fi_dir)
+        for financial_institution in FINANCIAL_INSTITUTIONS:
+            if self.ticker is not None:
+                self.investment_data[financial_institution] = HOLDINGS_DATA_COLLECTION(self.ticker, financial_institution, year)
 
 
             

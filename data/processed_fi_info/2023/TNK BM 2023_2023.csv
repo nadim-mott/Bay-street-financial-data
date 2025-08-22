@@ -2,19 +2,19 @@ year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goo
 2023,TNK BM 2023,,,,,,,,,,,,,,,,,,,,,,,#N/A Invalid Security,,,,,
 
 Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
-RBC,,,,0
 BMO,,,,0
-TD,,,,0
-CIBC,,,,0
-Scotiabank,,,,0
-National Bank of Canada,,,,0
-Power Corp of Canada,,,,0
 Brookfield Asset Management,,,,0
+CIBC,,,,0
 Fairfax,,,,0
+Healthcare of Ontario Pension Plan Trust Fund,,,,0
 Intact Financial,,,,0
+Investment Management of Ontario,,,,0
+Manulife,,,,0
+National Bank of Canada,,,,0
 OMERS,,,,0
-HOOPP,,,,0
-OTPP,,,,0
 OPSEU,,,,0
-IMCO,,,,0
-CPP,,,,0
+OTPP,,,,0
+Power Corp of Canada,,,,0
+RBC,,,,0
+Scotiabank,,,,0
+TD,,,,0
