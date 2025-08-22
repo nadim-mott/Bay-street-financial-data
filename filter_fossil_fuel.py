@@ -195,11 +195,11 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
 
 if __name__ == "__main__":
     reorder_bulk_csv("./data/13f_data", "./data/sorted_by_value", 4)
-    fossil_fuel_country_codes = filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = 20, filter_method = is_urgewald, verbose = True)
+    fossil_fuel_country_codes = filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = -1, filter_method = is_urgewald, verbose = True)
     print(f"found {len(fossil_fuel_country_codes)} tickers")
     for year in fossil_fuel_country_codes:
         codes = fossil_fuel_country_codes[year]
         print(f"for year: {year} found {len(codes)} tickers, the tickers are {"+".join(company[1].replace(" ", "_") for company in list(codes))}\n")
-        generate_tables([company[1] for company in list(codes)], [year])
+        generate_tables([company[1] for company in list(codes)], [int(year)])
 
     

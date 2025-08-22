@@ -1,5 +1,6 @@
 import csv
-from datagen import generate_tables
+from datagen import generate_table, generate_tables_with_fi, generate_tables_alphabetical
+from typing import List
 
 urgewald_tickers = []
 with open("data/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as file:
@@ -52,4 +53,5 @@ all_fi_tickers.extend(bank_tickers)
 all_fi_tickers.extend(asset_managements)
 all_fi_tickers.extend(pension_tickers)
 
-generate_tables(urgewald_tickers, list(range(2018, 2025)), bank_tickers, all_fi_tickers, verbose=True)
+all_tickers : List[str] = []
+generate_tables_alphabetical(urgewald_tickers, list(range(2018, 2025)), True)

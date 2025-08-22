@@ -1,6 +1,29 @@
 import sys
 
 from company_data import FossilFuelCompanyYear
+from functools import partial
+from extract_13F_data import get_share_value_from_13F
+from generate_bloomberg_template import urgewald_tickers
+
+HOLDINGS_DATA_COLLECTION = partial(get_share_value_from_13F, aggregation_method=sum)
+FINANCIAL_INSTITUTIONS = [
+    "BMO", 
+    "Brookfield Asset Management", 
+    "CIBC", 
+    "Fairfax", 
+    "Healthcare of Ontario Pension Plan Trust Fund",
+    "Intact Financial",
+    "Investment Management of Ontario",
+    "Manulife",
+    "National Bank of Canada",
+    "OMERS",
+    "OPSEU",
+    "OTPP",
+    "Power Corp of Canada",
+    "RBC",
+    "Scotiabank",
+    "TD"
+]
 
 
 import os
