@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ENPL LI Equity 2021,50200.0,1900.0,,,,,,,,,,,,,,,,,,20394.5321,14126.0,7474.5321,EN+ GROUP INTERNA- GDR REG S,502.3378,11.7,10843.0,2459.0,26057.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,258349.73670124446,9778.17728550527,0.0,268127.9139867497
+BMO,98767.54693447633,3738.2139277989054,0.0,102505.76086227523
+TD,46918.95028452684,1775.816843438267,0.0,48694.76712796511
+Scotiabank,15635.172668533995,591.7694834704101,0.0,16226.942152004405
+CIBC,29725.63326070939,1125.0737688316303,0.0,30850.70702954102
+National Bank of Canada,14016.583058088678,530.5081237125197,0.0,14547.091181801197
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,373806.89019985613,14148.069549396945,0.0,387954.95974925306
+Healthcare of Ontario Pension Plan Trust Fund,235091.74574285393,8897.894759191682,0.0,243989.64050204563
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,9792.131336221033,370.61851670956105,0.0,10162.749852930594

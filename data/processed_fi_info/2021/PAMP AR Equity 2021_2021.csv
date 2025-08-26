@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,PAMP AR Equity 2021,7588.33,85.002,,,,,,,,,,,,,,,,,,320287.9942,144641.0,229775.9942,PAMPA ENERGIA SA,1405.0,166.2,148749.0,58846.0,396653.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,16518.065907252203,185.0299918754524,0.0,16703.095899127657
+BMO,8472.373829250086,94.90477090926672,0.0,8567.278600159352
+TD,6813.565959015226,76.32334567002387,0.0,6889.88930468525
+Scotiabank,1931.1312232372445,21.63190270291517,0.0,1952.7631259401596
+CIBC,1514.654167123608,16.966662429525456,0.0,1531.6208295531335
+National Bank of Canada,1101.1163274078872,12.334346300480505,0.0,1113.4506737083677
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,28.764690815556047,0.32221269353123744,0.0,29.086903509087286
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,3104.572088975864,34.776404914800274,0.0,3139.3484938906645
+Healthcare of Ontario Pension Plan Trust Fund,1506.166766963335,16.871589338552408,0.0,1523.0383563018875
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

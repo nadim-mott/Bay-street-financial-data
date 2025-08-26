@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,EQT US Equity 2023,668.626,35.373,105263.0,,,,,,,,,,,105263.0,,,,,,22013.5324,6908.923,16233.1794,EQT CORP,380.902,38.66,5853.713,80.977,25285.098
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,147181.27290135165,7786.480283954725,23171013.884316463,23325981.63750177
+BMO,69996.45616421882,3703.0935738318763,11019668.641683342,11093368.191421393
+TD,35914.94773402184,1900.0449372228338,5654155.152994859,5691970.145666104
+Scotiabank,21294.96523693935,1126.5891624409694,3352504.8767710906,3374926.431170471
+CIBC,20092.456745596,1062.9716350575168,3163191.790943923,3184347.2193245767
+National Bank of Canada,17287.99029042949,914.6040993670039,2721679.566665788,2739882.161055585
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,189.79822326118074,10.041088069290973,29880.277427353507,30080.116738683977
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2620.887748335979,138.6554850123815,412611.09656682535,415370.6398001737
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4813.246695715074,254.64007586831693,757758.129254704,762826.0160262873
+Healthcare of Ontario Pension Plan Trust Fund,406.90465442647667,21.526889981884874,64059.735396012446,64488.16694042081
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,333.91801128003306,17.665603510794686,52569.31621170897,52920.89982649979

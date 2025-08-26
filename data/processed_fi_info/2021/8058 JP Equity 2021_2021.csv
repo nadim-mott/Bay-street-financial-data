@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,8058 JP Equity 2021,23311.9,2187.0,24192.301,2008.1,1079.0,303.1,26.5,1834.1,11.176,20.3,,0.0,,1653.1,11.2,100.2,,17145.4,,11248361.93,12884521.0,4620208.925,MITSUBISHI CORP,4429.716,1043.3,7184516.0,1481106.0,18634971.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,776.9323275570273,72.88770972624361,806.2699140074061,1656.089951290677
+BMO,93.01128402975847,8.725830077045703,96.52346454960367,198.26057865640786
+TD,53.60485415710936,5.028925829366038,55.62901634886565,114.26279633534105
+Scotiabank,101.78060222677053,9.548521444839208,105.62391921962708,216.9530428912368
+CIBC,28.22025125194961,2.647475730764708,29.2858705232686,60.153597505982916
+National Bank of Canada,25.29378142786043,2.372929704688625,26.248894856632482,53.915605989181536
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,7.729916845697622,0.7251801930147562,8.02180469187332,16.4769017305857
+Intact Financial,4.425024199527947,0.41513252563573194,4.5921166545515035,9.432273379715182
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4.238335607301568,0.39761838259294735,4.3983785516798894,9.034332541574406
+Healthcare of Ontario Pension Plan Trust Fund,46.95974940137583,4.405517008086383,48.73298711962468,100.09825352908689
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

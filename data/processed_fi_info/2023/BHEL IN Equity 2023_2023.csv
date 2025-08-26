@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,BHEL IN Equity 2023,115.744,176.528,,,,,,,,,,,,,,,,,,231472.938,221363.0,243918.538,BHARAT HEAVY ELECTRICALS,3482.1,70.05,54535.1,66980.7,569200.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,120.39403168282355,183.6200375389262,0.0,304.01406922174976
+BMO,41.97975387996135,64.0257982523657,0.0,106.00555213232705
+TD,15.331236923041903,23.38257353772758,0.0,38.71381046076948
+Scotiabank,116.18694552851085,177.20356234670444,0.0,293.3905078752153
+CIBC,3.5418104055707316,5.401823915490998,0.0,8.94363432106173
+National Bank of Canada,7.194658275624792,10.972997616113952,0.0,18.167655891738743
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.0686169658822733,1.6298107526374235,0.0,2.6984277185196968
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,88.7820451596836,135.4067326854837,0.0,224.1887778451673
+Healthcare of Ontario Pension Plan Trust Fund,20.68808280574394,31.55261509479858,0.0,52.240697900542514
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.5252926204403537,0.8011547527396216,0.0,1.3264473731799753

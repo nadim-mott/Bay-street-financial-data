@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,DUK US Equity 2022,79000.0,424.0,38387.898,3800.0,,26200.0,,30.0,7.9,170.0,,,280.0,7900.0,,,,,,160219.3,28768.0,79302.3,DUKE ENERGY CORP,770.0,102.99,76833.0,409.0,178086.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1509986.9108462175,8104.233546820205,733737.0447452343,2251828.189138272
+BMO,363637.5111440652,1951.674743355489,176699.75207654762,542288.9379639683
+TD,145401.6087805776,780.383318012214,70653.95465453083,216835.94675312063
+Scotiabank,97991.02926396838,525.9265368091467,47616.07382635812,146133.02962713563
+CIBC,45998.98111404082,246.88060749814318,22351.953001363137,68597.8147229021
+National Bank of Canada,64532.0627522783,346.3492988223545,31357.59964212892,96236.01169322958
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1951.532301080801,10.474046780484297,948.2940103880973,2910.3003582493825
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,13176.578737312788,70.71986562810915,6402.799834304932,19650.09843724583
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,851485.7198341031,4569.999306451389,413756.31220784265,1269812.0313483973
+Healthcare of Ontario Pension Plan Trust Fund,54045.191627481174,290.06533227913945,26261.79002122259,80597.04698098291
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,146.43963668140773,0.7859545057331251,71.1583560628128,218.38394724995365

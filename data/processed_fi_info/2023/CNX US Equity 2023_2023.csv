@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,CNX US Equity 2023,559.769,310.903,29897.9,,,,,,,,,,,29897.9004,,,,,,5452.2726,3465.745,3087.6576,CNX RESOURCES CORP,162.4902,20.0,2365.058,0.443,8626.657
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,168284.5320935197,93467.42295745487,8988268.69546662,9250020.650517596
+BMO,176129.6001272939,97824.6760152421,9407282.722154425,9681236.998296961
+TD,32615.78015742419,18115.229493386832,1742045.9986440206,1792777.0082948317
+Scotiabank,47839.81334523621,26570.855993229306,2555178.965877823,2629589.6352162887
+CIBC,10176.67018713474,5652.25528957615,543547.5556141975,559376.4810909084
+National Bank of Canada,17209.18547607092,9558.205960077958,919162.2139287724,945929.6053649213
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,157.7244283822144,87.60220368994283,8424.241518230518,8669.568150302675
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,274.11417898150364,152.24658848183168,14640.75077651097,15067.111543974304
+CPPIB,17623.257423685838,9788.186917811094,941278.2686731844,968689.7130146814
+Healthcare of Ontario Pension Plan Trust Fund,29814.267982952515,16559.233109914778,1592414.0398150363,1638787.5409079036
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5033.947359642469,2795.919988343267,268868.86693874345,276698.7342867292

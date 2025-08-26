@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ALE US Equity 2021,269.949,4202.08,,,,,,,,,,,,,,,,,,6011.72,1419.2,3529.82,ALLETE INC,52.4,66.35,1993.8,45.1,6435.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,24564.47034069726,382375.4469519692,0.0,406939.91729266645
+BMO,7681.396646004613,119570.15294830897,0.0,127251.54959431358
+TD,15563.391687111525,242262.86054246392,0.0,257826.25222957545
+Scotiabank,3018.000177629454,46978.7929809452,0.0,49996.793158574656
+CIBC,2359.076894289227,36721.861670000166,0.0,39080.93856428939
+National Bank of Canada,1653.5792980945203,25739.94531165895,0.0,27393.52460975347
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2956.5129074570377,46021.6698641857,0.0,48978.182771642736
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,6805.355999456064,105933.52943776171,0.0,112738.88543721777
+Healthcare of Ontario Pension Plan Trust Fund,1822.3633842518882,28367.27207619652,0.0,30189.635460448408
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

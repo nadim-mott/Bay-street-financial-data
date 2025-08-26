@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,STO AU Equity 2022,5880.0,570.0,30000.0,,,,,,,,,,,30000.0,,,,,,19298.6769,7790.0,16131.6769,SANTOS LTD,3350.6185,7.14,5519.0,2352.0,28856.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1421740.0870457555,137821.7431319865,7253775.954315078,8813337.78449282
+BMO,558865.2448153112,54175.712507606695,2851353.289874037,3464394.2471969547
+TD,404086.0525789479,39171.607137755156,2061663.5335660607,2504921.193282764
+Scotiabank,196564.40552686743,19054.71278066572,1002879.620035038,1218498.738342571
+CIBC,179128.53684789586,17364.501020969496,913921.1063668155,1110414.1442356808
+National Bank of Canada,162432.60364333232,15746.01770011895,828737.7736904711,1006916.3950339224
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,3235.668574542303,313.6617495729783,16508.513135419915,20057.843459535197
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,18290.621726994792,1773.0704735352094,93319.49860711629,113383.19080764629
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,70356.19960873379,6820.243839622153,358960.20208537654,436136.6455337325
+Healthcare of Ontario Pension Plan Trust Fund,10835.498447157717,1050.3799515101869,55283.15534264141,67169.03374130931
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

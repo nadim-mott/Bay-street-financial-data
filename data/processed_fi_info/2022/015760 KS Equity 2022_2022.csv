@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,015760 KS Equity 2022,162075.0,3779.38,254458.0,139.0,148.0,248797.0,861.0,70.0,11.112,5.0,,,,,,,,,4427.0,132752255.9,71271874.0,13994816.88,KOREA ELECTRIC POWER CORP,641.9641,21800.0,124768508.0,7067077.0,234804994.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1485.2263254479967,34.63356267081074,2331.808648256639,3851.6685363754464
+BMO,1034.4446286173913,24.12191479564397,1624.0803773964064,2682.646920809442
+TD,1025.4808778891288,23.912891687654582,1610.0072687321938,2659.401038308977
+Scotiabank,794.7511546860625,18.53257207464082,1247.7610879607305,2061.044814721434
+CIBC,358.8048127429303,8.36686554486735,563.3243574090982,930.4960356968959
+National Bank of Canada,535.798355869591,12.494126732725066,841.2046154390267,1389.4970980413427
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,339.9276632764344,7.926674761892275,533.6871905839471,881.5415286222737
+Healthcare of Ontario Pension Plan Trust Fund,503.60297211691704,11.743371900411748,790.6577910378488,1306.0041350551776
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.702417773972331,0.0396981871762798,2.6727997075442977,4.414915668692909

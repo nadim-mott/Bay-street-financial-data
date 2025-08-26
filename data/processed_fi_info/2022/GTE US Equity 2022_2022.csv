@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,GTE US Equity 2022,258.406,19.982,,,,,,,,,,,,,,,,,,805.4096,711.388,342.6896,GRAN TIERRA ENERGY INC,36.4455,9.9,589.593,126.873,1335.61
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2802457.776273339,216708.24704338855,0.0,3019166.0233167275
+BMO,1055179.801400451,81594.8654117312,0.0,1136774.6668121822
+TD,687914.689386547,53195.01607285427,0.0,741109.7054594012
+Scotiabank,368617.8824627301,28504.456271798146,0.0,397122.3387345283
+CIBC,358944.8951062419,27756.46422301698,0.0,386701.3593292589
+National Bank of Canada,319059.28033999284,24672.192363001384,0.0,343731.47270299424
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,6693.7253479533665,517.6118971804221,0.0,7211.337245133789
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,37838.36182948067,2925.962036781974,0.0,40764.323866262646
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,45088.57803096446,3486.606217404905,0.0,48575.18424836937
+Healthcare of Ontario Pension Plan Trust Fund,22669.838781217757,1753.011611674238,0.0,24422.850392891996
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

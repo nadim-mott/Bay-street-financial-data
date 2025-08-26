@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,GERL SP Equity 2023,1.152,0.351,148.282,147.905,,0.365,,0.012,,,,,,,,,,,,563.6591,488.9747,368.9569,GEO ENERGY RESOURCES LTD,1393.4463,0.35,250.0054,135.8041,937.3677
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1378.7897285563704,420.09999541951913,177473.6966404477,179272.5863644236
+BMO,530.9061085454696,161.76045494744778,68336.64894734317,69029.3155108361
+TD,290.34103441350464,88.46328392286469,37371.83095911745,37750.63527745382
+Scotiabank,403.0316603375624,122.79870900910106,51877.031821331984,52402.86219067865
+CIBC,69.1187073612121,21.05960614911931,8896.753615395186,8986.931928905517
+National Bank of Canada,251.15596970811492,76.52408452044128,32328.0464411968,32655.726495425355
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,3.0348910672222145,0.9246933720442685,390.64211565090665,394.60170009017315
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,10.200606087052442,3.1079971671487914,1312.991555382214,1326.3001586364153
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,932.9105269477275,284.24617617938577,120081.4572542213,121298.61395734841
+Healthcare of Ontario Pension Plan Trust Fund,34.2393162995461,10.432291685017951,4407.182551674735,4451.854159659299
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,44.98632767133505,13.706771712359899,5790.505763681341,5849.198863065036

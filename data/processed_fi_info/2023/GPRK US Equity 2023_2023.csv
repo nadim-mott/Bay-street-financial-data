@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,GPRK US Equity 2023,182.345,68.224,4873.74,177.201,,11.95,3.988,16.396,3.1,,,5.485,528.675,4126.9399,,,,,,874.3998,756.6,474.1568,GEOPARK LTD,56.118,8.57,533.279,133.036,1016.549
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,83420.63162439092,31211.654676258993,2229674.757892115,2344307.044192765
+BMO,57525.82093096629,21523.1654676259,1537555.73842113,1616604.7248197221
+TD,36585.7698866704,13688.489208633095,977868.0168912478,1028142.2759865513
+Scotiabank,40233.38671932998,15053.237410071943,1075361.8744643123,1130648.4985937143
+CIBC,19244.880248474765,7200.431654676259,514379.03157921595,540824.343482367
+National Bank of Canada,25034.919155435502,9366.762589928057,669135.7547863914,703537.4365317549
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,1488.2738157504014,556.8345323741007,39778.72733872002,41823.83568684452
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,13312.551596855725,4980.863309352519,355819.1742337135,374112.5891399217
+Healthcare of Ontario Pension Plan Trust Fund,1191.7727532326858,445.8992805755396,31853.81809371921,33491.49012752743
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,477.63206179896605,178.70503597122303,12766.19621568224,13422.533313452428

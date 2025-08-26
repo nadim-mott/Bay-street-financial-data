@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ARAMCO AB Equity 2021,52300.0,15500.0,,,,,,,,,,,,,,,,,,7481808.24,1501758.0,7155804.24,SAUDI ARABIAN OIL CO,241885.05,29.587,510921.0,352328.0,2162690.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,8833.387146991041,2617.9254450929475,0.0,11451.312592083988
+BMO,10233.612511456853,3032.9061936440003,0.0,13266.518705100854
+TD,1946.927337967535,577.0052340056749,0.0,2523.93257197321
+Scotiabank,1403.4046716739138,415.92299064905666,0.0,1819.3276623229704
+CIBC,3978.358468900765,1179.0546131541464,0.0,5157.413082054911
+National Bank of Canada,1903.5645111499027,564.1539182184224,0.0,2467.718429368325
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,21.882404094385905,6.485224922810353,0.0,28.367629017196258
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,113.06639657319639,33.50916150830867,0.0,146.57555808150505
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4480.6378465154885,1327.9137021221811,0.0,5808.55154863767
+Healthcare of Ontario Pension Plan Trust Fund,1525.6654785178976,452.1570729833157,0.0,1977.8225515012132
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,109.90170686949928,32.57125155788219,0.0,142.47295842738146

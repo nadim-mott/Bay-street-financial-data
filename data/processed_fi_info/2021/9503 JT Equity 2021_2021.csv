@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,9503 JT Equity 2021,28572.0,6.0,24099.0,2666.0,1667.0,15498.0,0.1,10.5,2.476,6.0,,,,,,,,,,5054372.371,3092398.0,1069953.371,KANSAI ELECTRIC POWER CO INC,893.1306,1198.0,4187212.0,243822.0,8075755.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,108746.16611680361,22.836238159765564,75550.17717090776,184319.17952587112
+BMO,34052.285110282624,7.150836856422223,23657.442510597037,57716.878457736086
+TD,30460.494671407505,6.3965759494765875,21162.08645614707,51628.97770350405
+Scotiabank,19539.45321230265,4.1032031105213465,13574.815597880854,33118.37201329403
+CIBC,17086.453465643597,3.588083466115833,11870.621582790454,28960.663131900168
+National Bank of Canada,6737.464397408773,1.4148392266713088,4680.7776962011185,11419.656932836562
+Sun Life Financial,3.231180062331894,0.0006785342424048496,2.2448260467231145,5.476684643297413
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,40.91047814456579,0.008591028589787022,28.422095070907538,69.34116424406312
+Intact Financial,3817.5724837264893,0.8016741880988006,2652.215593499915,6470.589751414504
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,11925.164043433813,2.5042343644338123,8284.873742637146,20212.542020435394
+Healthcare of Ontario Pension Plan Trust Fund,2079.8652093783626,0.4367629587102819,1444.9629873973265,3525.2649597343993
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

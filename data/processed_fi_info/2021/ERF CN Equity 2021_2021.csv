@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ERF CN Equity 2021,941.897,119.478,0.073,,,,,,0.012,,,,,,,,,,,3242.6008,,2573.2948,ENERPLUS CORP,251.909,13.34,730.654,61.348,1990.084
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,435029.69611254806,55182.76205586705,5.5423855828722,490218.000553998
+BMO,526338.216934181,66765.08947672843,6.705678649799472,593110.0120895592
+TD,72270.69166812912,9167.411828601991,0.9207464298299596,81439.02424316094
+Scotiabank,75185.73572293388,9537.180108551885,0.9578848097777215,84723.87371629555
+CIBC,181314.34930385745,22999.41057899779,2.309989512278189,204316.06987236752
+National Bank of Canada,115734.27670626777,14680.692169431966,1.47448321894561,130416.44335891868
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1931.8938374258557,245.05738091104058,0.02461280378758003,2176.975831140684
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,14719.43516071303,1867.134807873548,0.1875292329506903,16586.75749781953
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,92510.18953483293,11734.757011905514,1.1786026225988566,104246.12514936105
+Healthcare of Ontario Pension Plan Trust Fund,59344.791900251774,7527.783873033124,0.7560672799711871,66873.33184056488
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5503.957490218378,698.1674567562177,0.07012177539860572,6202.195068749994

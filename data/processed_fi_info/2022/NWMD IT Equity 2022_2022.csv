@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,NWMD IT Equity 2022,52.748,0.125,,,,,,,,,,,,,,,,,,4357.026,,2619.526,NEWMED ENERGY LP,1173.815,785.0,2155.8,418.3,3939.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,89422.54814344273,211.90980734682535,0.0,89634.45795078955
+BMO,38891.63361768503,92.16376359692555,0.0,38983.797381281955
+TD,19668.214023453096,46.60890939811249,0.0,19714.82293285121
+Scotiabank,10436.87202799285,24.732861975792567,0.0,10461.604889968641
+CIBC,10163.64030133696,24.085368879713354,0.0,10187.725670216674
+National Bank of Canada,9062.94071828262,21.476977132504125,0.0,9084.417695415124
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,421.9395386798986,0.9998946374267712,0.0,422.9394333173254
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1145.523359569632,2.714613254459013,0.0,1148.237972824091
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,15522.135514593096,36.783706288847675,0.0,15558.919220881944
+Healthcare of Ontario Pension Plan Trust Fund,788.0406531563343,1.867465717080113,0.0,789.9081188734144
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,757.4130861842943,1.7948857923150983,0.0,759.2079719766094

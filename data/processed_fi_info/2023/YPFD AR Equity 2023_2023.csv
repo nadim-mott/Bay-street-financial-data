@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,YPFD AR Equity 2023,9413.83,,76994.5,3884.71,,,,1553.88,,,,,,69147.797,776.492,,77.694,1553.88,,12673036.24,17311.0,6563682.245,YPF S.A.-D,391.7229,16688.2,7145669.0,1118630.0,20202123.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1031.5527182471035,,8436.931332103813,9468.484050350917
+BMO,394.27413026603637,,3224.7152319389897,3618.9893622050263
+TD,364.3489212723155,,2979.9609611074343,3344.30988237975
+Scotiabank,43.00825507283527,,351.7587500323914,394.76700510522664
+CIBC,86.04376051571035,,703.740377186556,789.7841377022663
+National Bank of Canada,112.45080331429115,,919.7200385596973,1032.1708418739884
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,1.6608383424264925,,13.583774053340086,15.244612395766579
+OMERS,0.0,,0.0,0.0
+CPPIB,898.8003892531516,,7351.167837823022,8249.968227076173
+Healthcare of Ontario Pension Plan Trust Fund,12.918109628873419,,105.65548609536627,118.5735957242397
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,4.271136946240151,,34.93305624425456,39.204193190494706

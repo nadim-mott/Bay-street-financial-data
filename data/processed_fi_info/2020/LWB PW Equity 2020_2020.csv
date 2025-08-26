@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,LWB PW Equity 2020,50.166,233.622,,,,,,,,,,,,,,,,,,458.8278,1822.112,653.0688,LUBELSKI WEGIEL BOGDANKA SA,34.014,19.2,36.927,241.61,4375.263
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6758.407402099136,31473.760198006705,0.0,38232.16760010584
+BMO,11378.723926177456,52990.4764398483,0.0,64369.20036602576
+TD,1653.6904656905976,7701.201490562709,0.0,9354.891956253306
+Scotiabank,654.62421723408,3048.571121449991,0.0,3703.195338684071
+CIBC,838.2907865143764,3903.902446419122,0.0,4742.193232933499
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.9986053536778974,4.650483991885695,0.0,5.649089345563592
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1717.6780241224199,7999.190195581231,0.0,9716.86821970365
+Healthcare of Ontario Pension Plan Trust Fund,28.345028885164933,132.00219946198627,0.0,160.3472283471512
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

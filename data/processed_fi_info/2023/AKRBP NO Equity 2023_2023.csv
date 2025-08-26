@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,AKRBP NO Equity 2023,906.378,16.804,72607.0,65.528,33.434,31.57,127.939,3.03,7.128,12.667,0.0,20.71,4935.38,67369.898,0.0,0.0,0.0,0.0,,21577.1828,13670.0,18463.1828,AKER BP ASA,631.311,295.5,6502.4,3388.4,39046.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,32314.95461172599,599.1104123174255,2588656.2636567727,2621570.328680816
+BMO,22162.325513778702,410.883448112749,1775358.9150215208,1797932.1239834123
+TD,17157.143972381622,318.08875249829623,1374408.4973726198,1391883.7300974997
+Scotiabank,4808.817131247815,89.15415320483096,385220.24050956155,390118.2117940142
+CIBC,2986.309949549977,55.36536896552852,239224.53393506995,242266.20925358546
+National Bank of Canada,5564.623745912324,103.16660093946531,445765.69231887796,451433.48266572977
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,363.07779436598554,6.73136291539073,29085.097530638108,29454.906687919483
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1139.404489891093,21.124247331830563,91274.35285101547,92434.8815882384
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,10994.541506462256,203.83578978593005,880740.4831201693,891938.8604164175
+Healthcare of Ontario Pension Plan Trust Fund,1772.4342571097764,32.86044592484888,141984.51140396012,143789.80610699474
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,576.77136371092,10.693183192661667,46203.46280252395,46790.92734942753

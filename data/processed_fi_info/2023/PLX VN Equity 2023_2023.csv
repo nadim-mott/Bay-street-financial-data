@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,PLX VN Equity 2023,87.524,53.959,29302.801,,,,,,,,,,,,,,,,,36336274.46,274252672.4,43835432.11,VIETNAM NATIONAL PETROLEUM G,1270.5922,34500.0,19782138.27,30543867.53,79675619.1
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,9.857010055603624,6.076897829056213,0.0,15.933907884659837
+BMO,2.9002813627334403,1.788038504315773,0.0,4.688319867049213
+TD,2.9121214951335856,1.7953380073569896,0.0,4.707459502490575
+Scotiabank,0.7007960726134155,0.43204441389958503,0.0,1.1328404865130004
+CIBC,1.8977416123844386,1.169967547902883,0.0,3.067709160287322
+National Bank of Canada,0.28028768064081944,0.1727988090089344,0.0,0.45308648964975384
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0197728214432788,0.012190046984345788,0.0,0.03196286842762459
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.001737085191926947,0.001070922031342102,0.0,0.002808007223269049
+Intact Financial,0.00249381540772041,0.0015374501346509027,0.0,0.004031265542371313
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.15560889015267426,0.09593368794557094,0.0,0.2515425780982452
+Healthcare of Ontario Pension Plan Trust Fund,0.0090108798519153,0.005555254169479203,0.0,0.014566134021394502
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.07797715527070687,0.048073320703487875,0.0,0.12605047597419475

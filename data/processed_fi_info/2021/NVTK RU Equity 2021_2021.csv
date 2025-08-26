@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,NVTK RU Equity 2021,10048.0,270.0,177815.0,,,,,,,,,,,,,,,,,5250205.32,1156724.0,5152442.32,NOVATEK PJSC,3001.5,,187058.0,106362.0,2457664.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,13688.551925410005,367.82534035237876,0.0,14056.377265762385
+BMO,6929.911622960196,186.21378763925685,0.0,7116.125410599453
+TD,4604.789119890623,123.73537643018196,0.0,4728.524496320804
+Scotiabank,1725.0166581195226,46.352955582431434,0.0,1771.369613701954
+CIBC,1576.035473600411,42.34967932644417,0.0,1618.3851529268552
+National Bank of Canada,722.4948777301403,19.414173665121204,0.0,741.9090513952615
+Sun Life Financial,4.00169370552022,0.10752958802651866,0.0,4.109223293546739
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1.509410783661136,0.04055940601000265,0.0,1.5499701896711386
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,328.0374764098281,8.814701296840525,0.0,336.8521777066686
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,914.3928621407645,24.570668071059554,0.0,938.963530211824
+Healthcare of Ontario Pension Plan Trust Fund,176.22468406400324,4.735336852834482,0.0,180.96002091683772
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,TELL US Equity 2023,43.071,,,,,,,,,,,,,,,,,,,954.2616,166.128,531.7456,WOODSIDE ENERGY LA HOLDINGS,565.678,0.7556,498.305,75.789,1324.028
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,311277.80641908466,,0.0,311277.80641908466
+BMO,152715.92342089902,,0.0,152715.92342089902
+TD,71585.68782139428,,0.0,71585.68782139428
+Scotiabank,44232.237788145314,,0.0,44232.237788145314
+CIBC,40089.854642896906,,0.0,40089.854642896906
+National Bank of Canada,36419.535183742,,0.0,36419.535183742
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,373.2445891418754,,0.0,373.2445891418754
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,5336.474233167139,,0.0,5336.474233167139
+OMERS,0.0,,0.0,0.0
+CPPIB,26486.43395638817,,0.0,26486.43395638817
+Healthcare of Ontario Pension Plan Trust Fund,5535.570413746724,,0.0,5535.570413746724
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,801.6496742051086,,0.0,801.6496742051086

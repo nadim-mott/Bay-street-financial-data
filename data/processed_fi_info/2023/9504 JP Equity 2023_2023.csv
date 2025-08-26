@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,9504 JP Equity 2023,19610.801,0.044,13010.0,1820.1,643.3,8296.9,,41.1,0.984,2.4,,,,2201.0,,,,,,2716710.488,1694602.0,242448.4882,CHUGOKU ELECTRIC POWER CO,360.2553,673.0,2721048.0,254781.0,4040048.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,9318.20158077191,0.020906890521910044,6179.784141809303,15498.006629471736
+BMO,7030.327936340582,0.015773676414287494,4662.477916593583,11692.82162661058
+TD,2903.743184070718,0.006515016908239067,1925.747787838753,4829.49748692638
+Scotiabank,702.0945106474785,0.0015752624519767987,465.62552713001406,1167.7216130399445
+CIBC,457.9791612080673,0.001027550230771041,303.7294625126889,761.7096512709869
+National Bank of Canada,285.1247868700878,0.0006397235188039419,189.09331602918198,474.21874262278857
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,115.42498464216037,0.0002589745989597802,76.54926580812558,191.9745094248849
+Intact Financial,41.98007500300017,9.418907978985699e-05,27.840973338764666,69.82114253084463
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,879.397640525275,0.0019730706656557323,583.2120657785154,1462.6116793744561
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,30.817742921277578,6.914458458561754e-05,20.438171179324353,51.25598324518651

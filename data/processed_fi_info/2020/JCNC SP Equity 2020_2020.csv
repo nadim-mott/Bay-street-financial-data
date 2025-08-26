@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,JCNC SP Equity 2020,3934.7,,,,,,,,,,,,,,,,,,,17892.328,13234.2,5847.928,JARDINE CYCLE & CARRIAGE LTD,395.2,19.55,7269.9,3558.0,27512.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,405863.78476273984,,0.0,405863.78476273984
+BMO,524614.7350309375,,0.0,524614.7350309375
+TD,109991.29055624487,,0.0,109991.29055624487
+Scotiabank,235963.79606588863,,0.0,235963.79606588863
+CIBC,221363.24181829873,,0.0,221363.24181829873
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,70.64784313349959,,0.0,70.64784313349959
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,2094.5403397579453,,0.0,2094.5403397579453
+Fairfax,806.7310849244382,,0.0,806.7310849244382
+Intact Financial,7401.202613985671,,0.0,7401.202613985671
+OMERS,0.0,,0.0,0.0
+CPPIB,241394.93311135157,,0.0,241394.93311135157
+Healthcare of Ontario Pension Plan Trust Fund,155019.53442313243,,0.0,155019.53442313243
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,10330.060339320184,,0.0,10330.060339320184

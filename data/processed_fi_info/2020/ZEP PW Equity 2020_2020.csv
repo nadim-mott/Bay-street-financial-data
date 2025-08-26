@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,ZEP PW Equity 2020,7336.8,1562.4,19.7,,,,,12.5,3.9,,,,,,,,,,3.3,77.502,2206.974,470.626,ZE PAK SA,50.8235,9.26,106.498,497.871,2878.628
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1287314.336224518,274138.5779791172,3456.5604110270147,1564909.4746146624
+BMO,2664049.7516074334,567319.7213923583,7153.22485370549,3238522.697853497
+TD,98229.11781329548,20918.27140871945,263.754446205692,119411.14366822063
+Scotiabank,1337512.3618329628,284828.4421175201,3591.346844415735,1625932.1507948986
+CIBC,65132.717699404624,13870.264711256925,174.88749027890512,79177.86990094045
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1264694.0458028244,269321.4994496692,3395.822797720483,1537411.3680502141
+Healthcare of Ontario Pension Plan Trust Fund,685.9357536557692,146.0726776676172,1.8418021953738213,833.8502335187602
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,PPC GA Equity 2023,9971.73,222.698,450.953,303.511,38.0754,,52.3269,9.5643,0.522,7.8138,0.0,2.764,0.0,35.6532,0.722,0.0,,,,8338.69,7686.767,4065.554,PUBLIC POWER CORP,370.3702,11.16,6059.498,2599.802,23857.327
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2507544.673759099,56000.83272980755,113398.95787870487,2676944.4643676113
+BMO,2449309.36674067,54700.26739135675,110765.37643278137,2614775.0105648083
+TD,670904.1921691361,14983.25985437655,30340.371210368867,716227.8232338815
+Scotiabank,472512.2011194538,10552.584372511103,21368.46922515357,504433.2547171185
+CIBC,149830.27417911554,3346.1498054139734,6775.790329239263,159952.21431376878
+National Bank of Canada,252104.45318153442,5630.23241850926,11400.946338678565,269135.6319387223
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,272913.46403712756,6094.958709686306,12341.994436526978,291350.4171833408
+Healthcare of Ontario Pension Plan Trust Fund,412152.82486470474,9204.582333428605,18638.830771599638,439996.23796973296
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,69829.3893279981,1559.4952274646948,3157.9018559340257,74546.78641139682

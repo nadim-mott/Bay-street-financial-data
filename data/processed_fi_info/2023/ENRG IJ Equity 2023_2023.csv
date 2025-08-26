@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ENRG IJ Equity 2023,238.873,0.495,,,,,,,,,,,,,,,,,,473.5509,,354.7733,ENERGI MEGA PERSADA TBK PT,24821.2303,220.0,271.8355,82.4406,1368.7571
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,106649.87389975514,221.0031589186672,0.0,106870.87705867381
+BMO,68102.10797994099,141.12328915394704,0.0,68243.23126909493
+TD,26312.346411074337,54.52525598741506,0.0,26366.87166706175
+Scotiabank,6749.276092648461,13.986058139098969,0.0,6763.262150787559
+CIBC,4225.030674518066,8.755238908903236,0.0,4233.785913426969
+National Bank of Canada,4849.863896183844,10.050037587383269,0.0,4859.913933771228
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,960.8157406433911,1.9910320196023772,0.0,962.8067726629935
+Intact Financial,349.44875220316743,0.7241384850551041,0.0,350.17289068822254
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,7320.244381412017,15.169236241847962,0.0,7335.413617653865
+Healthcare of Ontario Pension Plan Trust Fund,16596.45913883598,34.39169463992921,0.0,16630.85083347591
+OTPP,387.1542052347231,0.8022728880668303,0.0,387.95647812279
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,441.69244979822327,0.9152887209945055,0.0,442.6077385192178

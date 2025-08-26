@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,DSSA IJ Equity 2023,1070.04,0.0,,,,,,,,,,,,,,,,,,3690.0822,,3203.5702,DIAN SWASTATIKA SENTOSA TBK,7193.1602,8000.0,806.8751,657.7537,3063.273
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,198361.72931062971,0.0,0.0,198361.72931062971
+BMO,68069.88706537474,0.0,0.0,68069.88706537474
+TD,91185.38433151864,0.0,0.0,91185.38433151864
+Scotiabank,6812.900769272982,0.0,0.0,6812.900769272982
+CIBC,13412.03203850504,0.0,0.0,13412.03203850504
+National Bank of Canada,11339.135917795715,0.0,0.0,11339.135917795715
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,476.6391821224957,0.0,0.0,476.6391821224957
+Intact Financial,173.35370393943606,0.0,0.0,173.35370393943606
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,190033.4031949729,0.0,0.0,190033.4031949729
+Healthcare of Ontario Pension Plan Trust Fund,2009.433300384677,0.0,0.0,2009.433300384677
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,748.5272649870446,0.0,0.0,748.5272649870446

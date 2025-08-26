@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,BODL IN Equity 2023,90026.898,176.972,,,,,,,,,,,,,,,,,,14663.3839,15742.8,7248.4739,BODAL CHEMICALS LTD,125.5447,57.7,7601.67,186.76,21209.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,7131805.387085963,14019.475190219007,0.0,7145824.8622761825
+BMO,1627060.241162764,3198.423042400691,0.0,1630258.6642051646
+TD,645013.9654685105,1267.947847063366,0.0,646281.9133155739
+Scotiabank,311198.46569193003,611.7440020029596,0.0,311810.20969393296
+CIBC,337529.11492831615,663.5039510868626,0.0,338192.618879403
+National Bank of Canada,470175.9705153936,924.2569021321854,0.0,471100.2274175258
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,288270.9286681711,566.6737821874478,0.0,288837.60245035856
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8147932.465376746,16016.945338521535,0.0,8163949.410715267
+Healthcare of Ontario Pension Plan Trust Fund,285265.2602176025,560.7653351693796,0.0,285826.02555277187
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,27026.175819988814,53.127193021968395,0.0,27079.303013010784

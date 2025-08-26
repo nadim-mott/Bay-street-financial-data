@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,AP PM Equity 2023,4481.38,588.684,,,,,,,,,,,,,,,,,,474597.8328,207100.0,278155.2428,ABOITIZ POWER CORP,7318.1429,37.8,237145.075,54538.784,487023.306
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,12902.296698755592,1694.8742641352076,0.0,14597.1709628908
+BMO,5303.492027294623,696.6784563228085,0.0,6000.170483617431
+TD,4678.720646857425,614.6071043461202,0.0,5293.327751203546
+Scotiabank,1878.6963537327222,246.78971305731577,0.0,2125.486066790038
+CIBC,538.1421297445343,70.69154178099856,0.0,608.8336715255328
+National Bank of Canada,3220.587796952357,423.0635444129043,0.0,3643.6513413652615
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,232.20892509454436,30.50347858480128,0.0,262.71240367934564
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5169.625104474213,679.0934009171946,0.0,5848.718505391407
+Healthcare of Ontario Pension Plan Trust Fund,96.9242276672989,12.732181167429717,0.0,109.65640883472861
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,70.05095443773529,9.202048490024001,0.0,79.25300292775928

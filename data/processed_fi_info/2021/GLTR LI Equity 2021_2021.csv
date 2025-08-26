@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,GLTR LI Equity 2021,153.871,1.551,,,,,,,,,,,,,,,,,,144846.8783,58492.0,114283.6853,GLOBALTRA-SPONS GDR REG S,178.664,8.52,37160.043,12854.707,108284.996
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,5367.883595682402,54.10758009568668,0.0,5421.991175778089
+BMO,1753.7820133281964,17.677898386778747,0.0,1771.459911714975
+TD,1535.6996583570972,15.47965614126026,0.0,1551.1793144983574
+Scotiabank,1018.5829398170449,10.26718575726574,0.0,1028.8501255743106
+CIBC,860.7544607506633,8.67629487443559,0.0,869.4307556250989
+National Bank of Canada,360.44075372497633,3.6331966974117167,0.0,364.07395042238807
+Sun Life Financial,0.1629138135607533,0.0016421504041224683,0.0,0.16455596396487576
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,191.29851618461942,1.9282645761861863,0.0,193.2267807608056
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,614.8071116849083,6.197177052357445,0.0,621.0042887372657
+Healthcare of Ontario Pension Plan Trust Fund,141.2435835668663,1.4237172573922938,0.0,142.6673008242586
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.9630441336494073,0.019787233795128582,0.0,1.982831367444536

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,ARX CN Equity 2021,1819.01,41.531,,,,,,,,,,,,,,,,,,10549.85,5110.8,7975.25,ARC RESOURCES LTD,624.2857,11.5,2574.6,0.0,11380.3
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,216993.22163317763,4954.313328485,0.0,221947.53496166263
+BMO,280059.00139556755,6394.209150559544,0.0,286453.2105461271
+TD,51019.86344127143,1164.8676744929626,0.0,52184.73111576439
+Scotiabank,24135.396280994326,551.0509249239835,0.0,24686.44720591831
+CIBC,116099.15002539103,2650.7351799630105,0.0,118749.88520535405
+National Bank of Canada,45392.17117582521,1036.3781733487979,0.0,46428.54934917401
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2416.5275007053074,55.17331055452807,0.0,2471.7008112598355
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,74838.68207517006,1708.6906093225919,0.0,76547.37268449266
+Healthcare of Ontario Pension Plan Trust Fund,26132.025043729038,596.6372543807404,0.0,26728.66229810978
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3429.667204162879,78.30496185072568,0.0,3507.9721660136047

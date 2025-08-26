@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,JSP IN Equity 2022,17540.0,1580.0,,,,,,,,,,,,,,,,,,653269.4425,510855.6,543553.9425,JINDAL STEEL & POWER LTD,1020.0621,532.85,135016.4,40006.3,766435.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3870.969733606523,348.6962473830277,0.0,4219.665980989551
+BMO,479.61572829544883,43.20369730369494,0.0,522.8194255991438
+TD,215.49309248180091,19.411578456171345,0.0,234.90467093797227
+Scotiabank,231.20814729441503,20.82718772663488,0.0,252.03533502104992
+CIBC,171.92979885340452,15.487404913818649,0.0,187.41720376722316
+National Bank of Canada,106.58485841080989,9.601144600289603,0.0,116.18600301109949
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,180.61018847269239,16.269332827072635,0.0,196.87952129976503
+Fairfax,42.59522043665427,3.836969685855972,0.0,46.43219012251024
+Intact Financial,11.61687830090571,1.0464462779607198,0.0,12.66332457886643
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,18.102968685578062,1.6307121164887879,0.0,19.73368080206685
+Healthcare of Ontario Pension Plan Trust Fund,186.0959365592312,16.763488013887414,0.0,202.85942457311862
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

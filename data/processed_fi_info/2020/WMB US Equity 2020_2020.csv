@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,WMB US Equity 2020,12580.2,1487.77,19276.699,,,,,,1.398,0.095,,,,19275.1992,,,,,,49560.65,7719.0,24320.65,WILLIAMS COS INC,1213.631,20.05,22533.0,142.0,44165.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,111186.96048008587,13149.28412850808,170372.23683472275,294708.4814433167
+BMO,226751.5273399354,26816.276357334194,347452.29792943026,601020.1016266998
+TD,72505.4311541838,8574.697167633265,111100.3703587774,192180.49868059446
+Scotiabank,41970.81196431839,4963.58682025357,64312.04779099242,111246.44657556438
+CIBC,166944.41345112075,19743.318071268655,255809.61134217217,442497.3428645616
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,21.207829560476387,2.5080978510031597,32.49684445933805,56.2127718708176
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,53570.97746976335,6335.455171633981,82087.02910428791,141993.46174568523
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3418.5986723216693,404.293138958046,5238.332805652809,9061.224616932524
+OMERS,1537.8262752023488,181.86768075688767,2356.41752628322,4076.1114822424565
+CPPIB,667772.9984272624,78972.72172700976,1023231.3119150269,1769977.0320692991
+Healthcare of Ontario Pension Plan Trust Fund,38559.97225403105,4560.211278070282,59085.604074775954,102205.78760687729
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,9507 JP Equity 2023,8090.0,0.0,6350.0,,141.0,5900.0,,,,,,,,,,,,274.0,33.0,998786.6661,833203.0,154852.6661,SHIKOKU ELECTRIC POWER CO,205.7011,753.0,963860.0,122450.0,1612025.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6018.469771764556,0.0,4722.527331416736,10740.997103181293
+BMO,4540.770641597627,0.0,3563.017556596011,8103.788198193639
+TD,1875.4789136949835,0.0,1471.6366061972503,3347.115519892234
+Scotiabank,453.47104295028987,0.0,355.8262275214389,809.2972704717288
+CIBC,295.80104207195177,0.0,232.10692398921506,527.9079660611668
+National Bank of Canada,184.15730718891382,0.0,144.50316267431702,328.66046986323084
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,74.55105740668937,0.0,58.498159754964654,133.049217161654
+Intact Financial,27.114224803133695,0.0,21.27578480226115,48.390009605394845
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,567.9881542575521,0.0,445.68464811210634,1013.6728023696585
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,19.904662138716642,0.0,15.618639710330438,35.52330184904708

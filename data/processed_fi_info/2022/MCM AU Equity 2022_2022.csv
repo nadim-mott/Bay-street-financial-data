@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,MCM AU Equity 2022,10.138,,,,,,,,,,,,,,,,,,,38.7043,,16.3943,MC MINING LTD,215.2006,0.0914,26.127,2.993,125.415
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2413381.7481685705,,0.0,2413381.7481685705
+BMO,1788658.8735109153,,0.0,1788658.8735109153
+TD,796817.1298561086,,0.0,796817.1298561086
+Scotiabank,850398.3920020983,,0.0,850398.3920020983
+CIBC,384269.7952337092,,0.0,384269.7952337092
+National Bank of Canada,525961.1195354483,,0.0,525961.1195354483
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,1211.4175048644954,,0.0,1211.4175048644954
+Fairfax,0.0,,0.0,0.0
+Intact Financial,17066.20740135291,,0.0,17066.20740135291
+OMERS,0.0,,0.0,0.0
+CPPIB,186513.77198172535,,0.0,186513.77198172535
+Healthcare of Ontario Pension Plan Trust Fund,248756.76204534498,,0.0,248756.76204534498
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,13429.4813441257,,0.0,13429.4813441257

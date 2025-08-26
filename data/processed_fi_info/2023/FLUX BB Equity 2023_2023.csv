@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,FLUX BB Equity 2023,286.912,28.954,215.664,,,,,,,,,,,,,,,,,1627.2178,592.788,1602.0078,FLUXYS BELGIUM,70.2635,22.8,1125.647,1101.225,3358.616
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,60845.106516959524,6140.242353376807,0.0,66985.34887033633
+BMO,34994.676095834235,3531.5213434041957,0.0,38526.19743923843
+TD,8337.421538147317,841.378900901731,0.0,9178.800439049048
+Scotiabank,19683.106122204892,1986.33955589979,0.0,21669.445678104683
+CIBC,7847.77510321735,791.9657607160216,0.0,8639.740863933372
+National Bank of Canada,9352.712554832753,943.8379688288659,0.0,10296.550523661619
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,29779.063997066678,3005.1828399337383,0.0,32784.24683700041
+Intact Financial,506.66048442460766,51.130129328958326,0.0,557.7906137535659
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,14799.715726727421,1493.527524647508,0.0,16293.24325137493
+Healthcare of Ontario Pension Plan Trust Fund,435.5596670627946,43.95492206717096,0.0,479.51458912996554
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,327.3861313284492,33.03848583009397,0.0,360.4246171585432

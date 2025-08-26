@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,TNB MK Equity 2021,39770.0,280.0,,,,,,,,,,,,,,,,,,126957.3934,52629.5,53481.6934,TENAGA NASIONAL BHD,5717.516,9.34,80920.1,9228.4,182600.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3059223.767772469,21538.412244814972,0.0,3080762.180017284
+BMO,1040051.4720799772,7322.464475292773,0.0,1047373.93655527
+TD,910504.8734302043,6410.393878814615,0.0,916915.267309019
+Scotiabank,593824.3384043631,4180.810026482819,0.0,598005.1484308459
+CIBC,484356.93829395465,3410.1066814761703,0.0,487767.0449754308
+National Bank of Canada,190169.3888772789,1338.88430690566,0.0,191508.27318418454
+Sun Life Financial,89.97789138815862,0.6334877945356906,0.0,90.61137918269432
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,647.6920942073236,4.560065033393277,0.0,652.2521592407169
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,124304.08514327259,875.1607704328973,0.0,125179.24591370548
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,345517.3337873404,2432.6088373260072,0.0,347949.9426246664
+Healthcare of Ontario Pension Plan Trust Fund,58444.73036076304,411.4791174506827,0.0,58856.20947821372
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

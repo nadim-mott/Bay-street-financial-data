@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ENEL IM Equity 2023,34510.602,3277.67,56533.398,8815.4697,,30919.0,9.3515,,,,,,,16789.5996,,,,,,155884.4206,95565.0,68359.4206,ENEL SPA,10159.4066,6.73,75849.0,8231.0,195224.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,130677.9555662296,12411.235672468529,214069.6314514989,357158.82269019703
+BMO,51590.15243294791,4899.812959649338,84512.22602920658,141002.19142180381
+TD,33018.08123584359,3135.916734349852,54088.45318069299,90242.45115088642
+Scotiabank,12896.654637415111,1224.869331616307,21126.609252694576,35248.13322172599
+CIBC,5139.27598093188,488.10654489368216,8418.886799985545,14046.269325811107
+National Bank of Canada,26550.56997928973,2521.66005982795,43493.722454306466,72565.95249342415
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1136.9007376285456,107.97799008846485,1862.4099286412036,3107.288656358214
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,37625.7602022449,3573.5344588336084,61636.50620853859,102835.80086961709
+Healthcare of Ontario Pension Plan Trust Fund,22065.567247010866,2095.693601592638,36146.63106618549,60307.89191478899
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,558.858399891119,53.07799068735816,915.4919143009822,1527.4283048794593

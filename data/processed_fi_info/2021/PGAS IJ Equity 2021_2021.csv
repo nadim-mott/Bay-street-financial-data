@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,PGAS IJ Equity 2021,44.582,7.625,0.04,,,,,,0.04,,,,,,,,,,,4470.2055,3036.101,2336.4695,PERUSAHAAN GAS NEGARA TBK PT,24241.5082,1375.0,2950.4327,1576.2714,7510.9489
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,38424.4422980912,6571.853495198631,34.47529702399282,45030.77109031382
+BMO,15811.771289118049,2704.3370885004065,14.186686365903771,18530.29506398436
+TD,10470.104412661925,1790.7349635850157,9.394019481101722,12270.233395728043
+Scotiabank,5093.02333884521,871.0758368555635,4.5695781605537755,5968.668753861327
+CIBC,4443.852098219129,760.0460331281877,3.9871267311642624,5207.8852580784815
+National Bank of Canada,1170.214067848949,200.14540099924267,1.0499430872091418,1371.4094119354008
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,29.23197756272872,4.999637273244953,0.026227605367842376,34.257842441341516
+Intact Financial,442.10503924831886,75.61461855162244,0.3966668514183472,518.1163246513596
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,16695.199049677303,2855.432523300646,14.979318155019785,19565.61089113297
+Healthcare of Ontario Pension Plan Trust Fund,1948.0289068613993,333.17752489386226,1.747816524033376,2282.954248279295
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

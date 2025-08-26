@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,MOH GA Equity 2020,1982.41,16.908,58391.699,,,,,,,,,,,,,,,,,2232.0649,6120.439,1304.4989,MOTOR OIL (HELLAS) SA,110.6855,11.8,1508.297,587.496,3408.727
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1196227.7779000045,10202.641869609855,0.0,1206430.4197696145
+BMO,510574.7230373288,4354.698279929558,0.0,514929.4213172584
+TD,349495.6064815386,2980.8524545325413,0.0,352476.45893607114
+Scotiabank,228687.78873634926,1950.481046783558,0.0,230638.26978313283
+CIBC,103921.2263344952,886.3454557148342,0.0,104807.57179021003
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,928.5193801236628,7.919353554073522,0.0,936.4387336777363
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2159.4534192401393,18.418005565202087,0.0,2177.8714248053416
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,21497.27520659466,183.35053253015394,0.0,21680.625739124815
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,79928.65027329652,681.7124705892816,0.0,80610.3627438858
+Healthcare of Ontario Pension Plan Trust Fund,65713.64162898104,560.4724818089153,0.0,66274.11411078996
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,2062.1944334334053,17.588482443335142,0.0,2079.7829158767404
+Investment Management of Ontario,0.0,0.0,0.0,0.0

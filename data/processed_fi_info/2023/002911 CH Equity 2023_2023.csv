@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,002911 CH Equity 2023,61.444,9.104,,,,,,,,,,,,,,,,,,16493.425,25537.9715,11308.7498,FORAN ENERGY GROUP CO LTD-A,1255.2039,8.816,4216.3938,2186.3242,17557.2145
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4953.721724748036,733.9802516455001,0.0,5687.701976393536
+BMO,5171.912788803586,766.3090623863656,0.0,5938.221851189952
+TD,974.5954460854726,144.40330937377354,0.0,1118.9987554592462
+Scotiabank,2202.7419702927727,326.374632145456,0.0,2529.1166024382287
+CIBC,303.4560764621391,44.96230909627163,0.0,348.4183855584107
+National Bank of Canada,510.8239770235257,75.68747944180355,0.0,586.5114564653293
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1153.8459414850615,170.96239586094651,0.0,1324.808337346008
+Healthcare of Ontario Pension Plan Trust Fund,880.316564082088,130.43424906261518,0.0,1010.7508131447032
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,149.56829551574305,22.161151005392302,0.0,171.72944652113534

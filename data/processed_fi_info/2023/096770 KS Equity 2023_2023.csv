@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,096770 KS Equity 2023,9619.82,3135.45,137566.0,23316.0,,561.0,1204.0,33.0,4.218,21.0,,478.0,,104232.0,7716.0,,,,,38065434.12,77288485.86,13358583.83,SK INNOVATION CO LTD,89.9948,140300.0,30535074.57,13385914.3,80835514.22
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,139.41432236084563,45.440209592935574,1993.6507801489015,2178.5053121026826
+BMO,101.94273554669155,33.22685353466842,1457.8001084216723,1592.9696975030324
+TD,67.34227809984856,21.949303195711575,963.0071214869188,1052.2987027824788
+Scotiabank,59.97686270760933,19.548645835012884,857.680309333059,937.2058178756812
+CIBC,35.2723319639489,11.496538735274006,504.400917687545,551.1697883867679
+National Bank of Canada,46.62434684889798,15.196574190304721,666.7368452191687,728.5577662583714
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,2.786875006645072,0.9083441519264697,39.85283173987463,43.54805089844617
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24.687247797882776,8.046473957711427,353.0322423013907,385.7659640569849
+Healthcare of Ontario Pension Plan Trust Fund,0.07777325599939736,0.02534913912352938,1.112172048554641,1.2152944436775677
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.7222831089573661,0.23541839389722194,10.328783006484302,11.28648450933889

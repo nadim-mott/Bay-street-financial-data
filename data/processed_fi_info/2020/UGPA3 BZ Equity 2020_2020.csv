@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,UGPA3 BZ Equity 2020,469.377,153.673,911.567,,,,,,,,,,,,,,,,,36796.7799,81241.1,25882.9169,ULTRAPAR PARTICIPACOES SA,1089.414,23.74,19209.504,8672.16,36250.162
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3505.332399958368,1147.6381371451996,0.0,4652.970537103568
+BMO,2010.0962736159001,658.1011098868845,0.0,2668.1973835027848
+TD,3092.6245970754558,1012.5185079507015,0.0,4105.143105026157
+Scotiabank,1901.143444732846,622.4301927500296,0.0,2523.5736374828757
+CIBC,808.332788720579,264.6463815676046,0.0,1072.9791702881835
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.3808271315819123,0.12468196735585085,0.0,0.5055090989377631
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24941.493194068866,8165.790150800199,0.0,33107.283344869065
+Healthcare of Ontario Pension Plan Trust Fund,255.6982169192839,83.7150352246427,0.0,339.4132521439266
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

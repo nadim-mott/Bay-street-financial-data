@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,EE US Equity 2022,567.125,0.269,,,,,,,,,,,,,,,,,,2911.5298,2472.973,2712.3038,EXCELERATE ENERGY INC-A,26.2542,25.05,715.885,516.659,2866.822
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1734.8484801002012,0.8228772160404745,0.0,1735.6713573162417
+BMO,1222.9876774865706,0.5800902539014988,0.0,1223.5677677404722
+TD,1778.7581077753903,0.8437045289690632,0.0,1779.6018123043593
+Scotiabank,1423.09012360636,0.6750032942474954,0.0,1423.7651269006076
+CIBC,765.0729888738865,0.36289113336050344,0.0,765.435880007247
+National Bank of Canada,62.51894607086418,0.02965412650308568,0.0,62.548600197367264
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,409.6140981699764,0.194289076319548,0.0,409.8083872462959
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,72.3463389315017,0.03431547749186504,0.0,72.38065440899356
+Healthcare of Ontario Pension Plan Trust Fund,1763.494284821634,0.8364645582843634,0.0,1764.3307493799184
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

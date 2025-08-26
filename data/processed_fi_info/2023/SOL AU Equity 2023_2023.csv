@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,SOL AU Equity 2023,3.735,6.6,,,,,,,,,,,,,,,,,,12026.8125,362.901,11888.5475,WASHINGTON H. SOUL PATTINSON,320.085,32.95,436.935,311.811,9797.187
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,184.57835366347317,326.16255265834616,0.0,510.74090632181935
+BMO,89.07728130791419,157.40563765253913,0.0,246.48291896045333
+TD,91.79483364136789,162.20773816145328,0.0,254.00257180282117
+Scotiabank,27.2085109640181,48.07929648260227,0.0,75.28780744662036
+CIBC,16.460512943233812,29.08685018081477,0.0,45.54736312404859
+National Bank of Canada,29.596187002659487,52.29848305690833,0.0,81.89467005956782
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,7.291836954850877,12.88517373547946,0.0,20.177010690330338
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.4803591439576615,2.6158956760697634,0.0,4.096254820027425
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,80.53442777597516,142.30983221457458,0.0,222.84425999054974
+Healthcare of Ontario Pension Plan Trust Fund,19.988304290326464,35.32069834435199,0.0,55.30900263467845
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.3264168730452564,2.3438691732526618,0.0,3.6702860462979183

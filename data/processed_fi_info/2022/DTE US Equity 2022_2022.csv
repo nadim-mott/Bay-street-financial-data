@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,DTE US Equity 2022,27081.0,197.0,26197.0,297.0,,3699.0,233.0,,,,,,,8869.0,,,,,12535.0,43368.9751,19228.0,24167.9751,DTE ENERGY COMPANY,195.0,117.53,19240.0,33.0,42683.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4738824.673938033,34472.45156256388,4485443.4056,9258740.531100597
+BMO,1774664.5348455363,12909.749025684821,1679774.6029207057,3467348.886791927
+TD,1065857.1758458987,7753.549117153799,1008866.621928951,2082477.3468920034
+Scotiabank,625908.1283561899,4553.1517036361065,592441.3077122046,1222902.5877720306
+CIBC,549403.7763221628,3996.6228697413712,520027.583858277,1073427.9830501813
+National Bank of Canada,502425.45396366285,3654.8803379063397,475561.15584544773,981641.490147017
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,9946.966429967895,72.35893750982886,9415.109874058087,19434.43524153581
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,63744.84919094443,463.710176530263,60336.46170050879,124545.02106798349
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,847453.0783094029,6164.774433254031,802140.421561424,1655758.274304081
+Healthcare of Ontario Pension Plan Trust Fund,34254.67655335345,249.18471552049883,32423.10564942613,66926.96691830008
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

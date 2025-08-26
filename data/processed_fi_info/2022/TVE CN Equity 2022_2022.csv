@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,TVE CN Equity 2022,499.152,35.128,,,,,,,,,,,,,,,,,,3687.7719,1459.154,2481.7269,TAMARACK VALLEY ENERGY LTD,460.345,4.46,1206.045,0.0,4619.701
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1427968.1453426643,100493.76744878737,0.0,1528461.9127914517
+BMO,654750.1133730711,46078.27271566424,0.0,700828.3860887353
+TD,426743.4831125053,30032.22480281775,0.0,456775.70791532303
+Scotiabank,136982.8237651774,9640.21507120707,0.0,146623.03883638445
+CIBC,147439.8211213329,10376.129989161982,0.0,157815.95111049488
+National Bank of Canada,156191.42945664166,10992.027546624893,0.0,167183.45700326655
+Sun Life Financial,262.87810475842446,18.500140365968548,0.0,281.378245124393
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1391.4236639011326,97.92193653540201,0.0,1489.3456004365346
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10548.109660253109,742.3269788468667,0.0,11290.436639099975
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,17774.140011940875,1250.8614416840144,0.0,19025.00145362489
+Healthcare of Ontario Pension Plan Trust Fund,43351.5560991018,3050.881219847357,0.0,46402.43731894916
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4922.075730411754,346.39283476356724,0.0,5268.468565175322

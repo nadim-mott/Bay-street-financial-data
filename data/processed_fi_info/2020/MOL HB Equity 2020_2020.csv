@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,MOL HB Equity 2020,6840.0,660.0,54368.0,2110.18,157.15,,333.421,,,,,,,50721.699,721.632,,,323.926,,2573417.981,4011022.0,1370916.981,MOL HUNGARIAN OIL AND GAS PL,709.0355,2190.0,1142788.0,211301.0,5530001.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3291.75600167141,317.6255791086448,26164.651554520355,29774.03313530041
+BMO,1235.4107385587924,119.20629933462034,9819.710660416717,11174.32769831013
+TD,558.7835081313359,53.917706924953464,4441.512608238675,5054.213823294965
+Scotiabank,574.0260066119935,55.38847432220989,4562.6682046328815,5192.082685567085
+CIBC,328.94858423232273,31.740652864522364,2614.660710399356,2975.3499474962014
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.973659278059522,0.28693203560223457,23.636247283452388,26.896838597114144
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,70.57950360307048,6.810302979243643,561.003949784761,638.3937563670751
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,197.83316113143982,19.089164670577528,1572.4846326110246,1789.406958413042
+Healthcare of Ontario Pension Plan Trust Fund,148.20897458852033,14.30086596906775,1178.0448415351566,1340.5546820927448
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

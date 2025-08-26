@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,SCC PM Equity 2021,5800.0,18.506,,,,,,,,,,,,,,,,,,97691.155,52424.4269,90749.1917,SEMIRARA MINING AND POWER CO,4250.5476,21.35,15155.0113,8213.048,71644.3901
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,155336.75987551524,495.63139280280774,0.0,155832.39126831805
+BMO,100627.92438073031,321.07247734306816,0.0,100948.99685807338
+TD,15643.138780706076,49.91240108202528,0.0,15693.051181788102
+Scotiabank,19437.491033873306,62.01900156428611,0.0,19499.510035437594
+CIBC,81151.19112405273,258.9282660244345,0.0,81410.11939007716
+National Bank of Canada,12337.141290482701,39.363989089943594,0.0,12376.505279572644
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,113.50844902346385,0.3621702340738314,0.0,113.87061925753768
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2004.4211589379918,6.395485856432151,0.0,2010.8166447944238
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,37380.00676869941,119.26800090716401,0.0,37499.27476960657
+Healthcare of Ontario Pension Plan Trust Fund,6513.825511021053,20.783595673613036,0.0,6534.6091066946665
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,961.0509842149922,3.0664154334280425,0.0,964.1173996484202

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,INDY IJ Equity 2023,1023.43,6.576,,,,,,,,,,,,,,,,,,1259.425,3026.8,485.0483,INDIKA ENERGY TBK PT,5202.692,1435.0,1091.9302,461.8485,3113.1024
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1036306.4212986623,6658.736822704047,0.0,1042965.1581213664
+BMO,321945.34672114096,2068.6442649113496,0.0,324013.9909860523
+TD,106225.67556674252,682.5479441944234,0.0,106908.22351093694
+Scotiabank,27764.895516590823,178.40199419315562,0.0,27943.297510783977
+CIBC,25688.699970703947,165.06150006092176,0.0,25853.761470764868
+National Bank of Canada,52023.04611726296,334.2715684190626,0.0,52357.31768568202
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,3010.9055325005775,19.34642797428627,0.0,3030.2519604748636
+Intact Financial,1095.0665531659424,7.036297209989192,0.0,1102.1028503759317
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1166524.3931583718,7495.44610711964,0.0,1174019.8392654913
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2740.8313151494394,17.61107914407699,0.0,2758.4423942935164

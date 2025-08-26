@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,SU CN Equity 2021,32690.0,1460.0,127600.0,,,,,,,,,,,127600.0,,,,,,61764.5942,39132.0,45615.5942,SUNCOR ENERGY INC,1489.0,31.65,18354.0,2205.0,83739.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1993557.359382156,89036.21121743495,7781520.92557856,9864114.49617815
+BMO,1289616.0631400917,57596.801841068635,5033802.6814523,6381015.546433461
+TD,628607.2893028322,28074.843755953963,2453664.4268902233,3110346.5599490097
+Scotiabank,434613.3171712581,19410.68960140828,1696441.0911915733,2150465.09796424
+CIBC,354869.8188392775,15849.187381625732,1385175.5547229066,1755894.5609438098
+National Bank of Canada,172592.9252501111,7708.341109365621,673687.89421579,853989.1605752667
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,99614.51691448098,4448.9811775815915,388828.7659311035,492892.2640231661
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,287332.864777195,12832.853550771022,1121556.2418345085,1421721.9601624745
+Healthcare of Ontario Pension Plan Trust Fund,73794.6623087067,3295.8154472533433,288045.2404585799,365135.7182145399
+OTPP,2976.2096138605166,132.9234027603657,11617.141227549768,14726.27424417065
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,10776.129054567922,481.2832187112012,42062.83473119813,53320.24700447725

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,BYAN IJ Equity 2021,55.593,21.238,,,,,,,,,,,,,,,,,,5390.9271,2852.22,6308.707,BAYAN RESOURCES TBK PT,33333.335,2700.0,0.0,980.5074,2433.7122
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3358.2850981984107,1282.9539495177062,0.0,4641.239047716117
+BMO,801.6990424503786,306.2702905682575,0.0,1107.969333018636
+TD,1656.6584585399196,632.8874560191176,0.0,2289.545914559037
+Scotiabank,463.41988572301744,177.0386835210448,0.0,640.4585692440622
+CIBC,238.52610748922083,91.1232973729799,0.0,329.64940486220075
+National Bank of Canada,122.65571487152597,46.85773519042809,0.0,169.51345006195407
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,13.50014765307693,5.157414348138216,0.0,18.657562001215148
+Intact Financial,7.728217683908922,2.9523840622175035,0.0,10.680601746126426
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,807.9292019743507,308.65037669367115,0.0,1116.579578668022
+Healthcare of Ontario Pension Plan Trust Fund,200.52830286776674,76.60712852887288,0.0,277.1354313966396
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

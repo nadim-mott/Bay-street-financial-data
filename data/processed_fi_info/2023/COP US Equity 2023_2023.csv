@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,COP US Equity 2023,16432.0,1001.0,24000.0,,,,2000.0,,,,,6000.0,16000.0,,,,,,,149573.7193,58574.0,136545.7193,CONOCOPHILLIPS,1202.757,116.07,19634.0,6606.0,95924.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,192020.3475759932,11697.44205961351,280458.15127944475,484175.94091505144
+BMO,150025.43353990006,9139.207581148978,219121.86008748793,378286.50120853697
+TD,39427.566705124824,2401.837528714091,57586.514174963224,99415.91840880214
+Scotiabank,31069.668194277838,1892.6933947463558,45379.26221170084,78341.62380072504
+CIBC,31700.132836020734,1931.0998642196175,46300.096644626195,79931.32934486655
+National Bank of Canada,16956.718993972885,1032.9646855505634,24766.386067146377,42756.069746669826
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2793.1063819149695,170.1496767464024,4079.512729184473,7042.768787845845
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,38764.12872651658,2361.4223986881148,56617.520048466286,97743.07117367098
+Healthcare of Ontario Pension Plan Trust Fund,25414.981603161836,1548.222771711599,37120.22629478359,64083.43066965703
+OTPP,755.3782317656296,46.01592076420369,1103.2788195213675,1904.6729720512008
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3845.4853267597086,234.2582042409,5616.580321460139,9696.323852460748

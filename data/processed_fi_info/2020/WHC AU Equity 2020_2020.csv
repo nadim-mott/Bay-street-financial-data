@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,WHC AU Equity 2020,1487.0,106.0,,,,,,,,,,,,,,,,,,2385.0466,1721.609,1467.2456,WHITEHAVEN COAL LTD,990.135,1.43,1024.561,106.76,5212.037
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,608730.8273406987,43393.05157909486,0.0,652123.8789197935
+BMO,898157.7876260115,64024.697705687446,0.0,962182.485331699
+TD,230333.92500887378,16419.230700027318,0.0,246753.1557089011
+Scotiabank,365717.45929924754,26069.973561345152,0.0,391787.4328605927
+CIBC,331064.0986076223,23599.727271289823,0.0,354663.8258789121
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,98.30596868036272,7.007688419716509,0.0,105.31365710007924
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10954.527994495264,780.8876714300591,0.0,11735.415665925322
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1625252.0416486512,115855.22287475252,0.0,1741107.2645234037
+Healthcare of Ontario Pension Plan Trust Fund,214516.7986872818,15291.715306558084,0.0,229808.51399383988
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,15559.706568552669,1109.165363999047,0.0,16668.871932551716

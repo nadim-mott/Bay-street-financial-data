@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,PEY CN Equity 2020,570.738,32.929,32.572,,,,,,,,,,,,,,,,,1649.9876,366.969,481.6276,PEYTO EXPLORATION & DEV CORP,164.8949,2.92,1177.67,9.31,3601.057
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,556679.4050673175,32117.882687786165,0.0,588797.2877551037
+BMO,831076.5483996349,47949.35620591511,0.0,879025.90460555
+TD,104020.9938965292,6001.540650909541,0.0,110022.53454743873
+Scotiabank,405794.4530296852,23412.50371241183,0.0,429206.95674209704
+CIBC,384717.699812054,22196.470424452422,0.0,406914.17023650644
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,90.06146657708156,5.196139091696573,0.0,95.25760566877813
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,12104.972119538,698.4021160747434,0.0,12803.374235612744
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,375424.77848445566,21660.31091449078,0.0,397085.08939894644
+Healthcare of Ontario Pension Plan Trust Fund,250596.03075072943,14458.257022645712,0.0,265054.28777337517
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,18193.601267867543,1049.6884667739141,0.0,19243.289734641457

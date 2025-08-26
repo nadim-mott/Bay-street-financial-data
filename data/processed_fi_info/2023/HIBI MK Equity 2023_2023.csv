@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,HIBI MK Equity 2023,7247.92,2.104,50.092,,,,50.092,,0.0,,,,,,,,,,,1643.5772,2344.83,1740.7422,HIBISCUS PETROLEUM BHD,804.9676,2.162,862.494,959.659,6198.528
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,880317.5920248271,255.5475520729032,6084.072233096894,886657.211809997
+BMO,655640.4335575941,190.32597934375352,4531.278021524382,660362.0375584622
+TD,391391.5155960486,113.61711343586661,2704.9945086641774,394210.1272181487
+Scotiabank,1245694.3398051704,361.61283388200735,8609.272849247865,1254665.2254883002
+CIBC,219651.57832101732,63.76269616488875,1518.0613005188245,221233.40231770102
+National Bank of Canada,431941.7434701129,125.3884463764939,2985.2462242829524,435052.37814077234
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,16113.50055166124,4.677590972402462,111.3640147288898,16229.542157362532
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,645347.7789416491,187.3381227846375,4460.143178007634,649995.2602424414
+Healthcare of Ontario Pension Plan Trust Fund,449.67908516263924,0.13053742248565006,3.107832969178319,452.9174555543032
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4176.186318686362,1.2123058773435837,28.862559889683837,4206.261184453389

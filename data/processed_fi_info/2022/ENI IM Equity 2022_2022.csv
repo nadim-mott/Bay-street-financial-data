@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,ENI IM Equity 2022,39390.0,790.0,178900.0,1500.0,,1700.0,1300.0,,,,,,9900.0,164000.0,,,,,500.0,58304.8534,133412.0,44446.8534,ENI SPA,3483.6338,13.286,31868.0,18481.0,152130.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,20803.291780380565,417.22773563088714,94483.59734729838,115704.11686330983
+BMO,45291.51528193445,908.3599155300385,205703.27707382772,251903.1522712922
+TD,62259.216757062946,1248.6616206671674,282766.5366295649,346274.41500729497
+Scotiabank,70035.85837642221,1404.6287920125299,318086.19100131845,389526.67816975317
+CIBC,21414.788386347278,429.4918208990696,97260.86931499184,119105.1495222382
+National Bank of Canada,99847.64725774717,2002.5296098913495,453484.2369741297,555334.4138417682
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,146447.23354027126,2937.124003473326,665128.4610397189,814512.8185834636
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,10041.837742331609,201.3976089474986,45607.635747731016,55850.871099010124
+Healthcare of Ontario Pension Plan Trust Fund,6183.205535985142,124.00945350160605,28082.64712840167,34389.86211788842
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,359.8081478586738,7.216258867944969,1634.1629259181707,2001.1873326447894

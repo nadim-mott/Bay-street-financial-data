@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,TINS IJ Equity 2021,119.425,18.053,,,,,,,,,,,,,,,,,,14159669.28,14607003.0,10836481.28,TIMAH TBK PT,7447.7535,1455.0,5105255.0,1782262.0,14690989.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,44.90202610307098,6.7876598470901435,0.0,51.68968595016112
+BMO,14.12734121845869,2.135573715862129,0.0,16.26291493432082
+TD,12.701005418061314,1.9199602328847472,0.0,14.620965650946061
+Scotiabank,8.063871176640836,1.2189831806732008,0.0,9.282854357314037
+CIBC,7.057488028069569,1.0668522618441694,0.0,8.12434028991374
+National Bank of Canada,2.780651693701814,0.4203400044077777,0.0,3.2009916981095916
+Sun Life Financial,0.0013334978972067214,0.000201579548153845,0.0,0.0015350774453605663
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.12668230023463853,0.019150057074615277,0.0,0.1458323573092538
+Fairfax,0.01688362626876609,0.0025522303121627322,0.0,0.019435856580928824
+Intact Financial,1.5755002139402947,0.2381620712770705,0.0,1.8136622852173652
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4.921477871551308,0.7439601424753257,0.0,5.665438014026634
+Healthcare of Ontario Pension Plan Trust Fund,0.8583538613375429,0.12975392303727581,0.0,0.9881077843748187
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

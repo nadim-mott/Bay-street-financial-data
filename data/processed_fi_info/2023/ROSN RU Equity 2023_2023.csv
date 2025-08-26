@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ROSN RU Equity 2023,62470.0,14680.0,,,,,,,,,,,,,,,,,,,,5647750.0,ROSNEFT OIL CO PJSC,9500.0,,,,18787000.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1552.7380160240805,364.88224868310385,0.0,1917.6202647071843
+BMO,642.7571510778629,151.04330042937454,0.0,793.8004515072374
+TD,226.17618697711478,53.14977468903546,0.0,279.32596166615025
+Scotiabank,318.00495772652823,74.7288743304856,0.0,392.73383205701384
+CIBC,214.62845912088883,50.43614182639104,0.0,265.06460094727987
+National Bank of Canada,144.39084237085564,33.930807843831616,0.0,178.32165021468725
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,256.72678500287725,60.328945155150286,0.0,317.05573015802753
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1233.2619397105043,289.8076720818025,0.0,1523.0696117923067
+Healthcare of Ontario Pension Plan Trust Fund,287.1335894825373,67.47432517374176,0.0,354.60791465627904
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,13.140517905360541,3.0879270505953698,0.0,16.22844495595591

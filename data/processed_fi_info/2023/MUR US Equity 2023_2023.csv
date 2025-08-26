@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,MUR US Equity 2023,1083.36,28.17,24300.0,,,,,,,,,,,24300.0,,,,,,8474.8021,3460.147,6516.2571,MURPHY OIL CORP,155.234,42.66,2088.76,317.074,9766.697
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,154987.68601993928,4030.057520290291,3476407.445617823,3635425.1891580527
+BMO,57980.083861331994,1507.6234699210995,1300505.8686220346,1359993.5759532875
+TD,17853.28783298007,464.2289896756836,400453.1220844555,418770.63890711125
+Scotiabank,25370.50540869543,659.6949650743524,569065.9443133391,595096.1446871088
+CIBC,8919.411826154004,231.92644286549103,200064.34368588682,209215.68195490632
+National Bank of Canada,34428.573863360914,895.2268181683623,772240.386279418,807564.1869609474
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,55.52915338469379,1.4438933049464855,1245.530965928278,1302.5040126179183
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,55499.22749364815,1443.1151588539992,1244859.7216951433,1301802.0643476455
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24951.54293405642,648.8009197795465,559668.525049449,585268.8689032849
+Healthcare of Ontario Pension Plan Trust Fund,27653.51838557751,719.0588658633496,620274.4210322825,648646.9982837234
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,403.66701921567824,10.496326180868463,9054.338878065446,9468.502223461992

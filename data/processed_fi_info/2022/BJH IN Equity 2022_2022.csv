@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,BJH IN Equity 2022,3.157,93.944,,,,,,,,,,,,,,,,,,44557.8512,55756.5,16096.5512,BAJAJ HINDUSTHAN SUGAR LTD,1201.1,14.2,48166.3,19704.8,130497.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,25.707800811393685,764.9964014651785,0.0,790.7042022765721
+BMO,3.403622137393009,101.28282485753844,0.0,104.68644699493146
+TD,1.3530937608548097,40.264504361654815,0.0,41.61759812250963
+Scotiabank,31.192155186634018,928.1963341315002,0.0,959.3884893181342
+CIBC,1.1869725236546325,35.32117414070661,0.0,36.50814666436124
+National Bank of Canada,3.7611652488639926,111.92236558101962,0.0,115.68353082988361
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1.3619195644840991,40.527137018021605,0.0,41.8890565825057
+Fairfax,0.2588902397924842,7.703891253425764,0.0,7.962781493218249
+Intact Financial,0.07060642903431388,2.1010612509342996,0.0,2.1716676799686137
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1.3022963577440116,38.752907517232636,0.0,40.05520387497665
+Healthcare of Ontario Pension Plan Trust Fund,1.1310757673358005,33.65783398371696,0.0,34.78890975105276
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

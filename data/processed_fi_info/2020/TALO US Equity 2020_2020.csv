@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,TALO US Equity 2020,406.075,0.946,,,,,,,,,,,,,,,,,,1703.3991,587.486,669.7471,TALOS ENERGY INC,67.664,8.24,1067.885,34.233,2834.546
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2476875.418758812,5770.17582009687,0.0,2482645.5945789088
+BMO,765132.8898624569,1782.468051000146,0.0,766915.3579134571
+TD,812393.6157394334,1892.567531834031,0.0,814286.1832712675
+Scotiabank,267354.02572105196,622.8329947229334,0.0,267976.8587157749
+CIBC,394732.68044012436,919.5767178387184,0.0,395652.25715796306
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,394.10211705283984,0.9181077454460049,0.0,395.0202247982858
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,154300.67980137578,359.4617819173834,0.0,154660.14158329315
+Fairfax,986.4679145307234,2.2980943105240765,0.0,988.7660088412475
+Intact Financial,80986.16612151063,188.6669042687904,0.0,81174.83302577942
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,880142.194904614,2050.3959031700174,0.0,882192.590807784
+Healthcare of Ontario Pension Plan Trust Fund,43179.040566207754,100.59070953797337,0.0,43279.63127574573
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4487.307335858565,10.453716036993665,0.0,4497.761051895559

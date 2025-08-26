@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,RELI IN Equity 2023,14.304,22.494,,,,,,,,,,,,,,,,,,193340.2075,,50745.7075,RELIANCE INFRASTRUCTURE LTD,285.1158,144.25,115097.3,19098.4,609930.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,79.37827111780835,124.82765873349979,0.0,204.20592985130816
+BMO,32.58064418552052,51.235249602146155,0.0,83.81589378766668
+TD,17.92139790345814,28.182600981570708,0.0,46.103998885028844
+Scotiabank,10.901838426432423,17.14387259257347,0.0,28.045711019005893
+CIBC,3.073294662410609,4.832962118027422,0.0,7.906256780438031
+National Bank of Canada,4.937059159141687,7.763856874002594,0.0,12.700916033144281
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.6347848830366589,0.9982418315874304,0.0,1.6330267146240893
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,42.31607948317599,66.54487499262869,0.0,108.86095447580468
+Healthcare of Ontario Pension Plan Trust Fund,15.809300599464498,24.86118621954379,0.0,40.67048681900829
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.2351808869745289,1.9424048428135525,0.0,3.177585729788081

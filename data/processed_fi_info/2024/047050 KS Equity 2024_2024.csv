@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,047050 KS Equity 2024,7524.97,131.85,537.388,505.0,10.0,14.0,3.0,0.0,4.388,,,,,,,,,,,12653862.08,32340793.12,6758123.91,POSCO INTERNATIONAL CORP,170.4115,39650.0,6307532.0,1174279.0,17336326.62
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,368.3036719979288,6.453293388934029,26.253084067527848,401.0100494543907
+BMO,227.30827314469883,3.9828193087983794,16.20277954802992,247.49387200152714
+TD,54.32732754821597,0.9519052085566154,3.8725106636880233,59.151743420460605
+Scotiabank,108.41303204960029,1.8995767791419496,7.727798175277909,118.04040700402015
+CIBC,90.32248070455992,1.5826002071631147,6.438284110123693,98.34336502184674
+National Bank of Canada,136.30434863985798,2.388279071965107,9.715921386827606,148.4085490986507
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,15.613080012319573,0.27356715038389995,1.1129172291249096,16.999564391828383
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,121.63215099884133,2.1311977468610808,8.670071270711578,132.43342001641398
+Healthcare of Ontario Pension Plan Trust Fund,15.021827303252271,0.2632074187583222,1.070772096571399,16.355806818581993
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

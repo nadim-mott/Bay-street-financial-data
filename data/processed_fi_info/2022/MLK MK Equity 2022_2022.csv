@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,MLK MK Equity 2022,16816.801,90.019,,,,,,,,,,,,,,,,,,10043.3378,10355.15,3176.5248,MALAKOFF CORP BHD,4886.961,0.65,8764.438,2232.37,21983.829
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,952385.2081041521,5098.042371336122,0.0,957483.2504754883
+BMO,551199.2391546888,2950.525745619868,0.0,554149.7649003087
+TD,506723.60804958927,2712.4512249990935,0.0,509436.05927458836
+Scotiabank,368415.56583786156,1972.0992608022457,0.0,370387.6650986638
+CIBC,173339.02078837855,927.8700100184958,0.0,174266.89079839704
+National Bank of Canada,264593.21116554795,1416.3464428170057,0.0,266009.55760836496
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,230282.22852155915,1232.6824780338563,0.0,231514.910999593
+Healthcare of Ontario Pension Plan Trust Fund,266996.72699958144,1429.2122721661108,0.0,268425.93927174754
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,778.2308978037885,4.16580818131815,0.0,782.3967059851067

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,CGAS5 BZ Equity 2021,9.847,0.482,9691.63,,,,1.769,0.137,0.007,,,,,9689.71,,,,,,25801.6031,11709.713,19742.9171,CIA DE GAS DE SAO PAULO-PR A,132.521,151.0,6950.336,891.65,12271.498
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,512.087048473703,25.066107176228783,504006.76520664716,504543.9183622971
+BMO,642.9918994088264,31.47375804966531,632846.052719028,633520.5183764865
+TD,121.63387871390088,5.953846810206177,119714.60307940005,119842.19080492416
+Scotiabank,72.51388580262032,3.5494762828133437,71369.68045740313,71445.74381948856
+CIBC,253.8813946597588,12.42721968376193,249875.36952946027,250141.6781438038
+National Bank of Canada,116.03578358742134,5.679826108371796,114204.84097073984,114326.55658043563
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,5.284374364313164,0.2586644098302981,5200.9915842173095,5206.534622991453
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,203.10451721442925,9.941746450427024,199899.7065542052,200112.75281787003
+Healthcare of Ontario Pension Plan Trust Fund,58.50268762968164,2.863643286026866,57579.56666940571,57640.93300032141
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,7.499871384254559,0.36711059279076846,7381.530009615449,7389.3969915924945

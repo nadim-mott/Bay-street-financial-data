@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,CESC IN Equity 2023,5205.67,14.913,,,,,,,,,,,,,,,,,,210018.5692,142460.0,88349.2692,CESC LTD,1325.5704,66.65,142628.4,25746.4,377118.9
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,64721.06610735837,185.4103811534414,0.0,64906.47648851181
+BMO,59046.927254379596,169.15532988924826,0.0,59216.08258426884
+TD,12075.427732796685,34.593213511266946,0.0,12110.020946307952
+Scotiabank,11421.399266877013,32.719578318821,0.0,11454.118845195835
+CIBC,3573.0576758409675,10.235956009469742,0.0,3583.293631850437
+National Bank of Canada,6122.001048425197,17.5380693811104,0.0,6139.539117806307
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,7923.054032007771,22.697655590794632,0.0,7945.751687598566
+Healthcare of Ontario Pension Plan Trust Fund,9546.576586057376,27.348659563105926,0.0,9573.925245620481
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1673.3701290196975,4.793805357249067,0.0,1678.1639343769466

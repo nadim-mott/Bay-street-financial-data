@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,GAIL IN Equity 2021,3281.06,419.125,24348.301,0.0,0.0,0.0,0.0,0.0,477.417,0.0,0.0,0.0,0.0,23870.9,0.0,0.0,0.0,0.0,,656441.998,574282.6,601672.198,GAIL INDIA LTD,6763.0602,90.33,78726.1,24931.2,810098.9
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1428.6876328960773,182.50160135369924,10602.104008988963,12213.293243238739
+BMO,413.3988529082741,52.80787130536485,3067.7788025964264,3533.9855268100655
+TD,1009.3502068712836,128.9351323825004,7490.255832236411,8628.541171490195
+Scotiabank,364.5923980020762,46.57329912059523,2705.592486069965,3116.758183192637
+CIBC,168.21594575323886,21.48802773000989,1248.3085257979628,1438.0124992812116
+National Bank of Canada,120.41288612109015,15.381629990156203,893.5682743263469,1029.3627904375933
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,495.7317977321598,63.32514179091253,3678.760814542407,4237.81775406548
+Healthcare of Ontario Pension Plan Trust Fund,130.32686768751114,16.64804923394516,967.1386344878114,1114.1135514092678
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

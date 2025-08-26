@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,TETY SS Equity 2021,242.621,0.049,296.143,0.355,2.958,6.704,0.032,36.952,0.045,0.018,,6.038,14.635,228.325,,,,0.081,,156.6348,112.7,224.1348,TETHYS OIL AB,32.6191,62.3,1.1,68.6,284.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4266701.95492177,861.7077490867104,5207933.019138482,9475496.68180934
+BMO,1454466.2120518547,293.7455718612192,1775320.303830552,3230080.261454268
+TD,1240157.2088091632,250.46349339772317,1513734.9045975902,2754142.576900151
+Scotiabank,770219.9328886011,155.554452052961,940129.8386595923,1710505.3260002465
+CIBC,689445.4212108072,139.24114416859857,841536.5338269648,1531121.1961819406
+National Bank of Canada,271080.6467625732,54.74774109152171,330880.8222462553,602016.21674992
+Sun Life Financial,130.97984337996598,0.026452831064163174,159.87389285376477,290.88018906479493
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,140089.97860216262,28.29272384297307,170993.7166740729,311111.9880000785
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,153800.645513325,31.061744985606875,187728.9458218893,341560.6530801999
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,482491.85628023854,97.444577995028,588929.1767588075,1071518.477617041
+Healthcare of Ontario Pension Plan Trust Fund,84309.88497100852,17.027315704656303,102908.57866783737,187235.49095455054
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

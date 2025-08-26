@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,135 HK Equity 2021,480.112,987.566,,,,,,,,,,,,,,,,,,67865.5218,138547.0,51596.5218,KUNLUN ENERGY CO LTD,8659.0,7.31,25177.0,28494.0,132582.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1808.4228085312527,3719.833870700951,0.0,5528.256679232204
+BMO,1020.8929985664267,2099.9250487849745,0.0,3120.818047351401
+TD,842.6719709621977,1733.3334465192574,0.0,2576.005417481455
+Scotiabank,943.3627107786945,1940.449184425451,0.0,2883.8118952041455
+CIBC,500.7179928163298,1029.951480682948,0.0,1530.6694734992777
+National Bank of Canada,78.24678228601061,160.94965715305253,0.0,239.19643943906314
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,77.80944148836018,160.05006934401536,0.0,237.85951083237552
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,233.36318860160065,480.016226868998,0.0,713.3794154705986
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,166.43143631437573,342.3410117540132,0.0,508.77244806838894
+Healthcare of Ontario Pension Plan Trust Fund,87.47746465344105,179.9367019735815,0.0,267.41416662702255
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

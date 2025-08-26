@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,IOCL IN Equity 2023,20210.0,629.999,299923.0,,,121.4,22340.0,1.73,19.988,,,,,277440.0,,,,,,2503459.57,8417559.1,1100044.47,INDIAN OIL CORP LTD,13771.5607,77.9,1489770.8,121296.7,4417184.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,26386.81791655205,822.5467046318591,391589.14911581174,418798.51373699564
+BMO,23175.4501343023,722.439901492346,343931.38373743015,367829.2737732248
+TD,4572.933928752898,142.55041079566539,67863.85959028002,72579.34392982858
+Scotiabank,4387.560604709008,136.77183539861804,65112.85784157799,69637.19028168562
+CIBC,1592.4285042767408,49.64019620315895,23632.168342145298,25274.2370426252
+National Bank of Canada,4294.120691320779,133.85906686845127,63726.178466563266,68154.1582247525
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,426.4137612545791,13.292441522841346,6328.121961087628,6767.828163865048
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,47.58343996765876,1.4833013159913435,706.1540663169735,755.2208076006236
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,6317.53758100343,196.9343076939426,93754.35771285139,100268.82960154876
+Healthcare of Ontario Pension Plan Trust Fund,3613.071224293323,112.62895884381838,53619.17798842805,57344.878171565186
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,662.3835307312621,20.648241562452473,9829.991778761454,10513.023551055168

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,600219 CH Equity 2022,1482.42,7586.07,,,,,,,,,,,,,,,,,,33329.841,34951.2225,38286.9678,SHANDONG NANSHAN ALUMINUM-A,11866.3319,3.27,8368.637,18241.8951,
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,22768.003308426007,116511.96479941667,0.0,139279.96810784267
+BMO,19219.67064364914,98353.8854573383,0.0,117573.55610098744
+TD,6511.316662689595,33320.721519764746,0.0,39832.038182454344
+Scotiabank,11909.084730392256,60943.019117852426,0.0,72852.10384824467
+CIBC,15561.415709707888,79633.29479698311,0.0,95194.710506691
+National Bank of Canada,9914.996422359673,50738.560535995224,0.0,60653.55695835489
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,55.483836460927584,283.93051042292257,0.0,339.41434688385016
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1167.7934344019793,5976.014043870039,0.0,7143.807478272019
+Healthcare of Ontario Pension Plan Trust Fund,7213.36336381279,36913.34400056616,0.0,44126.70736437895
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,600.1391940993562,3071.1255488871593,0.0,3671.2647429865156

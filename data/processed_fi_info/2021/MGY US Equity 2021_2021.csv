@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,MGY US Equity 2021,322.006,,,,,,,,,,,,,,,,,,,4339.2348,1078.351,4312.9838,MAGNOLIA OIL & GAS CORP - A,174.364,18.87,393.233,366.982,1746.742
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,93464.06708228303,,0.0,93464.06708228303
+BMO,37595.85356615528,,0.0,37595.85356615528
+TD,43771.77714045668,,0.0,43771.77714045668
+Scotiabank,20603.683187495393,,0.0,20603.683187495393
+CIBC,24959.254389501762,,0.0,24959.254389501762
+National Bank of Canada,5197.881737000727,,0.0,5197.881737000727
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,65.02858322815867,,0.0,65.02858322815867
+Fairfax,0.0,,0.0,0.0
+Intact Financial,1818.6351996035783,,0.0,1818.6351996035783
+OMERS,0.0,,0.0,0.0
+CPPIB,1854.9198051706105,,0.0,1854.9198051706105
+Healthcare of Ontario Pension Plan Trust Fund,932.9473892297021,,0.0,932.9473892297021
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0
