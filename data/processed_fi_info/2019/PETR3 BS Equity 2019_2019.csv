@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,PETR3 BS Equity 2019,58800.0,300.0,414000.0,,,,,,,,,,14000.0,400000.0,,,,,,714904.9862,302245.0,393673.9862,PETROBRAS - PETROLEO BRAS,13044.4969,32.0,351161.0,33526.0,926011.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,521583.44416408375,2661.140021245325,3672373.229318549,4196617.813503878
+BMO,271140.7279671557,1383.3710610569167,1909052.0642585452,2181576.1632867577
+TD,156732.89209577953,799.6576127335691,1103527.5055723253,1261060.0552808384
+Scotiabank,89470.32832925348,456.48126698598713,629944.1484406623,719870.9580369018
+CIBC,89090.94842294662,454.5456552191154,627273.0042023793,716818.498280545
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,285.5804649049986,1.4570431882908093,2010.7195998413165,2297.7571079346058
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,13370.90126479889,68.21888400407596,94142.05992562482,107581.18007442779
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,37058.994272962205,189.07650139266428,260925.57192187672,298173.6426962316
+Healthcare of Ontario Pension Plan Trust Fund,3797.9812037679417,19.37745512126501,26740.88806734571,30558.246726234916
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

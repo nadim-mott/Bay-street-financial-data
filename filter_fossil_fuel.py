@@ -1,7 +1,6 @@
 
 import csv
 from typing import Set, Callable, Tuple, Optional, Any, Dict
-import time
 import os
 from functools import cmp_to_key
 from utilities import print_cond, contains_which

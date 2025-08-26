@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,OKE US Equity 2019,4200.0,3000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,43971.6399,10164.367,31269.7989,ONEOK INC,413.56,75.67,12722.799,20.958,21812.121
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,87938.65316479538,62813.32368913956,0.0,150751.97685393493
+BMO,22322.465271754594,15944.618051253283,0.0,38267.08332300788
+TD,20287.19154954335,14490.85110681668,0.0,34778.042656360034
+Scotiabank,12088.878512103254,8634.913222930898,0.0,20723.791735034152
+CIBC,9787.661282337189,6991.186630240848,0.0,16778.847912578036
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,276.95732958487304,197.82666398919503,0.0,474.78399357406806
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2452.9930699362444,1752.1379070973176,0.0,4205.130977033562
+Healthcare of Ontario Pension Plan Trust Fund,1592.3031727588118,1137.3594091134369,0.0,2729.6625818722487
+OTPP,609.7896587368203,435.56404195487164,0.0,1045.353700691692
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

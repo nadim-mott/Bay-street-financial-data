@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CIVI US Equity 2020,1200.55,67.564,,,,,,,,,,,,,,,,,,408.1013,218.09,402.8223,CIVITAS RESOURCES INC,20.774,19.33,30.022,24.743,1182.812
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,8804393.359180959,495489.59470218007,0.0,9299882.95388314
+BMO,6381258.465953846,359121.52512907056,0.0,6740379.991082917
+TD,3470747.522542818,195325.13065935025,0.0,3666072.653202168
+Scotiabank,1216786.0331962751,68477.72399889478,0.0,1285263.7571951698
+CIBC,2569043.7129473714,144579.45893263604,0.0,2713623.1718800073
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,5057.64787599892,284.63197792177834,0.0,5342.279853920699
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,5144.077922200435,289.4960482575071,0.0,5433.573970457942
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,38887.56009783967,2188.496197951305,0.0,41076.05629579097
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4920727.781083619,276926.4518771677,0.0,5197654.232960787
+Healthcare of Ontario Pension Plan Trust Fund,722036.6059674451,40634.44358467741,0.0,762671.0495521225
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,45757.258597649634,2575.105926360085,0.0,48332.36452400972

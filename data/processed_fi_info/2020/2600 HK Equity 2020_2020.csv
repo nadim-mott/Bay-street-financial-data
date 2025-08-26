@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,2600 HK Equity 2020,61012.301,28027.699,,,,,,,,,,,,,,,,,,155681.9885,185994.253,56572.7795,ALUMINUM CORP OF CHINA LTD-H,17022.673,2.74,92225.38,9972.018,195040.911
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,234126.03271667074,107552.31101752743,0.0,341678.3437341982
+BMO,130884.74575764834,60125.5516946803,0.0,191010.29745232864
+TD,98355.79740074465,45182.47368597119,0.0,143538.27108671583
+Scotiabank,126854.48649069823,58274.139901080875,0.0,185128.6263917791
+CIBC,75960.19559783164,34894.43052143125,0.0,110854.62611926289
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,9.706270645584949,4.458845636177378,0.0,14.165116281762327
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,26145.45769565733,12010.64386198313,0.0,38156.10155764046
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,713.9501297085818,327.97286790549157,0.0,1041.9229976140734
+Healthcare of Ontario Pension Plan Trust Fund,8792.80273038379,4039.2187190837963,0.0,12832.021449467586
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2911.881193675485,1337.6536908532132,0.0,4249.534884528698

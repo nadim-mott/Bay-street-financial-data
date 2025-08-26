@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ECOPETL CB Equity 2019,13009.0,697.0,143770.0,7658.0,,,,,,,,,,134123.0,,,,1656.0,333.0,171397015.9,70847000.0,136301842.9,ECOPETROL SA,41116.6947,3315.0,38239139.0,7075758.0,135448018.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,452.4036670160092,24.23901575141505,4999.775171565197,5476.417854332621
+BMO,293.771698856465,15.73978584848613,3246.641336351293,3556.152821056244
+TD,119.44935176661502,6.399892242396086,1320.1040282486158,1445.9532722576268
+Scotiabank,69.27174977323803,3.711462033357437,765.5622618878031,838.5454736943985
+CIBC,75.62259471108003,4.0517294575772755,835.7491307258033,915.4234548944606
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.13781909033894654,0.00738411145870134,1.523118657700849,1.668321859498497
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,9.680168572394262,0.5186468979136598,106.98115425114328,117.1799697214512
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,46.526064197478284,2.4927870509372254,514.1865054709396,563.2053567193551
+Healthcare of Ontario Pension Plan Trust Fund,8.53676642401436,0.457385363789531,94.34475430706007,103.33890609486396
+OTPP,0.6813646024444179,0.03650635159533855,7.530155192054266,8.248026146094023
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

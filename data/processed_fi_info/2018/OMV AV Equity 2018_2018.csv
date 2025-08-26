@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,OMV AV Equity 2018,11200.0,400.0,109246.0,1138.28,137.773,75.706,,662.989,,,,,7549.37,99681.797,,,,,,19449.4445,22930.0,12497.4445,OMV AG,326.6514,38.25,6041.0,4512.0,36961.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1040868.411137973,37173.87182635618,10152734.104407506,11230776.387371834
+BMO,702067.2426270829,25073.830093824385,6848033.777885952,7575174.85060686
+TD,512204.5550992444,18293.019824973017,4996094.222230793,5526591.7971550105
+Scotiabank,89936.46661123399,3212.016664686929,877249.2488224293,970397.7320983503
+CIBC,333203.6081456493,11900.128862344618,3250101.1654618676,3595204.9024698613
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,3506.7649230208626,125.24160439360222,34205.334170117734,37837.3406975322
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1087.966423855693,38.85594370913189,10612.13280923152,11738.955176796344
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,43431.727182305156,1551.1331136537553,423637.3907197588,468620.25101571775
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

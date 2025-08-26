@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,MER PM Equity 2018,683.917,1916.02,31430.5,,,,,,,,,,,,,,,,,404151.0,304454.0,428260.0,MANILA ELECTRIC COMPANY,1127.0,380.0,43479.0,68433.0,336251.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1032.4007063279316,2892.3106185961797,0.0,3924.711324924111
+BMO,411.0033594195115,1151.4418514453837,0.0,1562.4452108648952
+TD,175.69509294820904,492.21661691495814,0.0,667.9117098631672
+Scotiabank,179.22758350067716,502.11302619903796,0.0,681.3406096997151
+CIBC,143.21278832017933,401.2161807313314,0.0,544.4289690515108
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.657352748330453,7.444676785130527,0.0,10.10202953346098
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,13.422505919301358,37.60367090085462,0.0,51.026176820155975
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,257.7025318498109,721.9636375099238,0.0,979.6661693597348
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

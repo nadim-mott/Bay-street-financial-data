@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,GPSC TB Equity 2018,11905.1,17.631,495.331,0.0,0.0,341.067,0.07,0.0,0.904,0.0,,0.0,,,,,,,153.29,102590.334,24777.4047,87650.6085,GLOBAL POWER SYNERGY PCL,1681.8421,52.116,17504.0179,4921.4056,64439.0234
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,394820.9020659566,584.7147293449766,16427.164176800896,411832.7809721025
+BMO,186904.83349696314,276.79894493830017,7776.4788267955955,194958.11126869704
+TD,123516.21886458439,182.9228191952598,5139.092675106757,128838.2343588864
+Scotiabank,41192.71827873277,61.00484800399303,1713.8898738963119,42967.61300063307
+CIBC,57972.74855313754,85.85543420385952,2412.0502569129344,60470.654244254336
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,365.63955172085315,0.5414982601062035,15.213026752689347,381.3940767336487
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,7852.965067549988,11.629942386538024,326.735352065468,8191.330362001994
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,49854.65406324019,73.83284523347034,2074.2837650921724,52002.77067356583
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

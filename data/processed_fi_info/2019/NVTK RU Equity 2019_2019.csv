@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,NVTK RU Equity 2019,11114.9,204.8,,,,,,,,,,,,,,,,,,3844655.972,862803.0,3800141.972,NOVATEK PJSC,3011.5,,162561.0,137614.0,2012867.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,15470.89479529582,285.06232661351737,0.0,15755.957121909338
+BMO,8289.448890068994,152.73903792981767,0.0,8442.187927998812
+TD,5464.026946885867,100.67861327787256,0.0,5564.705560163739
+Scotiabank,2264.2457583687346,41.72035117850066,0.0,2305.966109547235
+CIBC,1873.9460020100532,34.52879838879872,0.0,1908.474800398852
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,11.977319751568482,0.22069070213148342,0.0,12.198010453699965
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,269.8538400291114,4.972250442015855,0.0,274.82609047112726
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,711.5931867347613,13.111614557331071,0.0,724.7048012920924
+Healthcare of Ontario Pension Plan Trust Fund,53.644938110749095,0.988446439021621,0.0,54.63338454977072
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

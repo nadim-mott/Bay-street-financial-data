@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,TETY SS Equity 2019,181.265,0.05,364.706,0.394,6.132,6.08,0.035,20.471,0.073,0.018,,8.401,20.367,302.654,,,,0.081,,235.8664,150.8,310.7664,TETHYS OIL AB,34.2229,84.4,0.7,75.6,300.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2012707.0034598333,555.1835719691704,4049575.5959717655,6062837.783003568
+BMO,995540.0037616679,274.60899891365347,2003030.9911560582,2998845.6039166395
+TD,591288.1817178434,163.1004831925202,1189674.4964642252,1781125.778665261
+Scotiabank,333680.90097578114,92.04228642478724,671367.4822567691,1005140.425518975
+CIBC,345845.2841748657,95.39770065232278,695842.2762821206,1041782.9581576387
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,741.9369661585035,0.20465532953369478,1492.7805322583135,2234.922153746351
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,52215.56384473997,14.403101493597765,105057.95066648134,157287.9176127149
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,132132.44089451112,36.44731219333879,265851.0688156764,398019.95702238084
+Healthcare of Ontario Pension Plan Trust Fund,951.3358426136158,0.2624157566583775,1914.0920189570045,2865.6902773272786
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

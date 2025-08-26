@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,GPSC TB Equity 2020,11177.9,20.522,327.078,0.0,0.0,326.913,0.096,0.0,0.069,0.0,,0.0,0.0,0.0,,,,,,301266.0247,69577.9765,207955.0408,GLOBAL POWER SYNERGY PCL,2819.0,73.75,107168.2103,22823.2064,256656.3184
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,217188.45450511435,398.7458702756293,6355.179892701115,223942.3802680911
+BMO,94217.17322083782,172.97746704103938,2756.9010800530687,97147.05176793193
+TD,63231.14069952374,116.08884221863016,1850.2147127563164,65197.44425449869
+Scotiabank,41270.09626496152,75.76959138563954,1207.6097072035968,42553.47556355075
+CIBC,30907.125286669172,56.74375554737694,904.3774523401695,31868.24649455672
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,25.639476107375994,0.047072645906258787,0.7502400778543667,26.43678883113662
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6017.321659942181,11.047466438716881,176.07363940369558,6204.442765784594
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24600.45918252153,45.16506887194436,719.837267152218,25365.46151854569
+Healthcare of Ontario Pension Plan Trust Fund,14301.183758080848,26.256174512505492,418.4688162557876,14745.90874884914
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1223.0621369962964,2.245473763000026,35.78818182704038,1261.0957925863368

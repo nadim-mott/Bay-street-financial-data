@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ECL CI Equity 2019,4110.0,,,,,,,,,,,,,,,,,,,2287.7318,1454.436,1603.2428,ENGIE ENERGIA CHILE SA,1053.3098,1145.0,859.693,239.554,3507.79
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3688518.856906764,,0.0,3688518.856906764
+BMO,3050468.132462532,,0.0,3050468.132462532
+TD,1129168.7696960184,,0.0,1129168.7696960184
+Scotiabank,484611.7443970433,,0.0,484611.7443970433
+CIBC,2067029.73498462,,0.0,2067029.73498462
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,1776.543141188596,,0.0,1776.543141188596
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,47200.16207152155,,0.0,47200.16207152155
+OMERS,30426.826180039603,,0.0,30426.826180039603
+CPPIB,954811.1864279072,,0.0,954811.1864279072
+Healthcare of Ontario Pension Plan Trust Fund,221011.70827026322,,0.0,221011.70827026322
+OTPP,11189.914590603494,,0.0,11189.914590603494
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

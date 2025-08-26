@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CGAS5 BZ Equity 2020,12.219,0.232,8440.81,,,,3.26,0.124,0.024,,,,,8437.4,,,,,,28505.1952,8317.691,23071.8342,CIA DE GAS DE SAO PAULO-PR A,132.521,172.71,7043.909,1610.548,10616.884
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,337.8981339507025,6.415612331333414,233417.89608283504,233762.20982911708
+BMO,429.75472405223854,8.15967722236839,296871.8481723486,297309.76257362316
+TD,110.43572582538756,2.096823667361479,76288.30166402634,76400.83421351909
+Scotiabank,238.92627665467532,4.536451115793819,165048.7623698336,165292.22509760407
+CIBC,173.00453095315675,3.284806545636498,119510.4369347453,119686.7262722441
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.05137185841947494,0.0009753884240378252,35.48735522726667,35.53970247411018
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,5.409933337679758,0.10271745104686995,3737.1477695518456,3742.6604203405723
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,220.90958333949888,4.194371334377915,152602.94445770592,152828.0484123798
+Healthcare of Ontario Pension Plan Trust Fund,119.38237329219366,2.2666920864055102,82468.58920891516,82590.23827429376
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,8.13105301354844,0.15438287086858488,5616.880049528095,5625.165485412512

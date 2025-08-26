@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,DANA UH Equity 2018,153.726,4.124,,,,,,,,,,,,,,,,,,1830.6063,470.0,1823.6063,DANA GAS,6977.0,0.96,414.0,409.0,3167.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,21302.475665937323,571.480488962996,0.0,21873.95615490032
+BMO,7897.523734152487,211.86648894555802,0.0,8109.390223098045
+TD,7865.912058978958,211.0184440577991,0.0,8076.930503036757
+Scotiabank,2813.0176014417148,75.46468774537574,0.0,2888.4822891870904
+CIBC,2382.0029476757127,63.90187838241182,0.0,2445.9048260581244
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,140.2715399700034,3.76305784861568,0.0,144.0345978186191
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1328.2804418914322,35.63371545711374,0.0,1363.914157348546
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,518.7686640477169,13.916981971382747,0.0,532.6856460190996
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,9005.955512437087,241.60233488993757,0.0,9247.557847327025
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

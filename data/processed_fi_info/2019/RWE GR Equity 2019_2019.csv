@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,RWE GR Equity 2019,89836.102,622.728,23550.5,1025.17,429.362,5434.45,697.183,64.387,10.375,18.633,14.313,6.368,199.754,14412.6,,,,1237.99,,16479.2758,13277.0,16813.2758,RWE AG,614.745,27.35,5613.0,6450.0,64009.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,458630.5433216054,3179.1459627397535,120230.25658539427,582039.9458697394
+BMO,240212.65609727282,1665.1117265321964,62971.883792270855,304849.6516160759
+TD,5209.585597233824,36.11192769466138,1365.6958137212023,6611.393338649687
+Scotiabank,31166.679783246047,216.0419223004716,8170.362750190537,39553.08445573706
+CIBC,68670.35291861447,476.01076382747493,18001.971895328097,87148.33557777005
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,61093.7453525862,423.4910577033417,16015.759932398183,77532.99634268772
+Healthcare of Ontario Pension Plan Trust Fund,127220.75186680754,881.8717932409102,33350.99212789931,161453.61578794775
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

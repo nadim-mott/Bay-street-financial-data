@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CTRA US Equity 2020,1834.66,136.224,,,,,,,,,,,,,,,,,,7521.6279,1466.624,6493.6279,COTERRA ENERGY INC,399.0,16.28,1168.0,140.0,4524.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1167704.2562571224,86702.35607925731,0.0,1254406.6123363797
+BMO,508264.41003803135,37738.769577480714,0.0,546003.179615512
+TD,384064.3157640739,28516.879067862817,0.0,412581.19483193674
+Scotiabank,216837.65128272903,16100.254111572976,0.0,232937.905394302
+CIBC,163250.02154804714,12121.358145575296,0.0,175371.37969362244
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,141.2661788027614,10.489051890392426,0.0,151.75523069315383
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,557.153809198091,41.36882065570772,0.0,598.5226298537988
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,31628.64983686546,2348.4357839475215,0.0,33977.085620812984
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,490169.62519518565,36395.22692084035,0.0,526564.852116026
+Healthcare of Ontario Pension Plan Trust Fund,71215.67112276329,5287.782795192191,0.0,76503.45391795548
+OTPP,228.5686773028679,16.971285958654942,0.0,245.53996326152284
+OPSEU,195.22985910541627,14.495869712522332,0.0,209.7257288179386
+Investment Management of Ontario,6428.7412649560665,477.3357734279785,0.0,6906.077038384045

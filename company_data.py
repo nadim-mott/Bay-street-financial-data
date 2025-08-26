@@ -1,29 +1,35 @@
-from typing import Optional, Dict, Any
-import os
+from typing import Optional, Dict
 import csv
 from utilities import safe_to_float
 from functools import partial
 from extract_13F_data import get_share_value_from_13F
 
-HOLDINGS_DATA_COLLECTION = partial(get_share_value_from_13F, aggregation_method=sum)
+HOLDINGS_DATA_COLLECTION = partial(get_share_value_from_13F, aggregation_method=max)
 FINANCIAL_INSTITUTIONS = [
-    "BMO", 
-    "Brookfield Asset Management", 
-    "CIBC", 
-    "Fairfax", 
-    "Healthcare of Ontario Pension Plan Trust Fund",
-    "Intact Financial",
-    "Investment Management of Ontario",
-    "Manulife",
-    "National Bank of Canada",
-    "OMERS",
-    "OPSEU",
-    "OTPP",
-    "Power Corp of Canada",
+    # Banks:
     "RBC",
+    "BMO", 
+    "TD",
     "Scotiabank",
-    "TD"
+    "CIBC", 
+    "National Bank of Canada",
+    # Asset Management:
+    "Sun Life Financial",
+    "Power Corp of Canada",
+    "Manulife",
+    "Brookfield Asset Management", 
+    "Fairfax", 
+    "Intact Financial",
+    # Pension Funds
+    "OMERS",
+    "CPPIB",
+    "Healthcare of Ontario Pension Plan Trust Fund",
+    "OTPP", 
+    "OPSEU",
+    "Investment Management of Ontario",
 ]
+YEARS_OF_INTEREST = [str(i) for i in range(2018,2025)]
+
 class FossilFuelCompanyYear:
     year : int
     ticker : str
@@ -56,16 +62,15 @@ class FossilFuelCompanyYear:
     cash_and_marketable_securities : Optional[float] = None
     bs_tot_asset : Optional[float] = None
 
-    investment_data : Dict[str, float] = {}
+    share_values : Dict[str, float] = {}
 
     
-    def _read_from_csv(self, path_to_csv: str, year: int):
+    def _read_from_csv(self, path_to_csv: str, year: int, ticker: str):
         self.year = year
         with open(path_to_csv, mode='r', newline='') as source_file:
             reader = csv.reader(source_file)
             for line in reader:
-                if str(year) in line[0]:
-                    
+                if str(year) in line[0] and ticker in line[0]:
                     self.ticker = line[0]
                     fields = [safe_to_float(val) for val in line]
                     self.ghg_scope_1 = fields[1] 
@@ -97,13 +102,13 @@ class FossilFuelCompanyYear:
                     self.cash_and_marketable_securities = safe_to_float(line[27]) if len(line) > 27 else None
                     self.bs_tot_asset = safe_to_float(line[28]) if len(line) > 28 else None
                     return
-            print(path_to_csv)
+            raise StopIteration
             
-    def __init__(self, path_to_csv: str, year: int):
-        self._read_from_csv(path_to_csv, year)
+    def __init__(self, path_to_csv: str, year: int, ticker: str):
+        self._read_from_csv(path_to_csv, year, ticker)
         for financial_institution in FINANCIAL_INSTITUTIONS:
             if self.ticker is not None:
-                self.investment_data[financial_institution] = HOLDINGS_DATA_COLLECTION(self.ticker, financial_institution, year)
+                self.share_values[financial_institution] = HOLDINGS_DATA_COLLECTION(self.ticker, financial_institution, year)
 
 
             
@@ -129,21 +134,21 @@ class FossilFuelCompanyYear:
         return sum(v for v in scope_3_fields if v is not None)
 
     def get_financed_scope_1_emission(self, fi: str) -> Optional[float]:
-        share_value = self.investment_data[fi]
+        share_value = self.share_values[fi]
         if self.historical_market_cap is None or self.ghg_scope_1 is None :
             return None
         
         return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_1 * 1000
         
     def get_financed_scope_2_emission(self, fi: str) -> Optional[float]:
-        share_value = self.investment_data[fi]
+        share_value = self.share_values[fi]
         if self.historical_market_cap is None or self.ghg_scope_2_location_based is None :
             return None
         
         return (share_value / (self.historical_market_cap * (10 ** 6))) * self.ghg_scope_2_location_based * 1000
 
     def get_financed_scope_3_emission(self, fi: str) -> Optional[float]:
-        share_value = self.investment_data[fi]
+        share_value = self.share_values[fi]
         if self.historical_market_cap is None :
             return None
         
@@ -159,7 +164,8 @@ class FossilFuelCompanyYear:
         
 
     def export_with_financed_data_to_csv(self, output_path: str):
-        with open(output_path, mode='w', newline='') as f:
+        path  = output_path.replace("/", " - ")
+        with open(path, mode='w', newline='') as f:
             writer = csv.writer(f)
 
             # Write raw data (header and values)
@@ -182,7 +188,7 @@ class FossilFuelCompanyYear:
 
             # Write financed emissions per institution
             writer.writerow(['Financial Institution', 'Financed Scope 1', 'Financed Scope 2', 'Financed Scope 3', 'Total Financed Emissions'])
-            for fi in self.investment_data:
+            for fi in self.share_values:
                 row = [
                     fi,
                     self.get_financed_scope_1_emission(fi),

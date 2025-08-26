@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,5020 JP Equity 2020,22698.0,0.596,239945.0,17208.4,,,3162.6,72.5,4.475,1.1,,408.3,,218780.0,,,307.4,,,4005517.803,10011774.0,1191104.803,ENEOS HOLDINGS INC,3248.1,370.2,2816124.0,387749.0,8011292.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2007.8244735278763,0.052721093762561205,21225.085537939016,23232.962732560656
+BMO,540.1305664955833,0.014182651230565141,5709.820567821184,6249.965316967998
+TD,210.22863426401614,0.0055201456525400296,2222.365950614003,2432.6001050236714
+Scotiabank,46.03991845375843,0.0012089078948999922,486.69653160654747,532.7376589682008
+CIBC,90.4409987506364,0.0023747834723490745,956.068600581405,1046.5119741155138
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.15245006110516038,4.003006274503286e-06,1.6115779192269786,1.7640319833384135
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,22.848452908135908,0.0005999505653911799,241.53524064414336,264.3842935028447
+Intact Financial,14.95916224594386,0.00039279499068563484,158.13608332414725,173.09563836508178
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,36.30217080066631,0.0009532158691160948,383.7569920159242,420.06011603245963
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

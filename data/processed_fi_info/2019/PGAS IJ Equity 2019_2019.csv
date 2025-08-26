@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,PGAS IJ Equity 2019,62.766,62.766,0.672,,,,,,0.672,,,,,,,,,,,5974.0763,3848.7177,3780.6571,PERUSAHAAN GAS NEGARA TBK PT,24241.5082,2170.0,2746.721,1226.7365,7373.7132
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,22251.41126128577,22251.41126128577,238.23325315591308,44741.05577572746
+BMO,10744.56806463617,10744.56806463617,115.03600260388598,21604.17213187623
+TD,11765.417413814122,11765.417413814122,125.96565819206404,23656.80048582031
+Scotiabank,5611.782694071885,5611.782694071885,60.08217777803759,11283.647565921809
+CIBC,4526.451658892842,4526.451658892842,48.462153311920304,9101.365471097604
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,3.403384559789884,3.403384559789884,0.03643811018989266,6.843207229769661
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,47.73039321656544,47.73039321656544,0.5110222770533726,95.97180871018425
+Intact Financial,278.1810326040941,278.1810326040941,2.978326704106543,559.3403919122948
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5805.410372710077,5805.410372710077,62.15523962752401,11672.975985047678
+Healthcare of Ontario Pension Plan Trust Fund,1840.7993980728904,1840.7993980728904,19.708396193878574,3701.3071923396597
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

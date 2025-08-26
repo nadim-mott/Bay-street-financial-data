@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,IDA US Equity 2019,4026.23,8.979,,,,,,,,,,,,,,,,,,7007.8382,1346.383,5382.5082,IDACORP INC,50.502,106.8,1836.659,217.254,6641.201
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,401327.5620035284,895.011010108633,0.0,402222.57301363704
+BMO,104057.97087870669,232.06238106613566,0.0,104290.03325977283
+TD,194486.24829405738,433.72882906151443,0.0,194919.9771231189
+Scotiabank,77907.15130355026,173.74275974163865,0.0,78080.8940632919
+CIBC,12496.441413688883,27.868638267936127,0.0,12524.310051956818
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,623.1016220281839,1.3895950962044052,0.0,624.4912171243883
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6341.723351206413,14.142841807468121,0.0,6355.8661930138815
+OMERS,6159.206189411843,13.735805548796003,0.0,6172.941994960639
+CPPIB,66711.51867822514,148.7750889074354,0.0,66860.29376713258
+Healthcare of Ontario Pension Plan Trust Fund,120.43140593822041,0.2685772034680783,0.0,120.69998314168849
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

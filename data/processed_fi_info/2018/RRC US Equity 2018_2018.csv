@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,RRC US Equity 2018,473.164,1.717,,,,,,,,,,,,,,,,,,6224.1269,3202.386,2387.8109,RANGE RESOURCES CORP,246.171,9.57,3836.861,0.545,9708.154
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,138176.01868221644,501.40801937037816,0.0,138677.4267015868
+BMO,120856.80518670888,438.56069883925903,0.0,121295.36588554813
+TD,32924.95415780203,119.4768543019885,0.0,33044.43101210402
+Scotiabank,10525.760374073172,38.1954894334388,0.0,10563.955863506611
+CIBC,26857.55220566252,97.45969079879818,0.0,26955.011896461318
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,71.73322142050695,0.2603028573158787,0.0,71.99352427782283
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,114.53536458854425,0.41562168930546384,0.0,114.95098627784972
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,37236.87376584134,135.12378848760596,0.0,37371.99755432894
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

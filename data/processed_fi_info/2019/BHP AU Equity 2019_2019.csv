@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,BHP AU Equity 2019,9700.0,5100.0,584200.0,17300.0,,1300.0,3600.0,,100.0,100.0,,4000.0,304700.0,232700.0,,,,3100.0,,159707.6223,44288.0,145923.6223,BHP GROUP LTD,5180.0,36.6492,24828.0,15628.0,100861.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6906.558267365598,3631.283212738613,403642.0496669647,414179.8911470689
+BMO,7162.546293233018,3765.874855204989,418602.8343952369,429531.2555436749
+TD,13125.584945131945,6901.080744347723,767102.485092299,787129.1507817786
+Scotiabank,5623.693320282936,2956.787209633296,328667.1900276697,337247.67055758595
+CIBC,1144.2019966907028,601.5907405281016,66870.93937360408,68616.73211082288
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1.2629894810389448,0.6640460158039814,73.81327183515235,75.74030733199528
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,683.4102555032312,359.3187941305648,39940.749880905336,40983.47893053913
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2729.187322263998,1434.9335405717925,159502.71061767632,163666.8314805121
+Healthcare of Ontario Pension Plan Trust Fund,10.702174023540532,5.626916239181105,625.4703560768173,641.7994463395389
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

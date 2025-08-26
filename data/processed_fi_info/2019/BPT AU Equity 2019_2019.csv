@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,BPT AU Equity 2019,436.93,21.08,,,,,,,,,,,,,,,,,,4350.4245,1925.4,4522.3245,BEACH ENERGY LTD,2277.7203,1.985,0.0,171.9,3913.9
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,346932.5016150433,16738.006394720232,0.0,363670.50800976355
+BMO,114357.97958107607,5517.282424116182,0.0,119875.26200519226
+TD,116850.00232070919,5637.5118415319375,0.0,122487.51416224113
+Scotiabank,62659.40121501675,3023.047576528398,0.0,65682.44879154515
+CIBC,58318.62667749738,2813.623807844837,0.0,61132.250485342214
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,124.44172018173397,6.0037796933855585,0.0,130.44549987511954
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,8649.08601760002,417.2813339688472,0.0,9066.367351568868
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,25159.739061184133,1213.849585539472,0.0,26373.588646723605
+Healthcare of Ontario Pension Plan Trust Fund,173.13630633980378,8.353084790797297,0.0,181.48939113060106
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

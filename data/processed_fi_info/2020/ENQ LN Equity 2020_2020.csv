@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,ENQ LN Equity 2020,1282.3,78.729,12518.1,,,,,,,,,,,12518.1,,,,,,2183.9291,865.648,261.5881,ENQUEST PLC,1662.4578,11.249,2145.171,222.83,3706.746
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,153093.7810244426,9399.454329153352,1494535.8030430283,1657029.0383966244
+BMO,47029.60952734471,2887.4632523421365,459113.58888267475,509030.6616623616
+TD,39014.86994247827,2395.384618031172,380871.9047234947,422282.1592840042
+Scotiabank,8769.644720077098,538.4273252491225,85611.2372848765,94919.30933020271
+CIBC,20720.67536711341,1272.1812765947686,202279.87702804524,224272.73367175343
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,29.41188838483096,1.805793153434732,287.12544645570654,318.34312799397225
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8828.46849684676,542.0389115559921,86185.4881777879,95555.99558619066
+Healthcare of Ontario Pension Plan Trust Fund,68.62773956460558,4.213517358014375,669.9593750633153,742.8006319859353
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

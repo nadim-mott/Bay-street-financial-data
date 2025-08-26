@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,GEKTERNA GA Equity 2018,610.967,,,,,,,,,,,,,,,,,,,2041.9571,1402.7,471.7901,GEK TERNA SA,98.1026,4.8,1850.666,523.242,4009.848
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3308741.9223209643,,0.0,3308741.9223209643
+BMO,1137925.958181403,,0.0,1137925.958181403
+TD,1377729.7102291887,,0.0,1377729.7102291887
+Scotiabank,447556.3159718696,,0.0,447556.3159718696
+CIBC,562805.913477201,,0.0,562805.913477201
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,4924.875492300495,,0.0,4924.875492300495
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,13635.028676947652,,0.0,13635.028676947652
+Intact Financial,76280.53273690991,,0.0,76280.53273690991
+OMERS,0.0,,0.0,0.0
+CPPIB,304101.67291768093,,0.0,304101.67291768093
+Healthcare of Ontario Pension Plan Trust Fund,0.0,,0.0,0.0
+OTPP,3895.352479842201,,0.0,3895.352479842201
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

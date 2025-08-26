@@ -3,8 +3,10 @@ import csv
 from utilities import safe_to_float
 from typing import Any
 
+
+DIR_13F = './data/13f_data'
+
 def get_share_value_from_13F(company_ticker : str , financial_institution_name : str, year : int, aggregation_method = sum) -> float:
-    DIR_13F = './data/13f_data'
 
     company_directory = os.path.join(DIR_13F, financial_institution_name)
     return get_share_value_from_directory(company_ticker, company_directory, year, aggregation_method=aggregation_method)
@@ -25,7 +27,7 @@ def get_share_value_from_management_csv(company_ticker: str, path_to_csv: str) -
     with open(path_to_csv, mode='r', newline='') as source_file:
         reader : Any = csv.reader(source_file)
         reader = (row for row in reader if row and any(cell.strip() for cell in row))
-        return sum(safe_to_float(row[6], 0) for row in reader if row[0] != '' and row[0].split('.')[0] in company_ticker)
+        return sum(safe_to_float(row[4], 0) for row in reader if row[0] != '' and row[0].split('.')[0] in company_ticker) * 1000
 
 
 if __name__ == "__main__":

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,IENOVA* MM Equity 2019,2347.21,7.947,17914.9,,,,,,1.149,,,,,,,,,,17913.7,10346.925,1379.256,7204.142,INFRAESTRUCTURA ENERGETICA N,1529.4038,88.93,3187.995,57.966,9552.506
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,589971.855250771,1997.480555075122,4502902.041601485,5094871.377407331
+BMO,554536.3294657435,1877.5057239293728,4232443.883330868,4788857.718520541
+TD,320449.10277171107,1084.9515040097765,2445796.195628293,2767330.2499040137
+Scotiabank,43782.87932136818,148.23664775069676,334168.51147853554,378099.62744765443
+CIBC,192290.83505849828,651.0432667762517,1467640.8477114972,1660582.7260367717
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,574.0841893455182,1.9436893387165328,4381.6409973595755,4957.66887604381
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,893.3818655989846,3.024742432894854,6818.649043564106,7715.055651595986
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,18061.170801463937,61.150099206817416,137850.1061564306,155972.42705710133
+Healthcare of Ontario Pension Plan Trust Fund,1124.0581459943462,3.8057481376685804,8579.263019801665,9707.12691393368
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

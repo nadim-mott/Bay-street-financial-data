@@ -1,7 +1,6 @@
 import xlsxwriter
 import os
 import traceback
-import datetime
 from typing import List
 from utilities import print_cond
 from string import ascii_lowercase
@@ -58,8 +57,8 @@ def generate_tables_alphabetical(tickers: List[str], years: List[int], verbose=F
         indexes.reverse()
         # sort and reverse list so that the later indexes are first to avoid issues when popping
         tickers_of_char = [tickers_copy.pop(i) for i in indexes]
-        generate_tables_of_size(tickers_of_char, years, 14, verbose, f'GHG_emissions_{char}')
-    generate_tables_of_size(tickers_copy, years, 14, verbose, f'GHG_emissions_others')
+        generate_tables_of_size(tickers_of_char, years, 428, verbose, f'GHG_emissions_{char}')
+    generate_tables_of_size(tickers_copy, years, 428, verbose, f'GHG_emissions_others')
 
 def generate_tables_of_size(tickers: List[str], years: List[int], max_size: int, verbose=False, name = "GHG_Emission"):
     chunks = [tickers[x:x+max_size] for x in range(0, len(tickers), max_size)]

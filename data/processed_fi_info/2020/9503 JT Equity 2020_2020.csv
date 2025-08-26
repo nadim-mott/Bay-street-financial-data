@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,9503 JT Equity 2020,,,20634.0,1427.0,1293.0,17896.0,0.0,10.0,3.0,6.0,,,,,,,,,,4953527.255,3184259.0,1074898.255,KANSAI ELECTRIC POWER CO INC,893.1624,1203.5,4113815.0,276146.0,7612729.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,,,69862.42169962404,69862.42169962404
+BMO,,,20111.910731495234,20111.910731495234
+TD,,,21802.144389935773,21802.144389935773
+Scotiabank,,,7933.420731062589,7933.420731062589
+CIBC,,,10548.228287895026,10548.228287895026
+National Bank of Canada,,,0.0,0.0
+Sun Life Financial,,,7.8132464732673705,7.8132464732673705
+Power Corp of Canada,,,0.0,0.0
+Manulife,,,0.0,0.0
+Brookfield Asset Management,,,0.0,0.0
+Fairfax,,,23.017401772598472,23.017401772598472
+Intact Financial,,,1968.0358444716242,1968.0358444716242
+OMERS,,,0.0,0.0
+CPPIB,,,2540.2073706036485,2540.2073706036485
+Healthcare of Ontario Pension Plan Trust Fund,,,775.1239627791563,775.1239627791563
+OTPP,,,0.0,0.0
+OPSEU,,,0.0,0.0
+Investment Management of Ontario,,,142.07822395246146,142.07822395246146

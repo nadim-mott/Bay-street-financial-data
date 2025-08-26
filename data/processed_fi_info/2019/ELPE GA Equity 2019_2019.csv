@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ELPE GA Equity 2019,3378.38,839.903,513.043,,,,,,,,,,,,,,,,,4489.0286,8856.965,2680.4206,HELLENIQ ENERGY HOLDINGS SA,305.6352,8.77,2832.258,1088.198,7092.465
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,820459.5693974296,203975.41239162243,0.0,1024434.981789052
+BMO,307437.27546341054,76432.34034464591,0.0,383869.61580805643
+TD,410735.2017888536,102113.35852925469,0.0,512848.5603181083
+Scotiabank,176285.95194351213,43826.656532187524,0.0,220112.60847569967
+CIBC,55084.160866395374,13694.537608015698,0.0,68778.69847441107
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,64.27997904507971,15.980720712264338,0.0,80.26069975734406
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,80648.68665014737,20050.164239522706,0.0,100698.85088967008
+Healthcare of Ontario Pension Plan Trust Fund,14730.198335291112,3662.091822828104,0.0,18392.290158119216
+OTPP,3971.494391589141,987.3578620459789,0.0,4958.852253635119
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

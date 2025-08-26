@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,SRCM IN Equity 2018,14009.3,192.108,227.548,,,,,,,,,,,,,,,,,571934.4729,98331.0,564239.3729,SHREE CEMENT LTD,34.8372,16196.45,34015.2,26320.1,151416.7
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,73959.27461410235,1014.1954507053155,0.0,74973.47006480767
+BMO,47010.63400019244,644.6516868443798,0.0,47655.28568703682
+TD,33173.95201011148,454.9107787511508,0.0,33628.862788862636
+Scotiabank,12849.619143620026,176.2054231433802,0.0,13025.824566763406
+CIBC,15508.196137972845,212.66219894453596,0.0,15720.858336917381
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,9.608686242746247,0.13176286443444685,0.0,9.740449107180694
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2072.322990312185,28.41753870806488,0.0,2100.74052902025
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5987.676419381615,82.10835242121757,0.0,6069.784771802832
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

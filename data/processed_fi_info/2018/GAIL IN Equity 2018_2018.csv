@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,GAIL IN Equity 2018,2928.78,733.843,0.865,,,,,,,,,,,,,,,,,729855.655,546943.1,740903.555,GAIL INDIA LTD,6765.2128,109.52,20963.0,32400.1,613341.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,430.2625583973612,107.80774474081177,0.0,538.070303138173
+BMO,141.20454635961357,35.38059120663822,0.0,176.5851375662518
+TD,505.16765481034844,126.57616731505628,0.0,631.7438221254047
+Scotiabank,102.75386965851447,25.746286157312337,0.0,128.50015581582682
+CIBC,61.52029212493116,15.414689984852346,0.0,76.9349821097835
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.371580508882833,0.0931042124639286,0.0,0.4646847213467616
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,69.97967817822119,17.534296523924763,0.0,87.51397470214596
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

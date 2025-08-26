@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,WHAUP TB Equity 2019,0.089,15.73,,,,,,,,,,,,,,,,,,31848.375,1857.2478,20846.25,WHA UTILITIES AND POWER PCL,3825.0,5.45,11756.7162,754.5913,26418.7174
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,14.886815518378604,2631.119192180848,0.0,2646.0060076992268
+BMO,5.018154824009114,886.9165773220604,0.0,891.9347321460696
+TD,5.166006787791569,913.0481659770943,0.0,918.2141727648859
+Scotiabank,2.8008151106314085,495.0204684295737,0.0,497.8212835402051
+CIBC,2.548889128740181,450.49467410205676,0.0,453.04356323079696
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.00549892666546741,0.971888948851712,0.0,0.9773878755171793
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.3858940097139773,68.2035143011333,0.0,68.58940831084728
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1.1243810757330455,198.7248800143911,0.0,199.84926109012414
+Healthcare of Ontario Pension Plan Trust Fund,0.09445943515020687,16.69490915632308,0.0,16.789368591473288
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

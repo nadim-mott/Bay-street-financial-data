@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,XEL US Equity 2018,47234.699,711.302,8381.95,,,8371.9697,,,3.878,6.102,,,,,,,,,,42511.603,11537.0,25326.603,XCEL ENERGY INC,511.0,49.27,17332.0,147.0,45987.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1531064.58289191,23056.1287146168,271692.3489075577,1825813.0605140845
+BMO,238782.63430622735,3595.800734271391,42372.74868605158,284751.1837265503
+TD,251171.98259178307,3782.3705314921235,44571.2785029836,299525.6316262588
+Scotiabank,58565.454593259106,881.9305693700809,10392.628829037987,69840.01399166718
+CIBC,109303.40734179787,1645.9876720932532,19396.24220697501,130345.63722086613
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,343.16424575376334,5.167671637605723,60.89560233561524,409.2275197269843
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,84481.81523996724,1272.2021186970871,14991.570622819016,100745.58798148335
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,136180.2548720016,2050.723084971167,24165.62549642366,162396.6034533964
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,3437.2375267618795,51.760971891887756,609.9488864377113,4098.947385091478
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

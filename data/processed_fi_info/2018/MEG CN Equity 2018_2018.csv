@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,MEG CN Equity 2018,2145.33,0.022,32.517,6.083,,17.745,,,7.711,,0.948,0.03,,,,,,,,5727.9421,2733.0,2288.6441,MEG ENERGY CORP,295.74,7.71,3757.002,317.704,8409.477
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,643005.4226430401,6.593912963575245,9746.10308348074,652758.1196394844
+BMO,576129.8965662682,5.908115639299268,8732.463465595198,584868.2681475027
+TD,161162.86563297457,1.6526982067679286,2442.763072248761,163607.2814034301
+Scotiabank,56779.002362140964,0.5822591638429059,860.6055104854443,57640.19013179025
+CIBC,128202.69788124767,1.314697204340334,1943.1822269788477,130147.19480543086
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,362.7661941845829,0.003720106590622806,5.4984866366946274,368.26840092786813
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,541.8058404100489,0.005556128189612357,8.21221001552841,550.0236065537669
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,182445.14902513675,1.8709444600844665,2765.3409549348457,185212.36092453168
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

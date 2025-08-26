@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,POR US Equity 2019,5940.85,,1508.28,1508.28,,,,,,,,,,,,,,,,7704.9076,2121.0,4986.9076,PORTLAND GENERAL ELECTRIC CO,89.353,55.79,2748.0,30.0,8394.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,184378.2379685559,,46810.47472385492,231188.71269241083
+BMO,79430.4098596092,,20166.019775461653,99596.42963507085
+TD,53121.975470329555,,13486.759161128231,66608.73463145779
+Scotiabank,13151.834615905056,,3339.025411258873,16490.86002716393
+CIBC,17925.331111007552,,4550.934362609807,22476.265473617357
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,16.67805114335786,,4.234271354857267,20.912322498215126
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,1007.8308048057678,,255.87096901494627,1263.7017738207142
+Intact Financial,6785.584236611885,,1722.743545519071,8508.327782130957
+OMERS,0.0,,0.0,0.0
+CPPIB,25535.287589848267,,6482.971892240393,32018.25948208866
+Healthcare of Ontario Pension Plan Trust Fund,9585.114249961238,,2433.496237227255,12018.610487188493
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CHRD US Equity 2020,2147.8,,,,,,,,,,,,,,,,,,,1542.1832,1187.835,744.6472,CHORD ENERGY CORP,337.635,37.06,716.595,15.856,2159.037
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2801175.5327892187,,0.0,2801175.5327892187
+BMO,2248020.852290857,,0.0,2248020.852290857
+TD,514660.5603297777,,0.0,514660.5603297777
+Scotiabank,1041305.4657292743,,0.0,1041305.4657292743
+CIBC,962857.7600238073,,0.0,962857.7600238073
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,842.2211216264561,,0.0,842.2211216264561
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,5076.401281036175,,0.0,5076.401281036175
+Fairfax,0.0,,0.0,0.0
+Intact Financial,51661.03599127212,,0.0,51661.03599127212
+OMERS,0.0,,0.0,0.0
+CPPIB,4919751.036732563,,0.0,4919751.036732563
+Healthcare of Ontario Pension Plan Trust Fund,615305.9843641391,,0.0,615305.9843641391
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,44282.948220311584,,0.0,44282.948220311584

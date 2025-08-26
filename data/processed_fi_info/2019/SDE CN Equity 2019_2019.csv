@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,SDE CN Equity 2019,356.859,10.991,,,,,,,,,,,,,,,,,,105.875,1.6491,130.5276,SPARTAN DELTA CORP,1.9959,5.0,0.0,24.6526,34.245
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4183036.8752585654,128834.52090592335,0.0,4311871.396164489
+BMO,2997482.072734042,92320.28745644598,0.0,3089802.360190488
+TD,928170.3348946888,28586.977351916375,0.0,956757.3122466052
+Scotiabank,331138.87085949635,10198.838559814169,0.0,341337.7094193105
+CIBC,719950.9127954547,22173.969221835076,0.0,742124.8820172898
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2613.678670258244,80.49941927990707,0.0,2694.178089538151
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,55723.84796778612,1716.2543554006968,0.0,57440.10232318682
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,764131.924627435,23534.712543554004,0.0,787666.6371709891
+Healthcare of Ontario Pension Plan Trust Fund,127203.58524174198,3917.778745644599,0.0,131121.36398738658
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

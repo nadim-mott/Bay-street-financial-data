@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,EVRG US Equity 2020,23951.699,,,,,,,,,,,,,,,,,,,22840.2036,4913.4,12591.7036,EVERGY INC,227.2,55.51,10408.3,144.9,27114.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4728922.7133687455,,0.0,4728922.7133687455
+BMO,2555161.6568166357,,0.0,2555161.6568166357
+TD,1874762.9360187608,,0.0,1874762.9360187608
+Scotiabank,366725.27406124776,,0.0,366725.27406124776
+CIBC,1318049.7285994724,,0.0,1318049.7285994724
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,3013.054660530606,,0.0,3013.054660530606
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,5168.225702437913,,0.0,5168.225702437913
+Fairfax,0.0,,0.0,0.0
+Intact Financial,3408.708302822503,,0.0,3408.708302822503
+OMERS,4783.985145981359,,0.0,4783.985145981359
+CPPIB,2499188.079518168,,0.0,2499188.079518168
+Healthcare of Ontario Pension Plan Trust Fund,261158.03444626823,,0.0,261158.03444626823
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

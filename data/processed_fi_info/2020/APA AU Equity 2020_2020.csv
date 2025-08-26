@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,APA AU Equity 2020,1322.25,87.765,741.572,137.726,32.67,418.351,,1.833,4.739,1.886,,,,144.367,,,,,,22947.3195,2590.621,13132.2185,APA GROUP,1179.894,11.13,10987.872,1172.771,15994.312
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,12668.398165169123,840.8712157050998,7104.956977985099,20614.226358859323
+BMO,7079.034722884027,469.87444314911454,3970.2128474332035,11519.122013466345
+TD,17587.787109238245,1167.3980984248778,9863.951947190035,28619.137154853157
+Scotiabank,1303.5001283294212,86.52046796205835,731.0563033961093,2121.076899687589
+CIBC,1935.5154462286778,128.47079836510486,1085.5164004467333,3149.5026450405157
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.416499542708644,0.1603963564876719,1.3552719976445717,3.932167896840888
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,235.709392895039,15.64532793906833,132.19548943691424,383.55021027102157
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,129770.65706757773,8613.591769737915,72780.70387817564,211164.9527154913
+Healthcare of Ontario Pension Plan Trust Fund,28.69593206966515,1.904706733291104,16.093854972029288,46.694493774985546
+OTPP,76.82454796194565,5.099267500003903,43.08635559178368,125.01017105373323
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

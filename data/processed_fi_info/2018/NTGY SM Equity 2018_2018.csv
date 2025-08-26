@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,NTGY SM Equity 2018,18305.6,1093.34,131391.0,,,29786.0996,,,1.568,9.985,,,,100756.0,,,,837.165,,40764.3447,24339.0,22275.3447,NATURGY ENERGY GROUP SA,997.6638,22.26,15346.0,2114.0,40631.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1861075.8710638492,111156.62381287414,13358113.381408498,15330345.876285221
+BMO,612065.6920204696,36556.895360636096,4393180.868121193,5041803.455502299
+TD,713378.9430966695,42608.039815428754,5120369.864527538,5876356.8474396365
+Scotiabank,211793.54179870448,12649.809402051587,1520175.6085204287,1744618.9597211848
+CIBC,339228.1305887042,20261.10503331515,2434853.893397071,2794343.1290190904
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1922.1609800722858,114.8050588864737,13796.559671931811,15833.52571089057
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,47038.295142521405,2809.4599254394475,337623.4626172317,387471.21768519253
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,138972.48539547852,8300.42048238203,997493.0338265876,1144765.9397044482
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

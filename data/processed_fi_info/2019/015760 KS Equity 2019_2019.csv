@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,015760 KS Equity 2019,198540.0,3690.0,348015.0,125844.0,2.0,219615.0,7.0,1.0,10.558,3.0,,,,,,,,,2534.0,88820893.34,58853065.0,17846601.34,KOREA ELECTRIC POWER CORP,641.9641,27800.0,72946674.0,3197223.0,197597792.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1559.9983464414631,28.9936229393019,2734.4880377468,4323.480007127565
+BMO,995.08063421559,18.49424569485004,1744.2557532596288,2757.8306331700687
+TD,1123.7390300779812,20.885448881775716,1969.7783284879495,3114.4028074477064
+Scotiabank,903.1563518973074,16.785770819487585,1583.123627093471,2503.065749810266
+CIBC,507.1243385548725,9.425248359360731,888.9275046937314,1405.4770916079647
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,13.060523713138537,0.24273865468661832,22.893515202598234,36.196777570423386
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,69.63016858648561,1.2941237135294243,122.05324672322176,192.9775390232368
+Healthcare of Ontario Pension Plan Trust Fund,131.8845899652959,2.451164183398518,231.1777024930171,365.5134566417115
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

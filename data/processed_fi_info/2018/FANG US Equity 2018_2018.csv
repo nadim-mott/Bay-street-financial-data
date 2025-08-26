@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,FANG US Equity 2018,538.75,,,,,,,,,,,,,,,,,,,19944.9455,2009.347,15228.1485,DIAMONDBACK ENERGY INC,104.622,92.7,4464.338,214.516,21595.687
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6908.796397671063,,0.0,6908.796397671063
+BMO,5568.161158922242,,0.0,5568.161158922242
+TD,2738.760641190227,,0.0,2738.760641190227
+Scotiabank,1245.6084204852611,,0.0,1245.6084204852611
+CIBC,666.4259775244508,,0.0,666.4259775244508
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,50.02528705311746,,0.0,50.02528705311746
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,88.02186293363242,,0.0,88.02186293363242
+OMERS,0.0,,0.0,0.0
+CPPIB,1035.2828677760792,,0.0,1035.2828677760792
+Healthcare of Ontario Pension Plan Trust Fund,0.0,,0.0,0.0
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

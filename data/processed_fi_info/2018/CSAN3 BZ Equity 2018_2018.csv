@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,CSAN3 BZ Equity 2018,2398.52,10.723,477.709,24.04,,,172.947,0.894,4.141,31.305,,244.383,,,,,,,,21388.1971,59683.4,13133.5881,COSAN SA,1605.808,8.365,9957.138,2696.947,28789.76
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,128631.65424534671,575.0701384490657,25619.39343826384,154826.1178220596
+BMO,113979.65982197966,509.56585405628795,22701.175430497933,137190.4011065339
+TD,32890.74156360972,147.0437694022093,6550.804726394611,39588.59005940654
+Scotiabank,15128.097495306709,67.63278581882739,3013.0428157709625,18208.773096896497
+CIBC,25745.36036195623,115.09910243035566,5127.6687701207875,30988.128234507374
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,76.88507605929867,0.3437280783916164,15.31309711167202,92.54190124936231
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,105.5571828082533,0.4719117085756634,21.023682020300306,127.05277653712928
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,36273.86753510261,162.16862130768362,7224.617372460462,43660.65352887075
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

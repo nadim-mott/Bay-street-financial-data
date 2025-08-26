@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,096770 KS Equity 2020,9704.23,2390.99,131437.0,16843.0,,1006.0,4670.0,7.0,2.197,11.0,,2168.0,,96771.0,9957.0,,,,,26251420.59,34164529.0,15643731.13,SK INNOVATION CO LTD,88.3909,178844.0,14751919.9,5034961.171,38498147.63
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,132.42990563466682,32.628923683118806,1793.6457334362276,1958.7045627540133
+BMO,75.25125734310674,18.540884108764402,1019.2116049793678,1113.003746431239
+TD,56.57320906473544,13.938867601210173,766.2339905737691,836.7460672397148
+Scotiabank,72.96535206559766,17.97766820606306,988.2510434023293,1079.19406367399
+CIBC,43.69149699071822,10.764989328348294,591.7626142620235,646.21910058109
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.005582943689981458,0.0013755612277644661,0.0756160255612882,0.08257453047903413
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,15.038589319580051,3.7053034271882166,203.68436752025661,222.42826026702488
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.38460278753205596,0.0947608845793299,5.209103983110965,5.68846765522235
+Healthcare of Ontario Pension Plan Trust Fund,5.057526656046536,1.2461056322181878,68.49971737790919,74.80334966617392
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.6748831069944372,0.4126683683293398,22.68480766838646,24.772359143710236

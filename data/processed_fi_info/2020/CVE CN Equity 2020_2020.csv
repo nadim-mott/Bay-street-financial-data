@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CVE CN Equity 2020,8700.0,200.0,210200.0,7200.0,0.0,2900.0,2000.0,,0.0,0.0,,500.0,8600.0,185500.0,,,0.0,3500.0,,18464.7425,13227.0,9523.7425,CENOVUS ENERGY INC,1228.9,7.75,9319.0,378.0,32770.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2694691.4093907936,61946.92895151249,65106222.32803963,67862860.66638194
+BMO,1894408.621400673,43549.62348047524,45770654.27797948,47708612.522860624
+TD,1030266.2529987555,23684.281678132313,24892180.043717057,25946130.578393944
+Scotiabank,404825.8549619543,9306.341493378259,9780964.909540549,10195097.105995882
+CIBC,610972.283217443,14045.339844079152,14761652.176127188,15386669.79918871
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1510.0261268088673,34.71324429445672,36483.619753474006,38028.35912457733
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1022.2136938288704,23.49916537537633,24697.622809520522,25743.33566872477
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10968.47169061952,252.14877449700052,265008.36199634755,276228.98246146407
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,296836.60598761466,6823.830022703784,7171845.353861677,7475505.789871996
+Healthcare of Ontario Pension Plan Trust Fund,197818.90365053443,4547.561003460562,4779486.614637051,4981853.079291046
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,15670.289279660805,360.23653516461616,378608.59845801163,394639.12427283707

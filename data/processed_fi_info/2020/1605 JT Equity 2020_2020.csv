@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,1605 JT Equity 2020,7629.65,1.329,77304.898,83.0,,,53.2,,,,,88.5,,77080.3,,,,,,2190027.719,771046.0,811873.7192,INPEX CORP,1460.2037,556.0,1260620.0,147264.0,4634518.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,34199.72807545708,5.957211485753929,346517.8584696821,380723.5437566249
+BMO,9845.37697608478,1.714954945668107,99755.14828809106,109602.24021912151
+TD,10672.796497142728,1.8590822049114557,108138.71320592934,118813.36878527698
+Scotiabank,3883.64481376108,0.6764876445824483,39349.79485661863,43234.11615802429
+CIBC,5163.670688011599,0.8994538863994305,52319.2495772069,57483.8197191049
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,3.824815949283163,0.0006662403120192044,38.75373011335185,42.579212302947035
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,11.267701039780126,0.0019627079462187376,114.16639411771217,125.43605786543851
+Intact Financial,963.4119328566634,0.16781562178691103,9761.46474208966,10725.04449056811
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1243.5068698797215,0.21660503824816996,12599.437533314356,13843.161008232326
+Healthcare of Ontario Pension Plan Trust Fund,379.4461758825706,0.0660952950329224,3844.6175940707794,4224.129865248383
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,69.55150575096975,0.012115097172614577,704.7084927983219,774.2721136464643

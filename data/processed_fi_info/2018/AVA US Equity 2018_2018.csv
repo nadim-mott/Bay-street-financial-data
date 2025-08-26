@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,AVA US Equity 2018,2072.19,1267.03,1266.68,,,,,,,,,,,,,,,,,4881.3314,1325.966,2790.4414,AVISTA CORP,65.673,42.48,2104.721,14.656,5782.576
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,801734.9317280054,490216.7323205568,0.0,1291951.6640485623
+BMO,557380.6902485033,340807.578439024,0.0,898188.2686875274
+TD,417466.1268787082,255257.53272582608,0.0,672723.6596045343
+Scotiabank,65275.541421511305,39912.39666598983,0.0,105187.93808750113
+CIBC,275207.16601323365,168274.01712861625,0.0,443481.18314184994
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1569.1200216567888,959.4304291786955,0.0,2528.5504508354843
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,901.5199745817991,551.2297875167707,0.0,1452.7497620985698
+OMERS,1684.2234780490287,1029.8098501548895,0.0,2714.0333282039182
+CPPIB,24284.601489929155,14848.695643635447,0.0,39133.2971335646
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

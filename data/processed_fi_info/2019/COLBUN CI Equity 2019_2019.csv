@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,COLBUN CI Equity 2019,4874.02,10.546,28.393,,,,,,,,,,,,,,,,,3877.978,1487.387,2797.394,COLBUN SA,17536.1677,120.0,1678.663,797.421,6705.35
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1970961.111041205,4264.602089659161,0.0,1975225.713130864
+BMO,1840548.475931528,3982.426052247198,0.0,1844530.9019837752
+TD,625389.6457631639,1353.1662168432476,0.0,626742.8119800072
+Scotiabank,159635.21278018042,345.4054259071121,0.0,159980.61820608753
+CIBC,903441.4617390329,1954.7916618109568,0.0,905396.2534008438
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,306.6523771767581,0.6635089658446396,0.0,307.3158861426027
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,22378.65416169478,48.42107475743496,0.0,22427.075236452216
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,437291.5168832135,946.175095106374,0.0,438237.69197831984
+Healthcare of Ontario Pension Plan Trust Fund,124464.27592966885,269.30547144949907,0.0,124733.58140111834
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

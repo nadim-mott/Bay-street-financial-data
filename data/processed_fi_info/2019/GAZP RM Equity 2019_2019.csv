@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,GAZP RM Equity 2019,117097.0,6077.83,1154540.0,,,,,,,,,,,1154540.0,,,,,,8823794.0,7659623.0,6062578.0,GAZPROM PJSC,22500.0,256.4,4111417.0,1861055.0,21882348.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2243.887662146367,116.46726858607013,22124.034445412493,24484.38937614493
+BMO,1945.649061834751,100.98742271357168,19183.494605760123,21230.131090308445
+TD,3669.893481782832,190.48300725367986,36184.00830471789,40044.384793754405
+Scotiabank,1760.7492418241877,91.39033932924245,17360.43988877339,19212.579469926823
+CIBC,275.1188797900827,14.279834506046766,2712.58658610248,3001.9853003986095
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.3669796908179985,0.019047799467487265,3.618305611903055,4.004333102188541
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1868.1197734693062,96.96332444712463,18419.079935961236,20384.163033877667
+Healthcare of Ontario Pension Plan Trust Fund,107.17738443942496,5.562959960267729,1056.7356758131607,1169.4760202128534
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

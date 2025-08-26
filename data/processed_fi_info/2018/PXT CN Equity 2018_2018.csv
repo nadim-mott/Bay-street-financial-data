@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,PXT CN Equity 2018,125.352,0.095,37.08,0.0424,,21.624,13.2851,0.3706,1.757,,,,,,,,,,0.001,1397.4123,965.723,1860.3033,PAREX RESOURCES INC,155.417,16.35,0.0,462.891,1642.12
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,196065.3952073299,148.5912673487167,57997.674235970015,254211.6607106486
+BMO,89250.15571815628,67.63964510518258,26400.892678575587,115718.68804183706
+TD,61100.55193258003,46.3060217116209,18074.02016493762,79220.87811922927
+Scotiabank,20306.745400064603,15.389788858623215,6006.8937879645755,26329.028976887803
+CIBC,28666.091113207185,21.725051501010615,8479.653496448671,37167.469661156865
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,180.31573238621894,0.13665513575125088,53.33880104389429,233.79118856586447
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3895.857510976839,2.9525373631278296,1152.4250597738553,5051.235108113822
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,23595.62080441399,17.882315211718435,6979.76880296885,30593.27192259456
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

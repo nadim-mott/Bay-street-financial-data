@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,9501 JP Equity 2020,191.0,6050.0,116460.0,11.5,1719.3,108824.0,0.0,1.7,4.041,10.7,0.0,0.0,0.0,5888.4,0.0,0.0,0.0,0.0,,5785865.547,6241422.0,604033.547,TOKYO ELECTRIC POWER COMPANY,1602.22,377.0,4978374.0,813241.0,11957846.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,33.31658166992503,1055.3158068222328,20314.330579197118,21402.962967689276
+BMO,8.96258829809663,283.8935036831655,5464.81578862374,5757.671880605002
+TD,3.488402275776249,110.49651187668223,2127.005637175314,2240.990551327772
+Scotiabank,0.763957568734175,24.1986559729935,465.812692115261,490.7753056569886
+CIBC,1.5007212836144015,47.53593594694832,915.044303302578,964.0809605331407
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0025296608236230955,0.08012799991057451,1.54242613283199,1.6250837935661875
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.3791329159405115,12.009183986597353,231.17111665819448,243.55943356073234
+Intact Financial,0.24822296831801624,7.8625599912251225,151.350564284139,159.46134724368216
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.6023754836252497,19.080479978705554,367.29022288061765,386.97307834294844
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

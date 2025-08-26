@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,EQT US Equity 2018,865.312,,,,,,,,,,,,,,,,,,,10300.8701,4557.868,4806.9761,EQT CORP,260.932,18.89,5497.381,3.487,20721.344
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,402867.2927814224,,0.0,402867.2927814224
+BMO,130287.077200155,,0.0,130287.077200155
+TD,155487.816900109,,0.0,155487.816900109
+Scotiabank,44869.359449488424,,0.0,44869.359449488424
+CIBC,74181.56666433187,,0.0,74181.56666433187
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,416.54710286577046,,0.0,416.54710286577046
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,10303.690415269593,,0.0,10303.690415269593
+OMERS,0.0,,0.0,0.0
+CPPIB,27101.483372883842,,0.0,27101.483372883842
+Healthcare of Ontario Pension Plan Trust Fund,0.0,,0.0,0.0
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

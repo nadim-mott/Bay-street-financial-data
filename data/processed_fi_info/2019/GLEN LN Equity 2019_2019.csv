@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,GLEN LN Equity 2019,20663.0,13200.0,512039.0,11763.0,2244.0,4918.0,5661.0,,,,,3391.0,17883.0,431312.0,,,,34868.0,,75697.1368,215111.0,41591.1368,GLENCORE PLC,13684.091,235.35,37043.0,1899.0,124076.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,86359.93724509113,55168.71565770715,2140044.633740331,2281573.2866431293
+BMO,35572.774389758924,22724.707058259584,881512.0456144877,939809.5270625062
+TD,85659.43150657041,54721.21646840872,2122685.73337,2263066.381344979
+Scotiabank,5345.703366299908,3414.9583523766532,132469.33899628345,141230.00071496
+CIBC,9165.198485269582,5854.9397476435415,227118.43548359082,242138.57371650395
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,11.42668935175631,7.299632165860877,283.1593677429851,301.8856892606023
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,13930.127944951964,8898.886360807526,345195.8918324156,368024.9061381751
+Healthcare of Ontario Pension Plan Trust Fund,9675.425005454528,6180.884192614807,239762.116817158,255618.42601522733
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

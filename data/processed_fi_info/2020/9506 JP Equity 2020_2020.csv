@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,9506 JP Equity 2020,30590.0,1.0,8170.0,,,,,,,,,,,,,,,,,2823902.35,2246369.0,519823.35,TOHOKU ELECTRIC POWER CO INC,499.325,1041.0,2476154.0,244010.0,
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6200.2874053272135,0.20269000998127537,0.0,6200.490095337194
+BMO,1667.9569319077336,0.054526215492243665,0.0,1668.0114581232258
+TD,649.1991558286098,0.02122259417550212,0.0,649.2203784227853
+Scotiabank,142.17414435115313,0.004647732734591472,0.0,142.1787920838877
+CIBC,279.2874540937801,0.009130024651643679,0.0,279.2965841184318
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.4707753124210369,1.5389843492024743e-05,0.0,0.4707907022645289
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,70.5574499491029,0.0023065527933672086,0.0,70.55975650189627
+Intact Financial,46.194827531314246,0.0015101283926549278,0.0,46.1963376597069
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,112.1033712702594,0.003664706481538392,0.0,112.10703597674095
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

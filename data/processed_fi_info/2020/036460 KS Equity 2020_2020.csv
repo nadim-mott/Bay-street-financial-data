@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,036460 KS Equity 2020,206.51,388.752,102470.0,8682.0,0.0,14.0,792.0,3.0,1.446,2.0,0.0,574.0,0.0,91001.0,0.0,0.0,0.0,1402.0,,26700164.43,20833722.0,2652052.755,KOREA GAS CORPORATION,86.4843,30900.0,24161108.0,290817.0,35909773.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,16.623568576033097,31.293620314125317,8248.71003663877,8296.627225528928
+BMO,9.446087202741182,17.78211850389831,4687.202627993725,4714.430833700365
+TD,7.101482221457545,13.368434538550497,3523.796193772925,3544.266110532933
+Scotiabank,9.159143683776382,17.241951602127916,4544.819608727579,4571.220704013484
+CIBC,5.484475677407858,10.324443797121978,2721.4282757048695,2737.2371951793994
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0007008118509316757,0.0013192678740661023,0.3477468584519164,0.3497669381769142
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.8877535224596238,3.5536678967760578,936.7141210499789,942.1555424692145
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.04827814973084878,0.09088289799122039,23.95589469335424,24.095055741076308
+Healthcare of Ontario Pension Plan Trust Fund,0.6348576689606613,1.1951101085845481,315.02001521760826,316.8499829951535
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.21024355527950273,0.39578036221983076,104.32405753557492,104.93008145307425

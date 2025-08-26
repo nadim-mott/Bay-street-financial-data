@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,GALP PL Equity 2019,3745.54,103.343,58434.199,6466.5801,,935.716,669.161,,6.204,,,64.913,1604.39,48444.8008,,,,242.4,,16207.8345,16570.0,12355.8345,GALP ENERGIA SGPS SA,829.2506,14.9,4118.0,1503.0,13770.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,60014.624878635266,1655.8604043296305,936288.0883850702,997958.5736680351
+BMO,26100.603689698175,720.1404035478139,407195.4858293788,434016.2299226248
+TD,84345.80401186176,2327.180706653201,1315878.7839009091,1402551.7686194242
+Scotiabank,23813.417073529108,657.0347561712647,371513.09026390733,395983.5420936077
+CIBC,4561.035099652719,125.84328302552127,71156.70293944127,75843.58132211951
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,7.275345101134205,0.20073366958743258,113.50264991004858,120.97872868077022
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,16275.856409374861,449.0663105757851,253919.6156800174,270644.53839996806
+Healthcare of Ontario Pension Plan Trust Fund,1782.1564103986664,49.17138514602151,27803.41995088231,29634.747746426998
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

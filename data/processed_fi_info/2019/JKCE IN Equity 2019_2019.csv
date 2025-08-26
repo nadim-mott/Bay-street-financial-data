@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,JKCE IN Equity 2019,6251.41,130.91,,,,,,,,,,,,,,,,,,84689.3072,52586.804,66968.3992,JK CEMENT LTD,71.757,866.7,26779.439,9058.531,74177.237
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,98540.05386364377,2063.5150232170995,0.0,100603.56888686087
+BMO,94918.12604548564,1987.6686828434745,0.0,96905.79472832911
+TD,30986.806016859366,648.8908543299926,0.0,31635.696871189357
+Scotiabank,16216.71506252758,339.5922150099714,0.0,16556.30727753755
+CIBC,24217.348245797697,507.13248032961786,0.0,24724.480726127316
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,121.07320567399796,2.5353789552729817,0.0,123.60858462927094
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,268.37738343311037,5.6200574374786605,0.0,273.997440870589
+Intact Financial,1154.8162123307854,24.18286280314731,0.0,1178.9990751339328
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,21805.218997828455,456.6203814828532,0.0,22261.839379311306
+Healthcare of Ontario Pension Plan Trust Fund,5449.881182466729,114.12528463126232,0.0,5564.006467097992
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

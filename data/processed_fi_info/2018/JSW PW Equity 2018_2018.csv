@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,JSW PW Equity 2018,6153.82,920.245,294.156,273.771,13.5311,,6.8539,,,,,,,,,,,,,6841.6039,9809.5,7897.1039,JASTRZEBSKA SPOLKA WEGLOWA S,117.4116,67.26,231.3,1650.8,13762.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,77306.2979353735,11560.418430103218,3695.2838034712954,92562.00016894801
+BMO,10335.974999645123,1545.6463324485323,494.0653223519068,12375.686654445562
+TD,18678.62792080018,2793.2103881778735,892.8487467411945,22364.68705571925
+Scotiabank,1023.9347971602604,153.1196683381613,48.944649696200656,1225.9991151946224
+CIBC,5474.23283869926,818.6192314121637,261.6713577745888,6554.5234278860125
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,14.805754296837856,2.2140591312215103,0.7077232452266456,17.72753667328601
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,2551.2652404130076,381.51734713785396,121.95188973010727,3054.734477280969
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,17607.158859844807,2632.9824247342117,841.6319329418978,21081.773217520917
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

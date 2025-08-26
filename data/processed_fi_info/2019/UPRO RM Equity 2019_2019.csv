@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,UPRO RM Equity 2019,25020.699,,,,,,,,,,,,,,,,,,,174183.4941,80279.71,175275.4031,UNIPRO PJSC,63048.7061,2.78,3146.023,4237.932,136588.532
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,20925.407327236095,,0.0,20925.407327236095
+BMO,7486.992458395893,,0.0,7486.992458395893
+TD,5673.058406213986,,0.0,5673.058406213986
+Scotiabank,1707.7274782601826,,0.0,1707.7274782601826
+CIBC,1773.8210854184595,,0.0,1773.8210854184595
+National Bank of Canada,0.0,,0.0,0.0
+Sun Life Financial,2.4267631138028176,,0.0,2.4267631138028176
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,0.0,,0.0,0.0
+OMERS,0.0,,0.0,0.0
+CPPIB,1620.792258477482,,0.0,1620.792258477482
+Healthcare of Ontario Pension Plan Trust Fund,769.1411563040931,,0.0,769.1411563040931
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0
