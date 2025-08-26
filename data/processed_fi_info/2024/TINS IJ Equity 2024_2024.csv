@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,TINS IJ Equity 2024,96.91,29.591,0.215,,,,,,0.215,,,,,,,,,,,7863823.196,10856422.0,7969096.196,TIMAH TBK PT,7447.7535,1070.0,1882638.0,1988254.0,12799576.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,42.90917241175187,13.102108356579814,0.09519628592020074,56.10647705425188
+BMO,18.235799967246372,5.568213361167965,0.040457094138458057,23.844470422552796
+TD,8.326522459762261,2.542463379494635,0.018472833854595874,10.887458673111492
+Scotiabank,7.032669793612314,2.147391722864328,0.015602352756440487,9.195663869233082
+CIBC,9.20481877691717,2.8106469139176142,0.020421381044651653,12.035887071879436
+National Bank of Canada,6.499616504315567,1.9846264779610148,0.014419745624061986,8.498662727900644
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.4619130387518288,0.14104291331859836,0.0010247786949916747,0.6039807307654188
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2.2799416637886445,0.6961691649279723,0.005058172094877295,2.981169000811494
+Healthcare of Ontario Pension Plan Trust Fund,0.5521334693146926,0.1685912856309057,0.0012249375286622528,0.7219496924742606
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.17156353071584882,0.05238609470036821,0.0003806228366928851,0.2243302482529099

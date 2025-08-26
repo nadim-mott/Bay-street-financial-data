@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,9508 JP Equity 2024,17795.199,0.053,15630.0,377.9,869.1,12705.2,1.1,30.0,1.597,6.8,,,,1190.5,,,,1627.8,,4273244.814,2139447.0,650913.814,KYUSHU ELECTRIC POWER CO INC,472.8419,1376.5,3784579.0,380975.0,5727240.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3874.727344886246,0.01154022212839379,3660.209421842136,7534.94830695051
+BMO,2198.8865806572053,0.006549012954271086,2077.1488323444923,4276.041962014652
+TD,358.84901664416054,0.0010687712951195716,338.9819295216248,697.8320149370804
+Scotiabank,411.9136167741556,0.0012268152600614494,389.10869511673934,801.023538706155
+CIBC,112.71784973517248,0.00033571111151744587,106.4774108957534,219.1955963420374
+National Bank of Canada,967.3832434826771,0.0028811878925648366,913.825657178325,1881.2117818488946
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,27.010728968797093,8.044690229911145e-05,25.515324269950124,52.52613368564952
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,326.9173046648539,0.0009736680745878284,308.8180643927769,635.7363427257053
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,68.45634143508899,0.00020388567141394235,64.66636839266711,133.12291371342752

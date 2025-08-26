@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,VEDL IN Equity 2024,60635.102,4561.38,34584.0,7971.05,,6054.69,394.45,185.41,2.005,12.03,,399.53,2403.54,18356.2,36.56,,,,,1699628.0,1437270.0,1010538.0,VEDANTA LTD,3720.0,271.65,727710.0,152090.0,1908070.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,287316.5919148751,21613.885567945,169709.90403622133,478640.38151904143
+BMO,111293.47967628133,8372.243726510038,65737.95696878791,185403.68037157928
+TD,76757.67235568579,5774.228128284141,45338.61801265762,127870.51849662756
+Scotiabank,29201.61906374822,2196.74209775387,17248.58260353891,48646.943765041004
+CIBC,63326.40725522642,4763.838073956645,37405.14401419343,105495.38934337649
+National Bank of Canada,15825.676538040134,1190.5137794125505,9347.78610827599,26363.976425728673
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,239.11112839893204,17.987546534618193,141.23628010525084,398.33495503880107
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,63909.63439902508,4807.712340535438,37749.640034926946,106466.98677448746
+Healthcare of Ontario Pension Plan Trust Fund,3062.3625244909144,230.37149623269983,1808.8522026930211,5101.586223416635
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2589.6005218170917,194.80716018596036,1529.604862429716,4314.012544432768

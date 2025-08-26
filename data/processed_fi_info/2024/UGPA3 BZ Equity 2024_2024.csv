@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,UGPA3 BZ Equity 2024,27.322,3.272,62811.301,16787.1,,,491.269,45.713,3.315,,,58.16,,,,,,27.347,45398.398,25827.2618,133499.0,17406.9578,ULTRAPAR PARTICIPACOES SA,1102.13,15.88,15787.262,8031.684,39558.074
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,243.56773680464713,29.168934734821953,559944.6114447408,560217.3481162803
+BMO,112.19516830218316,13.436153674135982,257928.57767254423,258054.20899452054
+TD,299.15520022688855,35.82592105784274,687736.1696186796,688071.1507399643
+Scotiabank,52.60835836575647,6.300217720985111,120942.81110591305,121001.71968199979
+CIBC,23.81714442945338,2.852269108160876,54753.89252382745,54780.56193736507
+National Bank of Canada,138.39339933368484,16.573574504787963,318156.41608793923,318311.3830617777
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,94.78200102260257,11.350805480783093,217896.9654635458,218003.0982700492
+Healthcare of Ontario Pension Plan Trust Fund,62.69776158129135,7.508494103432593,144137.6194058447,144207.82566152944
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2.6981462550566997,0.32312182660659977,6202.843103233122,6205.864371314785

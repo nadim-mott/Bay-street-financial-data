@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,ACEM IN Equity 2024,15286.3,589.017,4755.13,820.42,178.63,1600.16,906.41,6.09,1.038,2.88,1.57,,192.92,26.93,26.93,,,991.15,,1335429.791,331596.4,1345746.891,AMBUJA CEMENTS LTD,1987.9625,612.35,6990.1,111215.6,651036.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,20135.888987017544,775.8830405962276,6263.6955657718845,27175.467593385656
+BMO,7614.327229978344,293.39789105409125,2368.5980657472683,10276.323186779704
+TD,2960.8975524655325,114.09032883435435,921.0500158220317,3996.0378971219184
+Scotiabank,2570.4783578801516,99.04656136040073,799.6018404028398,3469.1267596433922
+CIBC,1172.0299937887798,45.16106519245899,364.58480078925925,1581.775859770498
+National Bank of Canada,1739.2402140797515,67.01700563096453,541.0275763720861,2347.284796082802
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,57.15834241522315,2.202445024262739,17.78031534460368,77.14110278408957
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2193.474108126325,84.51970318168843,682.326668247157,2960.3204795551706
+Healthcare of Ontario Pension Plan Trust Fund,545.185175389716,21.00726378865549,169.5914179808423,735.7838571592139
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,15.925277437627756,0.6136382996852862,4.953895491481392,21.492811228794434

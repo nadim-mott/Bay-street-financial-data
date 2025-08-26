@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,ADE IN Equity 2024,790.77,337.709,7324.02,2553.57,2.56,118.04,4483.71,1.23,1.634,6.64,,99.62,1.49,,44.22,11.31,,,,4263671.484,964209.8,3644697.584,ADANI ENTERPRISES LTD,1140.0011,3197.1,653101.5,85229.6,1607318.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,188.21345190926547,80.37909459239239,1743.212108332772,2011.8046548344298
+BMO,59.34456479723119,25.34389725597601,549.6427745671641,634.3312366203713
+TD,52.619316096871536,22.471789040755706,487.3542673053777,562.4453724430049
+Scotiabank,9.796164276218315,4.183584154124981,90.73098659150646,104.71073502184976
+CIBC,11.143296875519315,4.758895310311156,103.20797925493947,119.11017144076995
+National Bank of Canada,26.810954532682015,11.449979949008576,248.32008606835348,286.58102055004406
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.3584253590022957,0.15307038653882454,3.3196959059415887,3.831191651482709
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,136.1933917697573,58.163225895232465,1261.4080832139625,1455.7647008789522
+Healthcare of Ontario Pension Plan Trust Fund,34.10508415998116,14.565036441168832,315.87750535518785,364.54762595633787
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2.0431547250149027,0.8725567978426823,18.923472364559288,21.839183887416873

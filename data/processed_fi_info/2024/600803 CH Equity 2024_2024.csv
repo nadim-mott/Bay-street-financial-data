@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,600803 CH Equity 2024,3862.8,481.3,73507.398,,,12326.5,,,,,,,,58893.0,,,,,2276.3,124513.6993,135910.1,67144.8593,ENN NATURAL GAS CO LTD-A,3097.8746,21.68,32403.02,12110.53,132487.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,94819.52676010744,11814.39324573877,1804089.5140456418,1910723.434051488
+BMO,36467.278620092366,4543.776845772615,693846.9027665384,734857.9582324034
+TD,4366.189892366042,544.0217446400993,83073.57851593562,87983.79015294176
+Scotiabank,26436.2888552512,3293.9281935467548,502991.6636760307,532721.8807248287
+CIBC,5735.560970934971,714.6436510590768,109128.00093394493,115578.20555593898
+National Bank of Canada,4066.346928810975,506.66169018243824,77368.59806630052,81941.60668529393
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,289.4876808536257,36.06979931522472,5507.955031190303,5833.512511359154
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,10079.084300054525,1255.841170554065,191770.31270061803,203105.2381712266
+Healthcare of Ontario Pension Plan Trust Fund,2730.515460325047,340.21877680813014,51952.31908692078,55023.05332405396
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

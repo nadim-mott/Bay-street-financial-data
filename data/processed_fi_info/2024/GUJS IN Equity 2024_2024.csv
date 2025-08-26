@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,GUJS IN Equity 2024,8.2,6.33,0.623,,,,,,,,,,,,,,,,,224119.5825,178976.212,201141.3555,GUJARAT STATE PETRONET LTD,564.2114,356.5,1396.138,13995.613,190558.426
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,7.4751420276672045,5.770445004284562,0.0,13.245587031951766
+BMO,3.5337138811317197,2.727854739946803,0.0,6.261568621078522
+TD,0.535112233545627,0.4130805412614414,0.0,0.9481927748070684
+Scotiabank,0.6142416595179006,0.47416459814003786,0.0,1.0884062576579385
+CIBC,0.48574297293129254,0.37496988032379047,0.0,0.860712853255083
+National Bank of Canada,2.829294843844283,2.1840776050651605,0.0,5.013372448909443
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.04027814160773118,0.031092760533772974,0.0,0.07137090214150416
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.6681768633104394,0.515799944482327,0.0,1.1839768077927664
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.10208144391271143,0.07880189511798334,0.0,0.18088333903069476

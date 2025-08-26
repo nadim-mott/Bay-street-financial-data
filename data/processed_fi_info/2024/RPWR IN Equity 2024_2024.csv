@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,RPWR IN Equity 2024,32913.898,,,,,,,,,,,,,,,,,,,283636.0685,78926.0,105519.5685,RELIANCE POWER LTD,3789.2747,28.25,187658.3,9541.8,437602.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,144245.31115401594,,0.0,144245.31115401594
+BMO,38477.47730022228,,0.0,38477.47730022228
+TD,11918.54800448696,,0.0,11918.54800448696
+Scotiabank,11802.51293885835,,0.0,11802.51293885835
+CIBC,11704.881284176214,,0.0,11704.881284176214
+National Bank of Canada,13883.034142468088,,0.0,13883.034142468088
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,0.0,,0.0,0.0
+OMERS,0.0,,0.0,0.0
+CPPIB,11244.796010514392,,0.0,11244.796010514392
+Healthcare of Ontario Pension Plan Trust Fund,889.9140920387673,,0.0,889.9140920387673
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,402.06774084751873,,0.0,402.06774084751873

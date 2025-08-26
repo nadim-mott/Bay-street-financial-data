@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,600642 CH Equity 2024,37210.0,,,,,,,,,,,,,,,,,,,90715.5529,29619.326,46444.9585,SHENERGY COMPANY LIMITED-A,4894.2374,9.49,45481.773,13769.7085,101665.7319
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1320472.6782132876,,0.0,1320472.6782132876
+BMO,507849.455824145,,0.0,507849.455824145
+TD,60804.294829976,,0.0,60804.294829976
+Scotiabank,368156.2051562604,,0.0,368156.2051562604
+CIBC,79874.38679700834,,0.0,79874.38679700834
+National Bank of Canada,56628.63128621377,,0.0,56628.63128621377
+Sun Life Financial,0.0,,0.0,0.0
+Power Corp of Canada,0.0,,0.0,0.0
+Manulife,0.0,,0.0,0.0
+Brookfield Asset Management,0.0,,0.0,0.0
+Fairfax,0.0,,0.0,0.0
+Intact Financial,4031.4541351135017,,0.0,4031.4541351135017
+OMERS,0.0,,0.0,0.0
+CPPIB,140363.02325471988,,0.0,140363.02325471988
+Healthcare of Ontario Pension Plan Trust Fund,38025.61757052706,,0.0,38025.61757052706
+OTPP,0.0,,0.0,0.0
+OPSEU,0.0,,0.0,0.0
+Investment Management of Ontario,0.0,,0.0,0.0

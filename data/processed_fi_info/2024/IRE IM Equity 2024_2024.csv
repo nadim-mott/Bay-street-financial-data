@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,IRE IM Equity 2024,3415.9,114.197,3557.46,670.779,47.541,422.044,35.109,79.367,0.46,12.283,3.072,0.0,0.0,2218.97,0.0,0.426,0.0,67.417,,7115.2903,6043.125,2462.2223,IREN SPA,1283.076,1.919,5053.595,868.2,12211.318
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,275267.2715213407,9202.463949741663,286675.40322740155,571145.1386984839
+BMO,172178.00244925084,5756.085173950378,179313.71937619118,357247.8069993924
+TD,150487.19228154176,5030.939400150832,156723.9588253262,312242.0905070188
+Scotiabank,65945.05727610378,2204.6101190782,68678.07342659515,136827.74082177712
+CIBC,59947.655782339396,2004.110907045233,62432.11660783025,124383.88329721488
+National Bank of Canada,84402.0152851349,2821.644936771144,87899.95857969444,175123.61880160047
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,37649.19771866253,1258.6508480570583,39209.52490114316,78117.37346786275
+Healthcare of Ontario Pension Plan Trust Fund,39419.42309595685,1317.831277054066,41053.11520897199,81790.36958198292
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2021.3310146691467,67.57514502244578,2105.1027261023505,4194.008885793943

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,RDSA LN Equity 2024,50000.0,8000.0,1084000.0,119000.0,,117000.0,,,,,,3000.0,,845000.0,,,,,,228549.2444,284312.0,188720.2444,SHELL PLC,6299.6,,77078.0,39110.0,387609.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,122512.29365194698,19601.966984311515,2656066.52637421,2798180.7870104685
+BMO,38419.83155040891,6147.173048065426,832941.9480128651,877508.9526113395
+TD,61342.38558669437,9814.781693871098,1329902.9195195339,1401060.0868000994
+Scotiabank,8291.638265809708,1326.662122529553,179762.71760275445,189381.01799109371
+CIBC,10639.02818896519,1702.2445102344304,230654.1311367653,242995.4038359649
+National Bank of Canada,13706.53163482232,2193.0450615715718,297157.6058429479,313057.1825393418
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,17.75114275975365,2.8401828415605843,384.8447750314592,405.43610063277345
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,169651.64549140443,27144.26327862471,3678047.674253648,3874843.583023677
+Healthcare of Ontario Pension Plan Trust Fund,55.90285257176151,8.944456411481841,1211.9738437557894,1276.8211527390326
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2494.9628562477633,399.19405699964216,54090.794723451516,56984.95163669892

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,SAIL IN Equity 2024,52622.102,2446.63,5300.06,,,,,,,,,,,,,,,,,911020.12,1053783.3,554523.02,STEEL AUTHORITY OF INDIA,4130.5253,134.25,363226.5,6729.5,1407085.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,20237.458943396072,940.9273345766601,0.0,21178.38627797273
+BMO,7077.639866900386,329.07020756324954,0.0,7406.7100744636355
+TD,20468.815767276894,951.684117838787,0.0,21420.49988511568
+Scotiabank,2219.905734636589,103.21305613245777,0.0,2323.118790769047
+CIBC,1094.5322422647125,50.88955625322823,0.0,1145.4217985179407
+National Bank of Canada,2505.2584702434897,116.48034377364532,0.0,2621.738814017135
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6.358042329784613,0.2956129936679635,0.0,6.653655323452576
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2337.3871735063403,108.67527831396431,0.0,2446.0624518203044
+Healthcare of Ontario Pension Plan Trust Fund,20.023088531112737,0.9309603233423925,0.0,20.95404885445513
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,133.04440815459742,6.185812195857983,0.0,139.2302203504554

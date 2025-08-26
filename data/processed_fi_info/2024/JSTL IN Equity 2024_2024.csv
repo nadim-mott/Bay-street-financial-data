@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,JSTL IN Equity 2024,50730.102,2437.58,12220.4,4408.88,,7139.13,289.53,12.33,4.498,42.49,,323.52,0.0,0.0,0.0,,,,,2800184.225,1750060.0,2022784.225,JSW STEEL LTD,2425.0131,830.2,879840.0,123510.0,2281980.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,90726.30859687566,4359.396622336226,21855.067147282105,116940.772366494
+BMO,38246.55178544513,1837.7457569701978,9213.214671137748,49297.51221355308
+TD,18000.298093519097,864.9138262485708,4336.093130967541,23201.30505073521
+Scotiabank,14617.495818517174,702.3702703633652,3521.209642269185,18841.075731149725
+CIBC,19002.167739153687,913.0536350509653,4577.433583552887,24492.65495775754
+National Bank of Canada,13610.509986647734,653.9846289536887,3278.636751205631,17543.131366807054
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,954.2941295194252,45.85380656703509,229.87998301104014,1230.0279190975004
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5232.579471684381,251.42529909733702,1260.4764535861457,6744.481224367863
+Healthcare of Ontario Pension Plan Trust Fund,1268.1872026335384,60.93636006084633,305.4937084680893,1634.617271162474
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,353.81938922130956,17.001011880048647,85.2315786791347,456.0519797804929

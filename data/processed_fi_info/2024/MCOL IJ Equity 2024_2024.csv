@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,MCOL IJ Equity 2024,244.393,0.0,0.022,,,,,,0.22,,,,,,,,,,,1123.9902,,1163.9574,PRIMA ANDALAN MANDIRI TBK PT,3555.56,5300.0,87.7071,159.2731,759.2165
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,521426.92953883024,0.0,469.38302037514427,521896.3125592054
+BMO,185392.9427941263,0.0,166.88877101515914,185559.83156514147
+TD,90615.38044004016,0.0,81.57100938573869,90696.95144942589
+Scotiabank,55249.74715999056,0.0,49.735239451203284,55299.48239944177
+CIBC,23923.04498515152,0.0,21.535272682660036,23944.58025783418
+National Bank of Canada,52496.44587164445,0.0,47.256746681622545,52543.702618326075
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,688.4827975663027,0.0,0.6197649501605471,689.1025625164632
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2172.95165355708,0.0,1.956068151635103,2174.907721708715
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,90177.59860627202,0.0,81.17692279803367,90258.77552907006
+Healthcare of Ontario Pension Plan Trust Fund,20246.30748341821,0.0,18.225512376999365,20264.532995795213
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,525.7581351344988,0.0,0.47328192595364743,526.2314170604525

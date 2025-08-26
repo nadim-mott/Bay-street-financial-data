@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,1605 JT Equity 2024,6833.0,45.0,88963.0,2725.0,,,,,,,,,,86238.0,,,,,,3281724.678,2265837.0,2228070.678,INPEX CORP,1237.5781,1970.5,1057497.0,319870.0,7380863.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,10762.075228925929,70.8756600763452,140118.02994159775,150950.98083060002
+BMO,4598.834204935397,30.286483129239407,59875.031080589455,64504.15176865409
+TD,2099.841869558503,13.828901526435331,27339.12369991703,29452.794471001966
+Scotiabank,1773.54886854267,11.680037916642785,23090.915848406494,24876.144754865807
+CIBC,2321.336904196717,15.287598520247661,30222.9028257065,32559.527328423464
+National Bank of Canada,1639.1196850533663,10.794729376174663,21340.70021094726,22990.614625376802
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,116.48852729976102,0.7671569923151245,1516.635277940676,1633.8909622327521
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,574.9719632547492,3.786585445113964,7485.911132303857,8064.66968100372
+Healthcare of Ontario Pension Plan Trust Fund,139.2409594827045,0.9169973915881316,1812.86308773011,1953.0210446044027
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,43.26611581573895,0.28493710108418746,563.3079849722793,606.8590378891024

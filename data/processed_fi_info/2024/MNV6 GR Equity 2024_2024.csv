@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,MNV6 GR Equity 2024,0.984,0.882,2.213,0.443,0.005,0.002,0.002,0.765,0.075,0.005,,0.612,0.002,0.002,0.03,,,0.271,,3078.2776,,2214.3666,MAINOVA AG,4.3977,332.0,1100.84,244.744,5260.131
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1936.0216506155757,1735.3364795151806,4356.048713885045,8027.406844015801
+BMO,753.9969289637949,675.8387107175479,1696.4930901685384,3126.3287298498813
+TD,532.0216842143483,476.8730949970073,1197.0487894822836,2205.943568693639
+Scotiabank,215.1101592663112,192.8121549521204,483.99785834920016,891.9201725676318
+CIBC,439.00730800401345,393.50045290603646,987.7664430090302,1820.2742039190803
+National Bank of Canada,103.9458994730141,93.1710196495919,233.8782738142817,430.9951929368877
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.7410450464706249,1.5605708648242798,3.917351354558906,7.21896726585381
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,170.39934038022432,152.73599412129863,383.3985158555047,706.5338503570276
+Healthcare of Ontario Pension Plan Trust Fund,10.690229883344518,9.58209629787588,24.053017237525165,44.32534341874556
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,15.616525285379574,13.997739127748765,35.13718189210404,64.75144630523238

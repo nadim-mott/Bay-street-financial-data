@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,PETR3 BS Equity 2024,46800.0,200.0,422000.0,,,,,,,,,,18000.0,404000.0,,,,,,791162.2386,490829.0,466443.2386,PETROBRAS - PETROLEO BRAS,12898.7621,39.41,373467.0,50256.0,1124797.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,385941.09958655963,1649.320938404101,3480067.180032653,3867657.6005576164
+BMO,172238.4362160202,736.0616932308556,1553090.1727171054,1726064.6706263565
+TD,69565.10227780585,297.2867618709652,627275.0675477365,697137.4565874133
+Scotiabank,57101.64366395855,244.0241182220451,514890.88944851514,572236.5572306957
+CIBC,76656.89250276121,327.59355770410775,691222.4067556673,768206.8928161326
+National Bank of Canada,54672.26253839838,233.64214759999308,492984.9314359854,547890.8361219837
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,48679.22722634145,208.03088558265574,438945.1685794036,487832.4266913277
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3721.7801788927036,15.905043499541469,33559.6417840325,37297.32700642475
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,23571.307910904296,100.73208508933459,212544.699538496,236216.73953448964
+Healthcare of Ontario Pension Plan Trust Fund,4555.453320274583,19.467749231942665,41076.95087939903,45651.87194890556
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1446.1103606615768,6.179958806246056,13039.713081179176,14492.003400646998

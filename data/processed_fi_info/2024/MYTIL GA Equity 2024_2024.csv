@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,MYTIL GA Equity 2024,3962.16,730.589,6542.59,1262.64,1531.67,1270.36,140.227,57.2318,1.657,,3.4874,94.4088,108.815,1714.74,357.221,,0.1225,,,7584.3475,5683.0,4625.7525,METLEN ENERGY & METALS SA,137.939,33.52,4261.676,1405.215,10668.12
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3055718.583231593,563448.8218559035,5045804.514744142,8664971.91983164
+BMO,1272032.7609745658,234552.14903175214,2100464.579248025,3607049.489254343
+TD,759991.6853139029,140136.0786494738,1254948.5080099942,2155076.271973371
+Scotiabank,502479.4763143942,92652.99183300447,829727.3263534959,1424859.7945008946
+CIBC,650828.5938255452,120007.32215115272,1074691.195409936,1845527.1113866337
+National Bank of Canada,481743.4054934845,88829.43467100759,795486.5555114546,1366059.3956759467
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,31746.085870352985,5853.711392254559,52421.23547930851,90021.03274191606
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,187152.2684190302,34509.30518504827,309038.19681414,530699.7704182185
+Healthcare of Ontario Pension Plan Trust Fund,39070.39259882581,7204.251988406211,64515.614903088746,110790.25949032076
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,11140.209719391602,2054.161033042732,18395.450682456532,31589.821434890866

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,9532 JP Equity 2024,4441.26,324.118,20874.9,336.0,664.2,3611.2,15.2,16.5,2.751,9.8,0.0,0.1,8.2,16142.8,2.5,23.1,42.5,0.0,,2270880.747,2083050.0,1387144.747,OSAKA GAS CO LTD,413.8442,3392.0,913017.0,56760.0,2980127.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,453.78089140397407,33.11640276860019,2132.865109159369,2619.762403331943
+BMO,257.51817453265386,18.79337748593298,1210.3892866351314,1486.7008386537182
+TD,42.02588005763467,3.066999948780399,197.53042702904023,242.6233070354553
+Scotiabank,48.240433858630325,3.5205308721830164,226.7401298222268,278.50109455304016
+CIBC,13.20072401932255,0.9633735173565127,62.046164150596745,76.2102616872758
+National Bank of Canada,113.29314077703819,8.268001918908611,532.5014597305036,654.0626024264504
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3.1633071382708415,0.23085448342183718,14.868205234244384,18.262366855937064
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,38.28626190226996,2.7940869562331265,179.95343946467037,221.03378832317347
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,8.017126593350392,0.5850805936116197,37.68217197019021,46.28437915715222

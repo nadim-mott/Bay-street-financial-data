@@ -1,0 +1,4 @@
+matplotlib
+xlsxwriter
+yfinance
+alive-progress

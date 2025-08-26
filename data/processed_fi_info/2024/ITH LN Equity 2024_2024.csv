@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,ITH LN Equity 2024,501.72,0.326,,,,,,,,,,,,,,,,,,2301.9455,1982.0,1401.9615,ITHACA ENERGY PLC,1164.3,110.4,1065.107,165.123,8274.986
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1316355.467906929,855.3214592554789,0.0,1317210.7893661845
+BMO,532493.7804354827,345.99571956861877,0.0,532839.7761550513
+TD,268701.69966864283,174.59290857844528,0.0,268876.2925772213
+Scotiabank,304659.7642517288,197.9571935463278,0.0,304857.7214452751
+CIBC,270823.15318929945,175.9713544202177,0.0,270999.1245437197
+National Bank of Canada,186618.84090254977,121.25835552545489,0.0,186740.09925807524
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,13263.736814456033,8.618309418625262,0.0,13272.355123874659
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,86918.75644231316,56.47674918319797,0.0,86975.23319149636
+Healthcare of Ontario Pension Plan Trust Fund,16323.883416199376,10.606684990992976,0.0,16334.49010119037
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4152.723794483658,2.698293783388489,0.0,4155.422088267046

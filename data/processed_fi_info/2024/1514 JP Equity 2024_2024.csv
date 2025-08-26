@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,1514 JP Equity 2024,1.281,0.46,,,,,,,,,,,,,,,,,,54852.381,22599.0,70934.381,SUMISEKI HOLDINGS INC,51.9391,1379.0,136.0,18717.0,31137.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2.5594941048403594,0.9191001469372095,0.0,3.4785942517775688
+BMO,1.4524989088154585,0.521584307615231,0.0,1.9740832164306896
+TD,0.2370416963249457,0.08512035933604609,0.0,0.32216205566099176
+Scotiabank,0.2720941062416545,0.09770748545758086,0.0,0.3698015916992353
+CIBC,0.07445702528933043,0.026737105099993757,0.0,0.10119413038932419
+National Bank of Canada,0.6390157263795675,0.2294670055695559,0.0,0.8684827319491234
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.01784223647486259,0.0064070482267266134,0.0,0.024249284701589206
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.21594884996599886,0.077546035116596,0.0,0.29349488508259486
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.04521959527637239,0.016238106032108745,0.0,0.06145770130848113

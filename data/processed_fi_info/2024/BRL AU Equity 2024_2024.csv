@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,BRL AU Equity 2024,108.645,1.027,,,,,,,,,,,,,,,,,,149.1486,,155.0016,BATHURST RESOURCES LTD,191.36,0.81,1.924,7.777,344.57
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,230109.83747909695,2175.183423913043,0.0,232285.02090301
+BMO,77064.25720766754,728.47339640365,0.0,77792.7306040712
+TD,199240.95741592345,1883.3859198872785,0.0,201124.34333581073
+Scotiabank,39601.74511101821,374.34757447665055,0.0,39976.092685494856
+CIBC,71172.9552791713,672.7840680354267,0.0,71845.73934720673
+National Bank of Canada,69043.53526028118,652.6550758185721,0.0,69696.19033609975
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,93.92438529666791,0.887848899624262,0.0,94.81223419629217
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,50939.259530224204,481.5188875469673,0.0,51420.77841777117
+Healthcare of Ontario Pension Plan Trust Fund,595.7890112102068,5.631877348362854,0.0,601.4208885585697
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3590.1544887278583,33.93703032742888,0.0,3624.0915190552873

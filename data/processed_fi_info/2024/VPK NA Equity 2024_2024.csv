@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,VPK NA Equity 2024,122.706,86.298,565.34,61.4,250.463,45.731,,84.322,1.471,5.023,,,,,,,,116.93,,7782.1202,1315.6,4977.2202,VOPAK,120.4167,42.5,2766.2,108.5,6802.3
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,117625.10173208732,82724.6510299062,541930.9162813412,742280.6690433348
+BMO,47850.732799404774,33652.9797982416,220461.37337062162,301965.085968268
+TD,35222.657245906055,24771.770532876966,162280.3860235077,222274.8138022907
+Scotiabank,11975.201024861228,8422.048620633663,55173.01637568698,75570.26602118187
+CIBC,24406.344256981036,17164.757197601986,112446.68282106546,154017.78427564848
+National Bank of Canada,8684.375154227653,6107.641085680718,40011.2842867591,54803.30052666747
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,442.28415692759586,311.05437529165374,2037.723707703348,2791.0622399225977
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,11756.918754769982,8268.532709884927,54167.33043878589,74192.7819034408
+Healthcare of Ontario Pension Plan Trust Fund,1157.9018951180822,814.3417416010648,5334.769753606642,7307.013390325788
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,900.9629049564654,633.6389155537059,4150.9817668906835,5685.583587400855

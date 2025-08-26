@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,HBR LN Equity 2024,1259.2,26.0,1111.1,283.2,,,114.8,1.9,3.7,,,,,36.3,,,,,671.2,11383.5385,6226.0,4604.5385,HARBOUR ENERGY PLC,1083.0,255.4,6021.0,805.0,30321.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,46096.80852923697,951.8083082593403,40675.161973344344,87723.77881084065
+BMO,18703.66048627892,386.19375209915177,16503.84145989875,35593.695698276824
+TD,24366.66310858298,503.1236029408811,21500.7936626005,46370.58037412436
+Scotiabank,81155.30153564792,1675.6971409838357,71610.27282104385,154441.2714976756
+CIBC,27460.69496432704,567.009267052496,24230.922947001098,52258.62717838064
+National Bank of Canada,6504.741180902277,134.31009426894792,5739.690220854925,12378.74149602615
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,36.64488851597179,0.7566447755839157,32.334923467357264,69.73645675891298
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,13248.494545110221,273.55531938759987,11690.281360444702,25212.33122494252
+Healthcare of Ontario Pension Plan Trust Fund,57.702025946791416,1.191433191404524,50.91543919113718,109.80889832933312
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1017.3058602941425,21.00536242665796,897.6560843176793,1935.9673070384797

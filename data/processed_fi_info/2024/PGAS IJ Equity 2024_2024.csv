@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,PGAS IJ Equity 2024,623.788,47.551,20472.1,0.0,2.0,0.0,0.0,0.0,0.628,1.0,0.0,1.0,1404.0,19063.0,0.0,0.0,0.0,0.0,,3113.7839,3788.6192,2380.7287,PERUSAHAAN GAS NEGARA TBK PT,24241.5082,1590.0,1271.3751,1383.8013,6415.9497
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,826742.9851036787,63022.141632517814,27132254.616395395,28022019.743131593
+BMO,209071.6601047402,15937.412245250795,6861365.160930769,7086374.233280759
+TD,189072.53527207865,14412.89047676873,6205028.963537089,6408514.389285936
+Scotiabank,45001.96110711817,3430.4735785308085,1476885.427509653,1525317.8621953018
+CIBC,46332.21418299364,3531.8780044110026,1520542.0001195432,1570406.0923069478
+National Bank of Canada,101054.16708758121,7703.30095991198,3316420.508997938,3425177.9770454313
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3456.509469558627,263.48772625793106,113436.577874665,117156.57507048156
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,199460.66678660197,15204.771759587728,6545949.218464078,6760614.657010268
+Healthcare of Ontario Pension Plan Trust Fund,4919.604442118919,375.01861341865623,161452.78852143043,166747.411576968
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1023.4328371813219,78.015695782556,33587.270556279684,34688.71908924356

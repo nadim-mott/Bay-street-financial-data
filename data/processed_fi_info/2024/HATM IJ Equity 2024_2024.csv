@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,HATM IJ Equity 2024,84.841,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2275502.898,,1988000.0,HABCO TRANS MARITIMA TBK PT,7000.0,284.0,341549.1783,54046.2804,1373383.918
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,155.94851249295775,0.0,0.0,155.94851249295775
+BMO,66.57022605533199,0.0,0.0,66.57022605533199
+TD,37.055757753018106,0.0,0.0,37.055757753018106
+Scotiabank,36.987560611167,0.0,0.0,36.987560611167
+CIBC,32.514630425050306,0.0,0.0,32.514630425050306
+National Bank of Canada,25.290342457243458,0.0,0.0,25.290342457243458
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.621026430583501,0.0,0.0,1.621026430583501
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8.76533852615694,0.0,0.0,8.76533852615694
+Healthcare of Ontario Pension Plan Trust Fund,1.93764382444668,0.0,0.0,1.93764382444668
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.6619134356136821,0.0,0.0,0.6619134356136821

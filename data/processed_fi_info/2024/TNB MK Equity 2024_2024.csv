@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,TNB MK Equity 2024,38750.0,321.0,98.0,,,,,,35.0,63.0,,,,,,,,,,154907.83,56737.1,86658.23,TENAGA NASIONAL BHD,5800.417,14.94,86117.2,20066.2,205056.1
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1647380.3901833673,13646.68658706738,4166.278148076645,1665193.3549185114
+BMO,726505.7946602417,6018.28026028226,1837.3565903665467,734361.4315108905
+TD,322120.31390440353,2668.403116472607,814.6526648421044,325603.36968571827
+Scotiabank,295396.7557380298,2447.0286088234207,747.0679241890816,298590.8522710423
+CIBC,372896.99720384314,3089.030609095062,943.0685348639131,376929.09634780214
+National Bank of Canada,293724.82855927246,2433.1785798071346,742.8395664208697,296900.84670550044
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,22813.15346505462,188.98121967180728,57.695201021299425,23059.829885747728
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,134021.5753310447,1110.2174369358802,338.94488728883573,135470.73765526942
+Healthcare of Ontario Pension Plan Trust Fund,26334.977070267876,218.15555198854165,66.60200652609683,26619.734628782513
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5188.832035918574,42.983615058835156,13.122723600516652,5244.938374577925

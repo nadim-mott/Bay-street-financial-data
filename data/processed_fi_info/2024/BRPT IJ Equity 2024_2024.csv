@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,BRPT IJ Equity 2024,1477.86,433.1,3874.34,973.0,,151.0,79.0,7.0,0.111,1.0,0.0,2.0,1417.0,,1245.0,,,,,10821.3322,2387.0,5325.0012,BARITO PACIFIC TBK PT,93708.4462,920.0,4642.935,1606.76,10532.564
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1005279.5550581284,294606.10294322565,2635953.2444757004,3935838.9024770544
+BMO,426080.6798353398,124866.72786101908,1117230.2716883896,1668177.6793847485
+TD,205853.7789512611,60327.27840512037,539771.1848250851,805952.2421814665
+Scotiabank,166796.93142604362,48881.32231782409,437359.84716773394,653038.1009116017
+CIBC,210436.39281433402,61670.25410247796,551787.3009589181,823893.94787573
+National Bank of Canada,152558.96773882417,44708.760591453014,400026.3448725608,597294.073202838
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10560.382758223604,3094.813969243801,27690.48177134683,41345.67849881423
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,59750.768315319816,17510.493387306655,156673.0675146139,233934.3292172404
+Healthcare of Ontario Pension Plan Trust Fund,12600.800461791443,3692.776501158347,33040.68076698274,49334.25772993253
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4947.846411752921,1450.0103399037735,12973.795932290119,19371.652683946813
