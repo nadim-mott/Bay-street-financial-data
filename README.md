@@ -59,6 +59,11 @@ Find a computer with the bloomberg plugin for Excel, if you use the templates pr
 
 ### Step 5: run data_processing.py
 
-Place the data generated from the bloomberg Terminal into the directory "data/Bloomberg" and run data_processing.py the complete processed date tables will be in data/processed_fi_info
+Place the data generated from the bloomberg Terminal into the directory "data/Bloomberg" and run data_processing.py.
+
+```bash
+python -m data_processing
+```
+
 
 Your data should be processed to data/processed_fi_info and data/seritalized_fi_data
