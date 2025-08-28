@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,TETY SS Equity 2024,219.675,0.079,281.383,0.754,9.874,7.494,0.032,54.24,0.102,0.014,,5.221,12.907,190.664,,,,0.081,,161.5415,,177.5415,TETHYS OIL AB,33.4588,58.5,0.0,16.0,268.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4327405.035442418,1556.2307854783246,5542998.57101579,9871959.837243687
+BMO,2058343.7935637585,740.226059822633,2636544.6758363536,4695628.695459935
+TD,830956.9114826674,298.8305269472208,1064377.5970125294,1895633.339022144
+Scotiabank,696909.7705325233,250.62420335527185,892675.8254774235,1589836.220213302
+CIBC,944538.8400740109,339.6771064793301,1209865.357626245,2154743.874806735
+National Bank of Canada,637428.2618430058,229.23333417820623,816485.6110261544,1454143.1062033384
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,333295.90405623475,119.8605959733358,426920.68451601453,760336.4491682226
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,45775.75552758088,16.461976495636232,58634.434585716575,104426.65208979309
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,217181.18890512924,78.10317024470335,278188.66269576404,495447.954771138
+Healthcare of Ontario Pension Plan Trust Fund,56177.87404634973,20.202808920731208,71958.5693992672,128156.64625453767
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,14357.818876150084,5.163389967979318,18391.01467544208,32753.99694156014

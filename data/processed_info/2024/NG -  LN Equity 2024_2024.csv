@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,NG/ LN Equity 2024,3988.32,2863.86,27384.5,4266.19,,5467.3,,32.863,49.308,47.832,,,,17521.1,,,,,,84732.8,19850.0,41893.8,NATIONAL GRID PLC,3978.8599,989.146,47072.0,4258.0,98325.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,8241.621689128226,5917.993212838176,56588.60262384886,70748.21752581527
+BMO,2801.0908382624643,2011.3561620096534,19232.84304214466,24045.29004241678
+TD,3361.1566847600366,2413.518018418,23078.36578343335,28853.040486611386
+Scotiabank,432.2112770863469,310.35438179396476,2967.648010445459,3710.2136693257708
+CIBC,649.8401271787234,466.6253326267849,4461.9306870706405,5578.396146876149
+National Bank of Canada,1027.5965913810637,737.8777967145496,7055.681194878478,8821.155582974092
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6.378448362287498,4.580119731320625,43.795686497763384,54.754254591371506
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2386.2060925483006,1713.4432994858428,16384.16241890208,20483.811810936222
+Healthcare of Ontario Pension Plan Trust Fund,20.08735230511436,14.423959153860476,137.923729119822,172.43504057879684
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

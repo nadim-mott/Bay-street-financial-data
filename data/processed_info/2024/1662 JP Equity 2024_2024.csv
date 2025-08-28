@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,1662 JP Equity 2024,217.268,57.359,8361.0,50.1,25.2,446.0,87.8,8.3,0.278,0.7,0.0,,3.2,7739.5,,,0.0,,,225141.8794,325863.0,362631.8794,JAPAN PETROLEUM EXPLORATION,269.8093,1372.0,1836.0,172997.0,660928.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,84.9163997686851,22.418026466539057,3267.8196602590256,3375.15408649425
+BMO,48.189592533656324,12.72210743477177,1854.4697882896612,1915.3814882580893
+TD,7.864338272516479,2.076194280673052,302.6416486316233,312.58218118481284
+Scotiabank,9.027272950785143,2.383210363164778,347.39461526227853,358.80509857622843
+CIBC,2.470262585523803,0.6521521422531612,95.06258702637382,98.18500175415079
+National Bank of Canada,21.20064069579427,5.596993343106502,815.8597239699825,842.6573580088833
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.5919523246416487,0.1562760893878543,22.779974771296956,23.528203185326458
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,7.164540382656716,1.8914468389675727,275.711476027499,284.76746324912324
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.5002516405897655,0.3960681455740761,57.73386318555422,59.630182971718064

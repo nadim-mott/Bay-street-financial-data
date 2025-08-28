@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,JCNC SP Equity 2024,4644.6,566.5,0.441,,,0.012,,,0.336,0.029,,,,,,,,,0.064,22474.6598,22298.4,8190.9598,JARDINE CYCLE & CARRIAGE LTD,395.2,28.33,7294.5,3138.1,32352.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1045549.3305924906,127525.23269617316,99.2738351615399,1173173.8371238252
+BMO,415469.4759214909,50674.64541823291,39.448400051969486,466183.5697397758
+TD,61501.70100944703,7501.337816357003,5.839523348655673,69008.87834915268
+Scotiabank,123969.07075529783,15120.457861360765,11.770735952091963,139101.2993526107
+CIBC,58593.35400474069,7146.607898136675,5.56337878742855,65745.5252816648
+National Bank of Canada,69494.12663458561,8476.17076572638,6.598395953548692,77976.89579626554
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3413.579444010945,416.35291629681785,0.324115862465837,3830.2564761702283
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,144161.9241740144,17583.37209761425,13.688026646156901,161758.9842982748
+Healthcare of Ontario Pension Plan Trust Fund,33587.46697792364,4096.649882227477,3.1890954952556356,37687.30595564638
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2856.7463852038436,348.43621134607446,0.2712451353991506,3205.453841685317

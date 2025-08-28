@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,EXX SJ Equity 2024,338.0,598.0,59134.0,,,,,,,,,,,,,,,,,40574.4292,40725.0,38150.4292,EXXARO RESOURCES LTD,241.5348,15795.0,8650.0,20789.0,94716.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1532.0929076205516,2710.6259134825145,0.0,4242.718821103066
+BMO,860.2113970450429,1521.912471695076,0.0,2382.1238687401187
+TD,116.29195511121537,205.74730519676564,0.0,322.039260307981
+Scotiabank,221.85485661587262,392.51243862808235,0.0,614.3672952439549
+CIBC,36.52839638302156,64.62716283149967,0.0,101.15555921452123
+National Bank of Canada,409.40509261688726,724.3320869375698,0.0,1133.737179554457
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,8.753348442014383,15.486693397410061,0.0,24.240041839424443
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,112.95186162676251,199.83790903196444,0.0,312.789770658727
+Healthcare of Ontario Pension Plan Trust Fund,22.583284593820505,39.95504197368243,0.0,62.538326567502935
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,22.184599695145764,39.249676383719425,0.0,61.43427607886519

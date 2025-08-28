@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,UNTR IJ Equity 2024,2222.37,177.036,,,,,,,,,,,,,,,,,,97543269.62,134426998.0,97241689.62,UNITED TRACTORS TBK PT,3631.8091,26775.0,20166320.0,25092519.0,169480618.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,111.68789857592357,8.897158804468745,0.0,120.58505738039231
+BMO,48.51817465756617,3.8650015832993088,0.0,52.38317624086548
+TD,21.388179818630345,1.70380170825337,0.0,23.091981526883714
+Scotiabank,18.70371594732066,1.4899548934020261,0.0,20.193670840722685
+CIBC,23.487304822809804,1.8710199006515371,0.0,25.35832472346134
+National Bank of Canada,17.822508074495136,1.4197570789185965,0.0,19.242265153413733
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.7511715350221202,0.13949990499969678,0.0,1.890671440021817
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,11.94685952280145,0.951697612224192,0.0,12.898557135025642
+Healthcare of Ontario Pension Plan Trust Fund,1.0376440959047992,0.08265966520543476,0.0,1.120303761110234
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.34207996888978776,0.02725039906602972,0.0,0.3693303679558175

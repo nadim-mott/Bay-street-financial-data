@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,PTBA IJ Equity 2024,959.697,131.633,0.112,,,,,,0.112,,,,,,,,,,,29253059.42,42764968.0,31664482.42,BUKIT ASAM TBK PT,11507.459,2750.0,2251033.0,4800980.0,41785576.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,124.07537803291211,17.018302898317202,0.014480031030300352,141.1081609622596
+BMO,54.698531361277816,7.502505247676176,0.006383510120864309,62.207420119074854
+TD,27.940292911094424,3.832318509660958,0.0032607300075363117,31.77587215076292
+Scotiabank,22.606999934565803,3.100798712913243,0.0026383160442007944,25.710436963523247
+CIBC,23.824363578496794,3.2677735274032,0.0027803866436923747,27.094917492543686
+National Bank of Canada,18.661767012928173,2.5596666210405727,0.0021778935491597404,21.223611527517907
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.1936019276325818,0.16371563372612363,0.00013929752400481524,1.3574568588827103
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,6.949210918066855,0.9531607171616608,0.0008109972447798501,7.903182632473296
+Healthcare of Ontario Pension Plan Trust Fund,1.3760882718069707,0.18874564313816442,0.00016059431929284004,1.564994509264428
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.5789796765924842,0.07941343129018687,6.756895538733393e-05,0.6584606768380584

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,HRUM IJ Equity 2024,2605.22,453.017,,,,,,,,,,,,,,,,,,1927.8092,1295.4659,847.0638,HARUM ENERGY TBK PT,13310.9031,1035.0,311.1662,118.3911,2574.5391
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,551391.5735745052,95880.48475215209,0.0,647272.0583266573
+BMO,301244.70357486646,52382.89736735297,0.0,353627.60094221943
+TD,44866.69051374878,7801.787770885735,0.0,52668.47828463451
+Scotiabank,878914.1085004457,152832.7867475862,0.0,1031746.895248032
+CIBC,37832.818755800916,6578.680516154745,0.0,44411.49927195566
+National Bank of Canada,318157.36680047,55323.809826367265,0.0,373481.17662683723
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3038.6818088554837,528.3908909812933,0.0,3567.0726998367772
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,653218.1700599175,113586.9276859665,0.0,766805.097745884
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,7701.274543900943,1339.1607196529942,0.0,9040.435263553938

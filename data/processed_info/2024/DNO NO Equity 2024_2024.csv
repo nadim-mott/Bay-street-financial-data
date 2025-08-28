@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,DNO NO Equity 2024,358.86,0.374,12770.8,82.476,11.872,6.227,9.276,0.584,1.701,0.781,,175.749,1090.59,11383.4,0.083,,,8.086,,804.2048,666.8,899.9048,DNO ASA,975.0,10.47,803.3,899.0,2966.1
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,167650.01177902374,174.7230240354313,5966195.624137131,6134020.35894019
+BMO,59939.54887228072,62.46834776300783,2133081.1158302524,2193083.133050296
+TD,16404.827132825605,17.096932920015536,583801.9742199397,600223.8982856853
+Scotiabank,5351.567410241617,5.577345514770007,190447.33565150446,195804.48040726085
+CIBC,16023.597740561001,16.699619782003605,570235.085033439,586275.382393782
+National Bank of Canada,15803.872431839456,16.47062444827497,562415.6750525166,578236.0181088044
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1307.5849134263979,1.3627508154195864,46533.29460516267,47842.24226940449
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1699.5812445938727,1.7712851403837386,60483.34907203518,62184.70160176943
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,304718.32809426065,317.5741367309076,10844074.130258,11149110.03248899
+Healthcare of Ontario Pension Plan Trust Fund,9584.170725614533,9.988518785542649,341073.8647576943,350668.0240020944
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3196.1857520928884,3.3310301267422955,113743.32304372638,116942.83982594601

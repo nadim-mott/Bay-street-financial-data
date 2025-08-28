@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,SJVN IN Equity 2024,0.648,11.457,,,,,,,,,,,,,,,,,,507999.3342,25793.7,477077.1342,SJVN LTD,3929.7952,121.4,68409.8,37487.6,391912.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6.121496149458508,108.23145275362059,0.0,114.3529489030791
+BMO,2.405374204161554,42.52835224857859,0.0,44.933726452740146
+TD,1.6440144533759966,29.067088877050608,0.0,30.711103330426603
+Scotiabank,0.6602133898707402,11.672939518131281,0.0,12.333152908002022
+CIBC,1.343185967347919,23.748274117137516,0.0,25.091460084485433
+National Bank of Canada,0.3154760796750003,5.577792353142714,0.0,5.893268432817714
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.006663677154284373,0.11781751413061121,0.0,0.12448119128489558
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.5107601235355957,9.03052273973352,0.0,9.541282863269116
+Healthcare of Ontario Pension Plan Trust Fund,0.032675923624259924,0.5777284829678178,0.0,0.6104044065920777
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.051134825484578844,0.9040921228037343,0.0,0.9552269482883131

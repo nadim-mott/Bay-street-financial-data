@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,PKP PW Equity 2024,126.608,249.438,1763.99,200.551,11.505,184.753,65.28,2.343,0.279,4.948,5.494,1223.9301,,64.374,,0.536,,,,2874.9955,4460.4,631.4955,PKP CARGO SA,44.7869,14.1,2832.6,589.1,6439.6
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,64368.24656391059,126815.73586510117,896824.3933861761,1088008.3758151878
+BMO,48685.78426924658,95918.77809105527,678325.1257348626,822929.6880951645
+TD,9782.066424859719,19272.234652503463,136290.73737200027,165345.03844936343
+Scotiabank,19520.62670280311,38458.75524053616,271975.3160260049,329954.69796934415
+CIBC,16263.279380454811,32041.26028451509,226591.62620446226,274896.16586943215
+National Bank of Canada,27885.23479264698,54938.37037318556,388517.01129556744,471340.6164614
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2811.2589495887146,5538.629548429086,39168.46794347702,47518.35644149482
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,23218.248212378396,45743.66072917384,323493.2203393373,392455.1292808895
+Healthcare of Ontario Pension Plan Trust Fund,4593.206570751494,9049.351230531332,63995.83515797024,77638.39295925308
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,YAL AU Equity 2024,1988.11,287.771,,,,,,,,,,,,,,,,,,6214.0912,6896.0,8561.0912,YANCOAL AUSTRALIA LTD,1317.091,6.5,112.0,2461.0,12356.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,58203.55863397413,8424.733174551393,0.0,66628.29180852552
+BMO,16303.907470346769,2359.9256362319798,0.0,18663.83310657875
+TD,50938.59301370366,7373.1583514727645,0.0,58311.75136517643
+Scotiabank,5432.468378563704,786.3281497339965,0.0,6218.796528297701
+CIBC,5127.555328460931,742.1932007919737,0.0,5869.748529252905
+National Bank of Canada,18333.564787862557,2653.7104448788023,0.0,20987.27523274136
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,15.55915792603634,2.252126107475645,0.0,17.811284033511985
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5478.681399866408,793.0173004114241,0.0,6271.698700277832
+Healthcare of Ontario Pension Plan Trust Fund,48.999736155129376,7.0925165474233,0.0,56.09225270255268
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,325.581185258253,47.12657914449036,0.0,372.70776440274335

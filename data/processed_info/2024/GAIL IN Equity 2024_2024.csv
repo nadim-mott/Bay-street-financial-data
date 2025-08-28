@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,GAIL IN Equity 2024,3467.99,386.108,29508.801,,,,,,,1475.44,,,,28033.4,,,,,,1393224.19,1332284.6,1190421.79,GAIL INDIA LTD,6575.1,181.05,217937.7,17121.3,1247172.3
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,577.8828765894818,64.33847897895082,4917.15758811841,5559.378943686843
+BMO,228.57609435223793,25.448475525637008,1944.935076532831,2198.9596464107062
+TD,628.378147404375,69.96036024844605,5346.8176699621745,6045.156177614996
+Scotiabank,68.14953384715848,7.587415250522254,579.8787454319028,655.6156945295835
+CIBC,34.312196368650135,3.8201417868871506,291.9596402213034,330.0919783768407
+National Bank of Canada,81.7922588933793,9.10632542100897,695.963564175014,786.8621484894022
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.19518739656134823,0.02173115127538114,1.6608334093078052,1.8777519571445347
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,84.65597845785399,9.425157088228367,720.3307170309778,814.4118525770601
+Healthcare of Ontario Pension Plan Trust Fund,0.6146946369320071,0.06843690924037941,5.230385811402193,5.913517357574579
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4.084369104164332,0.45473244907588595,34.75355880372452,39.29266035696474

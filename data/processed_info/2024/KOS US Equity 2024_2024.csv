@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,KOS US Equity 2024,14.031,0.972,8878.07,,,,,,,,,,,8878.0703,,,,,,4289.1835,1675.562,1613.8825,KOSMOS ENERGY LTD,470.844,3.42,2760.273,84.972,5308.988
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,19564.55899174816,1355.3382752461841,12379412.024605323,12400331.921872318
+BMO,6225.3054859941785,431.2591356557866,3939042.1027462035,3945698.6673678537
+TD,2118.983049261641,146.7929245158802,1340779.736002652,1343045.5119764295
+Scotiabank,1661.8208308225662,115.12293119232659,1051511.806859607,1053288.750621622
+CIBC,2018.2550433504298,139.81497413845184,1277044.4129566434,1279202.4829741323
+National Bank of Canada,3989.9366422276717,276.40356469569497,2524619.6281265207,2528885.968333444
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,28.507434091391413,1.974857525253542,18037.987594326103,18068.469885942748
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,292.2207608050772,20.243644751089377,184901.75023497682,185214.214640533
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,6250.352731379144,432.994287998042,3954890.66702167,3961574.014041047
+Healthcare of Ontario Pension Plan Trust Fund,1058.652559278634,73.33834278517799,669859.0153624567,670991.0062645205
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

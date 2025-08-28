@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,9501 JP Equity 2024,200.0,5961.0,115463.0,3432.0,2279.0,101903.0,21.0,4.0,4.0,9.0,1.0,0.0,0.0,7800.0,0.0,5.0,0.0,0.0,,7714990.008,6918389.0,1512389.008,TOKYO ELECTRIC POWER COMPANY,1602.1308,944.0,6418299.0,1242457.0,14595480.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,18.74253241068253,558.6211785003928,10819.876535362917,11397.240246273992
+BMO,10.636284656202685,317.01446417812105,6140.220769179248,6467.871518013572
+TD,1.7357967997080286,51.73542361529779,1002.0581345034478,1055.5293549184537
+Scotiabank,1.9924767927168114,59.38577080692457,1150.2369276674879,1211.6151752671292
+CIBC,0.5452300933411703,16.25058293203358,314.7558805849242,331.55169361029897
+National Bank of Canada,4.67935164998237,139.46807592772453,2701.3429140183225,2845.4903415960293
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.1306542159158565,3.8941489053721026,75.42537230606479,79.45017542735275
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1.5813391841313884,47.13181438303604,912.8912976072093,961.6044511743767
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.3311317375033448,9.86938143628719,191.1590407433059,201.35955391709643

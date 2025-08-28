@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,5020 JP Equity 2024,24164.4,,191437.0,21250.0,1060.0,30.0,2730.0,70.0,5.0,2.0,,,,166000.0,,,290.0,,,5156145.981,13856662.0,2185600.981,ENEOS HOLDINGS INC,3012.4819,731.3,3269846.0,716898.0,10136545.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1566.9925305546883,0.0,12414.144322714317,13981.136853269005
+BMO,889.259692549525,0.0,7044.959020815886,7934.2187133654115
+TD,145.1234315674934,0.0,1149.7076016365495,1294.8310332040428
+Scotiabank,166.5834788532244,0.0,1319.7199782003572,1486.3034570535815
+CIBC,45.58463418808284,0.0,361.13396629190106,406.7186004799839
+National Bank of Canada,391.22296404203524,0.0,3099.375551113005,3490.59851515504
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10.9235068100475,0.0,86.53901496395787,97.46252177400537
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,132.20981218071663,0.0,1047.4023693714657,1179.6121815521824
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,27.684677178500955,0.0,219.32560067788512,247.01027785638607

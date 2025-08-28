@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,GMDC IN Equity 2024,453.999,191.883,,,,,,,,,,,,,,,,,,104316.665,24628.837,109376.1,GUJARAT MINERAL DEV CORP LTD,318.0,343.95,29.829,5089.264,73668.512
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,9027.522110552489,3815.4886357440064,0.0,12843.010746296495
+BMO,3323.0690746515925,1404.4975060547963,0.0,4727.566580706389
+TD,572.9067316991556,242.13943730851622,0.0,815.0461690076718
+Scotiabank,1019.1516105346599,430.7451524876093,0.0,1449.8967630222692
+CIBC,511.99364991072093,216.3944800006583,0.0,728.3881299113792
+National Bank of Canada,1292.6025757912378,546.3193972906331,0.0,1838.9219730818709
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,83.12819686384869,35.134191482417094,0.0,118.26238834626578
+Intact Financial,20.88685707389457,8.82784498624471,0.0,29.71470206013928
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,3750.739095497097,1585.2525443035545,0.0,5335.991639800652
+Healthcare of Ontario Pension Plan Trust Fund,197.0097172691292,83.26629701552717,0.0,280.27601428465636
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,55.18911996313637,23.325720774465353,0.0,78.51484073760173

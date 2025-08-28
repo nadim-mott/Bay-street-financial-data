@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,PTRO IJ Equity 2024,302.047,4.394,0.765,,,,,,,,,,,,,,,,,2004.6257,690.811,1720.9827,PETROSEA TBK PT,10086.05,2763.0,397.685,114.921,867.265
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,646313.0131093126,9402.177077085087,0.0,655715.1901863978
+BMO,275261.65559305163,4004.3427502205573,0.0,279265.9983432722
+TD,124194.51541784819,1806.707898923098,0.0,126001.22331677128
+Scotiabank,102877.96154894527,1496.6073592721184,0.0,104374.56890821739
+CIBC,134875.95946722766,1962.0951901492097,0.0,136838.05465737687
+National Bank of Canada,96296.2192995897,1400.8600899939318,0.0,97697.07938958364
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,575.4921958250945,8.371917974538617,0.0,583.8641137996332
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,7414.529827638593,107.86216735357073,0.0,7522.391994992164
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,58773.03997942571,854.9952082609547,0.0,59628.03518768666
+Healthcare of Ontario Pension Plan Trust Fund,12186.7799943602,177.28602268924612,0.0,12364.066017049447
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2476.073162153228,36.02043878767637,0.0,2512.0936009409047

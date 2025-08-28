@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2024,ASII IJ Equity 2024,4642.02,384.374,,,,,,,,,,,,,,,,,,308122410.4,330920000.0,198369410.4,ASTRA INTERNATIONAL TBK PT,40483.5531,4900.0,100673000.0,49247000.0,471356000.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6.487825498623351,0.5372125579398305,0.0,7.025038056563181
+BMO,2.8752200866550544,0.23807735545903502,0.0,3.1132974421140895
+TD,4.638313056255372,0.3840670532839372,0.0,5.022380109539309
+Scotiabank,0.7937580601893043,0.06572568852077407,0.0,0.8594837487100784
+CIBC,0.2391102552775446,0.019799088599801576,0.0,0.25890934387734615
+National Bank of Canada,1.2684918386993402,0.10503515323247643,0.0,1.3735269919318167
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.03680959400583065,0.003047951298442736,0.0,0.039857545304273385
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.348883812481201,0.028888687799416883,0.0,0.3777725002806179
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.09140386153005374,0.0075685300519499855,0.0,0.09897239158200373
