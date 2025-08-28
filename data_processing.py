@@ -71,14 +71,12 @@ def main(fossil_csv_dir: str, years: List[int], output_dir: str, graph_dir: str)
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
-        fossil_csv_dir = "data/Bloomberg"
-        output_dir = "data/processed_info"
-        graph_dir = "./data/serialized_fi_data"
+        fossil_csv_dir = "data/input_data/Bloomberg"
+        output_dir = "data/output_data/processed_info"
+        graph_dir = "./data/output_data/serialized_fi_data"
 
     else:
         fossil_csv_dir = sys.argv[1]
         output_dir = sys.argv[2]
     years = [int(year) for year in YEARS_OF_INTEREST]
-
-
     main(fossil_csv_dir, years, output_dir, graph_dir)

@@ -3,7 +3,7 @@ from typing import Any
 from utilities.helper_functions import safe_to_float
 import csv
 
-DIR_loan_data = "./data/Loan Data"
+DIR_loan_data = "./data/input_data/Loan Data"
 
 
 def get_loan_value(company_name: str, bank: str, year: int) -> float:

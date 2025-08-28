@@ -3,5 +3,5 @@ venv
 .mypy_cache
 .history
 __pycache__
-data/tickers/urgewald GOGEL 2024.csv
-data/tickers/urgewald GCEL 2024 for FI.csv
+data/input_data/tickers/urgewald GOGEL 2024.csv
+data/input_data/tickers/urgewald GCEL 2024 for FI.csv

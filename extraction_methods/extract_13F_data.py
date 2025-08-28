@@ -4,7 +4,7 @@ from utilities.helper_functions import safe_to_float
 from typing import Any
 
 
-DIR_13F = './data/13f_data'
+DIR_13F = './data/input_data/13f_data'
 
 def get_share_value_from_13F(company_ticker : str , financial_institution_name : str, year : int, aggregation_method = sum) -> float:
 

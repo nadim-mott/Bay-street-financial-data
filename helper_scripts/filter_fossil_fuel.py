@@ -6,48 +6,9 @@ from functools import cmp_to_key
 from utilities.helper_functions import print_cond, contains_which
 from datagen import generate_tables_alphabetical
 import sys
+from utilities.urgewald import urgewald_tickers
 
 from utilities.yahoo import is_fossil_fuel_company
-
-urgewald_tickers = []
-with open("data/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as file:
-    reader = csv.reader(file)
-    found_ticker_index = False
-    found_business_sector = False
-    while not found_ticker_index or not found_business_sector:
-        try:
-            row = list(next(reader))
-            if not found_business_sector:
-                business_sector_index = row.index("Primary Business Sectors")
-                found_business_sector = True
-            bb_ticker_index = row.index("BB Ticker")
-            found_ticker_index = True
-        except ValueError:
-            pass
-        except StopIteration:
-            raise Exception("Make sure the Urgewald file has a column 'BB Ticker' and Primary Business Sectors")
-    tickers = [line[bb_ticker_index] for line in reader if line[bb_ticker_index] != "! - n.a." and line[bb_ticker_index] != "" and line[bb_ticker_index] != " " and "Oil & Gas" in line[business_sector_index]]
-    urgewald_tickers.extend(tickers)
-
-with open("data/urgewald GCEL 2024 for FI.csv", encoding='iso-8859-1') as file:
-    reader = csv.reader(file)
-    found_ticker_index = False
-    found_business_sector = False
-    while not found_ticker_index or not found_business_sector:
-        try:
-            row = list(next(reader))
-            if not found_business_sector:
-                business_sector_index = row.index("Coal Industry Sector")
-                found_business_sector = True
-            bb_ticker_index = row.index("BB Ticker")
-            found_ticker_index = True
-        except ValueError:
-            pass
-        except StopIteration:
-            raise Exception("Make sure the Urgewald file has a column 'BB Ticker'")
-    tickers = [line[bb_ticker_index] for line in reader if line[bb_ticker_index] != "! - n.a." and line[bb_ticker_index] != "" and line[bb_ticker_index] != " "]
-    urgewald_tickers.extend(tickers)
-
 
 def is_urgewald(ticker: str) -> Optional[Tuple[str,str]]:
     for urgewald_ticker in urgewald_tickers:
@@ -195,22 +156,22 @@ def filter_bulk_csv(source_root: str, destination_root: str, top_number : int = 
 
 
 if __name__ == "__main__":
-    if len(sys.argv >= 2):
-        top_number = sys.argv[1]
+    if len(sys.argv) >= 2:
+        top_number = int(sys.argv[1])
     else:
         print("Number of companies to look for per file not specified defaulting to finding them all")
         print("If you wish to specify the number of fossil fuel companies to find per file (for example only find the top 20 fossil fuel companies invested in for each year/company) run the following:")
         print("\t python -m filter_fossil_fuel 20")
         top_number = -1
-    reorder_bulk_csv("./data/13f_data", "./data/sorted_by_value", 4)
-    fossil_fuel_country_codes = filter_bulk_csv("./data/sorted_by_value", "./data/filtered_data", top_number = top_number, filter_method = is_fossil_fuel_company, verbose = True)
+    reorder_bulk_csv("./data/input_data/13f_data", "./data/output_data/sorted_by_value", 4)
+    fossil_fuel_country_codes = filter_bulk_csv("./data/output_data/sorted_by_value", "./data/output_data/filtered_data", top_number = top_number, filter_method = is_fossil_fuel_company, verbose = True)
     print(f"found {len(fossil_fuel_country_codes)} tickers")
     for year in fossil_fuel_country_codes:
         codes = fossil_fuel_country_codes[year]
         print(f"for year: {year} found {len(codes)} tickers, the tickers are {"+".join(company[1].replace(" ", "_") for company in list(codes))}\n")
         tickers = [company[1] for company in list(codes)]
         generate_tables_alphabetical(tickers, [int(year)], True)
-        with open("./data/tickers/yahoo_tickers.txt", "w") as text_file:
-            text_file.write(tickers.join("\n"))
+        with open("./data/input_data/tickers/yahoo_tickers.txt", "w") as text_file:
+            text_file.write("\n".join(tickers))
 
     

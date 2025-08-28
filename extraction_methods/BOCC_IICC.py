@@ -3,8 +3,8 @@ from typing import Any
 from utilities.helper_functions import safe_to_float
 import csv
 
-DIR_loan_data = "./data/BOCC Big 5"
-DIR_share_data = "./data/IICC"
+DIR_loan_data = "./data/input_data/BOCC Big 5"
+DIR_share_data = "./data/input_data/IICC"
 
 
 def get_BOCC_loan(ticker: str, company_name: str, bank: str, year: int) -> float:

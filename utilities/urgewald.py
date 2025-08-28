@@ -1,7 +1,7 @@
 import csv
 
 urgewald_tickers_set = set()
-with open("data/tickers/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as file:
+with open("data/input_data/tickers/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as file:
     reader = csv.reader(file)
     found_ticker_index = False
     found_business_sector = False
@@ -20,7 +20,7 @@ with open("data/tickers/urgewald GOGEL 2024.csv", 'r', encoding='iso-8859-1') as
     tickers = {line[bb_ticker_index] for line in reader if  line[bb_ticker_index] != "ticker" and line[bb_ticker_index] != "! - n.a." and line[bb_ticker_index] != "" and line[bb_ticker_index] != " " and "Oil & Gas" in line[business_sector_index]}
     urgewald_tickers_set |= tickers
 
-with open("data/tickers/urgewald GCEL 2024 for FI.csv", encoding='iso-8859-1') as file:
+with open("data/input_data/tickers/urgewald GCEL 2024 for FI.csv", encoding='iso-8859-1') as file:
     reader = csv.reader(file)
     found_ticker_index = False
     found_business_sector = False

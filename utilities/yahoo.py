@@ -103,5 +103,5 @@ def is_fossil_fuel_company(symbol: str) -> Optional[Tuple[str,str]]:
     return None
 
 def get_yahoo_tickers() -> List[str]:
-    with open("./data/tickers/yahoo_tickers.txt") as f:
+    with open("./data/input_data/tickers/yahoo_tickers.txt") as f:
         return f.read().split("\n")

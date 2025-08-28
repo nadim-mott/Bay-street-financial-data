@@ -28,8 +28,8 @@ def contains_which(str : str, list : List[str]) -> Optional[str]:
 
 
 
-def remove_folder_contents():
-    folder = '/path/to/folder'
+def remove_folder_contents(path: str)-> None:
+    folder = path
     for filename in os.listdir(folder):
         file_path = os.path.join(folder, filename)
         try:

@@ -37,7 +37,7 @@ fields = [
     ("BS_TOT_ASSET", "AC"),
 ]
 
-directory = "data/Bloomberg_template"
+directory = "data/input_data/Bloomberg_template"
 
 
 def col_index_to_excel_col(index: int) -> str:
