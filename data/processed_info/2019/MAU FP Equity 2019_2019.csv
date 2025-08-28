@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,MAU FP Equity 2019,,0.462,1380.11,,,1378.0,,,2.106,,,,,,,,,,,1049.3853,503.628,621.0053,MAUREL ET PROM,196.1124,2.82,701.556,290.293,2563.103
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,0.0,1049.235450969581,3134320.652155465,3135369.8876064345
+BMO,0.0,1025.2622449438031,3062706.8740701564,3063732.1363151004
+TD,0.0,361.8329312165291,1080882.6826180066,1081244.5155492232
+Scotiabank,0.0,220.3341775021888,658191.6025450991,658411.9367226013
+CIBC,0.0,321.6214193341023,960761.148379893,961082.7697992271
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0,0.14804704565323357,442.2524155590943,442.40046260474753
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,3.385739219939025,10114.023835223306,10117.409574443245
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.0,1264.9593393164278,3778740.203347701,3780005.1626870176
+Healthcare of Ontario Pension Plan Trust Fund,0.0,44.62242109688919,133297.98937303756,133342.61179413446
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

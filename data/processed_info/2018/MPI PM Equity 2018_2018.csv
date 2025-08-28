@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,MPI PM Equity 2018,4800.02,2061.53,31561.9,,,,,,,,,,,,,,,,,379586.6822,83029.0,146231.6822,METRO PACIFIC INVESTMENTS CO,31514.0,4.64,215093.0,47521.0,557946.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,21161.105766038985,9088.348458936078,0.0,30249.454224975063
+BMO,8100.9540344329025,3479.2271220962543,0.0,11580.181156529157
+TD,3611.314541521427,1551.000468077772,0.0,5162.315009599199
+Scotiabank,3650.73707932767,1567.9318026063165,0.0,5218.668881933987
+CIBC,2943.6589054023752,1264.253303789184,0.0,4207.91220919156
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,54.6204020895822,23.458568405910057,0.0,78.07897049549226
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,275.8921151219582,118.49114630509258,0.0,394.3832614270508
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5162.612740291652,2217.25764527928,0.0,7379.870385570932
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,9508 JP Equity 2019,17560.0,0.1,17109.0,340.0,1070.0,13890.0,1.0,20.0,2.0,6.0,,,,1120.0,,,,660.0,,3775763.018,2017181.0,618177.018,KYUSHU ELECTRIC POWER CO INC,473.206,1307.0,3250008.0,211669.0,4794039.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3003.8033539448084,0.017105941651166332,2926.655557098048,5930.476016984508
+BMO,792.2746167182811,0.004511814446003879,771.9263335668036,1564.2054620995307
+TD,341.3561388657124,0.00194394156529449,332.58896240623426,673.947045213512
+Scotiabank,70.67438408071004,0.000402473713443679,68.85922763307904,139.53401418750252
+CIBC,164.21568101711605,0.0009351690262933716,159.99806870853294,324.2146848946753
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.19884272048431278,1.1323617339653348e-06,0.19373576906412912,0.39257962191017587
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,81.6675459131999,0.00046507714073576255,79.5700480084816,161.23805899882225
+Intact Financial,13.265650066596297,7.554470425168733e-05,12.924943450421186,26.190669061721735
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,314.5691838061828,0.0017913962631331598,306.4899866594523,621.0609618618982
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

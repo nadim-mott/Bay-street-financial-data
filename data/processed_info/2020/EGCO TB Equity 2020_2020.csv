@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,EGCO TB Equity 2020,6318.75,6.749,1215.94,195.477,,1012.63,,7.817,0.016,,,,,,,,,,,177516.6701,30700.606,101344.5125,ELECTRICITY GENERATING PCL,526.465,192.5,92817.8692,17236.7497,214437.6948
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,252474.69707597638,269.66595142484897,48584.62245896146,301328.9854863627
+BMO,110755.32339503829,118.29676401077957,21313.048930399662,132186.66908944873
+TD,73773.38998744506,78.79669381210947,14196.481237797658,88048.66791905483
+Scotiabank,47935.753859884615,51.19974722854382,9224.451125363103,57211.40473247626
+CIBC,35850.79409208269,38.29191047714596,6898.898448004276,42787.98445056411
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,43.58209577454921,0.04654964421482614,8.386660895921722,52.01530631468576
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6979.806689089357,7.455068699452276,1343.149538363017,8330.411296151826
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,30751.377140424847,32.84526913087672,5917.599132760149,36701.821542315876
+Healthcare of Ontario Pension Plan Trust Fund,18410.910321858817,19.664527598373912,3542.8783061145023,21973.453155571693
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1418.6938587326076,1.5152941408643117,273.00440919285097,1693.213562066323

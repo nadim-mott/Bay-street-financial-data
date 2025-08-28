@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,PPL CN Equity 2018,1623.37,1411.37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,30442.08,7351.0,20579.08,PEMBINA PIPELINE CORP,505.0,40.51,7537.0,157.0,26664.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,156593.8155209076,136143.83252847067,0.0,292737.6480493783
+BMO,100365.98452992066,87258.9364014329,0.0,187624.92093135358
+TD,28149.847375587244,24473.687508382296,0.0,52623.534883969536
+Scotiabank,160638.81433851185,139660.58470524,0.0,300299.3990437519
+CIBC,21286.5032975235,18506.64491707112,0.0,39793.14821459462
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,174.88688950137708,152.0479676448121,0.0,326.9348571461892
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,6663.450808782511,5793.253890358557,0.0,12456.704699141068
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6236.449125033772,5422.015438007918,0.0,11658.46456304169
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,16171.633692079527,14059.739088433495,0.0,30231.372780513022
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,143.01756006585327,124.34053465946971,0.0,267.358094725323
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

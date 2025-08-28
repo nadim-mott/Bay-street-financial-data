@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,NFG US Equity 2019,1990.49,11.355,,,,,,,,,,,,,,,,,,6218.4033,1693.332,4049.9133,NATIONAL FUEL GAS CO,86.2356,46.92,2188.918,20.428,6462.157
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,49997.264321683135,285.21566869098166,0.0,50282.479990374115
+BMO,85595.3597698005,488.2894715301684,0.0,86083.64924133067
+TD,12555.100142514162,71.62214435553473,0.0,12626.722286869697
+Scotiabank,32751.38806798654,186.8344033438938,0.0,32938.22247133043
+CIBC,6745.202362727123,38.47885336212013,0.0,6783.681216089243
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,10.81276974497207,0.061682801950352854,0.0,10.874452546922422
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1884.8623623621772,10.752433885436512,0.0,1895.6147962476136
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,87993.82869504885,501.97183850824666,0.0,88495.8005335571
+Healthcare of Ontario Pension Plan Trust Fund,5854.131837834652,33.395629728666044,0.0,5887.527467563318
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

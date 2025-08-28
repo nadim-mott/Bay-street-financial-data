@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CEZ CP Equity 2019,26709.0,356.198,18322.699,41.112,,2633.95,,,,,,,,15647.7,,,,,,439036.9254,206192.0,272805.9254,CEZ AS,535.255,509.5,171893.0,10265.0,704574.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,299546.7753758695,3994.831790607434,205493.43940542574,509035.04657190264
+BMO,174502.02635884538,2327.2032942067462,119710.92506237037,296540.1547154225
+TD,90284.1517495866,1204.0523525740102,61936.23965253505,153424.44375469565
+Scotiabank,41530.320143845376,553.858885566567,28490.402927083927,70574.58195649587
+CIBC,40081.81914658662,534.5413087863963,27496.710200679532,68113.07065605254
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,11.356952732816266,0.15145920287257808,7.791034556465686,19.29944649215453
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,5103.383777161902,68.0600207666897,3500.9954076752615,8672.439205603852
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,26537.380250759026,353.90923548466293,18205.02835891115,45096.31784515484
+Healthcare of Ontario Pension Plan Trust Fund,4662.518620645767,62.18053119311022,3198.555505884184,7923.254657723061
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

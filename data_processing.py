@@ -1,8 +1,9 @@
 import sys
 
 import csv
-from company_data import FossilFuelCompanyYear, FINANCIAL_INSTITUTIONS, YEARS_OF_INTEREST
-from generate_bloomberg_template import urgewald_tickers
+from utilities.company_data import FossilFuelCompanyYear
+
+from global_values import FINANCIAL_INSTITUTIONS, YEARS_OF_INTEREST, FOSSIL_FUEL_TICKERS
 
 import os
 from typing import List
@@ -28,8 +29,8 @@ def main(fossil_csv_dir: str, years: List[int], output_dir: str, graph_dir: str)
         year_dir = os.path.join(output_dir, str(year))
         os.makedirs(year_dir, exist_ok=True)
 
-        with alive_bar(len(urgewald_tickers)) as bar:
-            for urgewald_ticker in urgewald_tickers:
+        with alive_bar(len(FOSSIL_FUEL_TICKERS)) as bar:
+            for urgewald_ticker in FOSSIL_FUEL_TICKERS:
                 bar()
                 # Find relevant file:
                 first_character = urgewald_ticker[0].lower()
@@ -41,9 +42,9 @@ def main(fossil_csv_dir: str, years: List[int], output_dir: str, graph_dir: str)
                 for file in possible_files:
                     try:
                         company = FossilFuelCompanyYear(file, year, urgewald_ticker)
-                        for fi in company.investment_data:
+                        for fi in FINANCIAL_INSTITUTIONS:
                             fi_serialized_data[fi][i] += company.get_total_financed_emission(fi)
-                        output_path = os.path.join(year_dir, f"{company.ticker}_{year}.csv")
+                        output_path = os.path.join(year_dir, f"{company.ticker.replace("/", " - ")}_{year}.csv")
                         company.export_with_financed_data_to_csv(output_path)
                         
                         break
@@ -71,13 +72,13 @@ def main(fossil_csv_dir: str, years: List[int], output_dir: str, graph_dir: str)
 if __name__ == "__main__":
     if len(sys.argv) < 4:
         fossil_csv_dir = "data/Bloomberg"
-        output_dir = "data/processed_fi_info"
+        output_dir = "data/processed_info"
         graph_dir = "./data/serialized_fi_data"
 
     else:
         fossil_csv_dir = sys.argv[1]
         output_dir = sys.argv[2]
-    years = YEARS_OF_INTEREST
+    years = [int(year) for year in YEARS_OF_INTEREST]
 
 
     main(fossil_csv_dir, years, output_dir, graph_dir)

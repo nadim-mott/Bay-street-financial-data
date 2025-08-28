@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,9104 JP Equity 2019,12199.0,47.0,2166.0,,,,,,,,,,,,,,,,,1390359.314,1234077.0,284753.314,MITSUI OSK LINES LTD,358.776,793.7,1105872.0,125005.0,2134477.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4530.178198382619,17.453756482005332,0.0,4547.631954864624
+BMO,1194.8668980196665,4.603553095083557,0.0,1199.47045111475
+TD,514.8153710337504,1.9834676972363525,0.0,516.7988387309867
+Scotiabank,106.58738812781648,0.4106572048534613,0.0,106.99804533266995
+CIBC,247.66145127287265,0.9541838027563747,0.0,248.61563507562903
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.29988413058469265,0.001155386026516973,0.0,0.30103951661120965
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,123.16669649014165,0.47453354660518543,0.0,123.64123003674683
+Intact Financial,20.006555569007354,0.07708075348334664,0.0,20.0836363224907
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,474.4166945849838,1.8278206939498516,0.0,476.24451527893365
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

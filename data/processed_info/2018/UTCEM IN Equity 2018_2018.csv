@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,UTCEM IN Equity 2018,39298.898,633.09,4794.49,0.0,0.0,24.8,2996.28,0.0,3.176,0.0,0.0,1770.23,0.0,0.0,0.0,0.0,0.0,0.0,,1238093.741,309786.2,1084725.241,ULTRATECH CEMENT LTD,274.5439,3950.0,194802.2,41593.9,571505.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,104962.31637655421,1690.902194632346,12805.45720124162,119458.67577242818
+BMO,48581.21282496275,782.6244905736459,5926.933237474097,55290.770553010494
+TD,35086.21209581128,565.2252644778274,4280.536128173309,39931.97348846242
+Scotiabank,11318.739483690139,182.34050175476654,1380.8921052239073,12881.972090668813
+CIBC,15490.984694195016,249.5537533914545,1889.9081913831856,17630.446638969657
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,97.85549324928084,1.576414031283707,11.93842108261589,111.37032836318043
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2094.672733503765,33.74436506728251,255.5511631742328,2383.9682617452804
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,12914.89626491323,208.05396823987067,1575.6240628828516,14698.574296035953
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

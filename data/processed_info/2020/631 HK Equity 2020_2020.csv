@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,631 HK Equity 2020,6.435,52.395,,,,,,,,,,,,,,,,,,13492.6916,7363.859,15262.7316,SANY HEAVY EQUIPMENT INTL,3111.383,5.8,3137.521,4965.576,17464.161
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,91.52844894422438,745.242126252158,0.0,836.7705751963823
+BMO,51.16764518089278,416.6167473586445,0.0,467.7843925395373
+TD,38.45088679931972,313.07446990681535,0.0,351.5253567061351
+Scotiabank,49.59206908938895,403.7881056625539,0.0,453.38017475194283
+CIBC,29.69562506098187,241.78745533335592,0.0,271.4830803943378
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0037945370145931155,0.03089584566893649,0.0,0.03469038268352961
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10.22121787164232,83.22310961689192,0.0,93.44432748853424
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.27910927818451575,2.2725610925373276,0.0,2.5516703707218436
+Healthcare of Ontario Pension Plan Trust Fund,3.437428919997518,27.988203304315462,0.0,31.42563222431298
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1.1383611043779345,9.268753700680945,0.0,10.407114805058878

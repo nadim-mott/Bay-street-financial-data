@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,MUR US Equity 2018,2174.22,51.499,,,,,,,,,,,,,,,,,,7166.252,2570.603,4047.846,MURPHY OIL CORP,172.974,23.39,3109.986,359.923,11052.587
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,127720.9480004921,3025.2233449592695,0.0,130746.17134545138
+BMO,53492.25133070774,1267.0279232460919,0.0,54759.27925395383
+TD,14209.777274135426,336.575562657275,0.0,14546.352836792701
+Scotiabank,89017.611244387,2108.4885436959858,0.0,91126.09978808298
+CIBC,9404.074107562392,222.7467378946729,0.0,9626.820845457065
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,68.21552499773954,1.6157662618587763,0.0,69.83129125959832
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,818.0491698547819,19.376472573314302,0.0,837.4256424280962
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24028.515832865178,569.1441238130108,0.0,24597.659956678188
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

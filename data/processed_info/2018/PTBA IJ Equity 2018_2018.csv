@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,PTBA IJ Equity 2018,344.03,,,,,,,,,,,,,,,,,,,39785804.73,21166993.0,45323615.73,BUKIT ASAM TBK PT,10540.0,4300.0,832395.0,6624733.0,24172933.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,22.44298626547375,0.0,0.0,22.44298626547375
+BMO,10.185731954399833,0.0,0.0,10.185731954399833
+TD,9.777430069566957,0.0,0.0,9.777430069566957
+Scotiabank,2.399903612676755,0.0,0.0,2.399903612676755
+CIBC,3.2929060079646915,0.0,0.0,3.2929060079646915
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.018156533779261214,0.0,0.0,0.018156533779261214
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.024851376084156024,0.0,0.0,0.024851376084156024
+Intact Financial,0.4344740121200388,0.0,0.0,0.4344740121200388
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1.8316162502245272,0.0,0.0,1.8316162502245272
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

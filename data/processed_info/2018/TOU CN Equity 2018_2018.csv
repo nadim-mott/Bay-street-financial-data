@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,TOU CN Equity 2018,1790.02,58.568,,,,,,,,,,,,,,,,,,6123.4513,1706.557,4619.2843,TOURMALINE OIL CORP,271.7029,16.98,1476.099,0.0,10732.457
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1133651.1522964716,37092.14460603778,0.0,1170743.2969025094
+BMO,516073.3591002398,16885.5009976329,0.0,532958.8600978727
+TD,353534.5110626769,11567.3619534524,0.0,365101.8730161293
+Scotiabank,743963.9165664922,24341.894875736758,0.0,768305.811442229
+CIBC,166146.1809267726,5436.168045339838,0.0,171582.34897211244
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1724.8081093428264,56.434319922677204,0.0,1781.2424292655035
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,22404.6799500953,733.0629240551399,0.0,23137.742874150437
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,128769.65507405552,4213.238488048895,0.0,132982.8935621044
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

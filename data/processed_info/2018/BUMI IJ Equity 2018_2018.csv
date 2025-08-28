@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,BUMI IJ Equity 2018,3034.16,9.531,,,,,,,,,,,,,,,,,,2637.9357,1111.82,464.4322,BUMI RESOURCES TBK PT,65475.384,103.0,1561.037,88.5287,3906.7739
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,647693.3695811789,2034.5550351590612,0.0,649727.924616338
+BMO,147431.3984258628,463.116202967839,0.0,147894.51462883066
+TD,187465.9448677331,588.8739949555608,0.0,188054.81886268867
+Scotiabank,63886.721549453294,200.68300389163372,0.0,64087.404553344924
+CIBC,64311.3699696102,202.01692302988465,0.0,64513.38689264008
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,287.4543151831419,0.9029606474314228,0.0,288.3572758305733
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,21389.214270672877,67.18848090205633,0.0,21456.402751574933
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,115158.11849393732,361.7383484607657,0.0,115519.85684239809
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

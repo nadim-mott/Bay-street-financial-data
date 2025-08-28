@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,AR US Equity 2019,422.132,4.948,,,,,,,,,,,,,,,,,,7491.2979,4269.808,843.4319,ANTERO RESOURCES CORP,306.4,2.85,6647.866,0.0,15197.569
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,30528.088245180195,357.83352277759474,0.0,30885.92176795779
+BMO,24876.518101817113,291.588914291717,0.0,25168.107016108832
+TD,94427.06657881923,1106.8223338481744,0.0,95533.8889126674
+Scotiabank,40938.84900962366,479.8627559616847,0.0,41418.71176558534
+CIBC,6669.573479494907,78.17708578487488,0.0,6747.750565279782
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,8.00789251627784,0.09386412821236664,0.0,8.101756644490207
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,17933.174796921958,210.20284862358184,0.0,18143.37764554554
+Healthcare of Ontario Pension Plan Trust Fund,1820.794560888674,21.342356152286868,0.0,1842.1369170409607
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

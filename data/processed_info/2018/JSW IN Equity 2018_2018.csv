@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,JSW IN Equity 2018,17314.1,3.931,,,,,,,,,,,,,,,,,,221598.3891,80489.6,119395.9891,JSW ENERGY LTD,1640.0548,72.8,108291.9,6050.1,267209.3
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,13824.04761953599,3.138617149744773,0.0,13827.186236685735
+BMO,976.5248420727727,0.22171058005833796,0.0,976.746552652831
+TD,3475.9875949635225,0.7891895758833326,0.0,3476.776784539406
+Scotiabank,190.54850645732452,0.04326220703841047,0.0,190.59176866436295
+CIBC,1018.723940534783,0.23129147979058873,0.0,1018.9552320145735
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.755267597175925,0.0006255570271916279,0.0,2.755893154203117
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,474.7761112186305,0.1077933530013363,0.0,474.88390457163183
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,802.9429834506893,0.1823004873452654,0.0,803.1252839380346
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

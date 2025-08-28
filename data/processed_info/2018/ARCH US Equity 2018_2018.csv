@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,ARCH US Equity 2018,5693.0,446.0,,,,,,,,,,,,,,,,,,1370.0437,2451.787,1479.7947,ARCH RESOURCES INC,19.663,82.99,317.983,427.734,1887.06
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2604570.293433272,204046.78567912156,0.0,2808617.0791123933
+BMO,2591242.696171089,203002.6774095039,0.0,2794245.373580593
+TD,691695.437211662,54188.68171375395,0.0,745884.1189254159
+Scotiabank,303055.8103769395,23741.944744091867,0.0,326797.75512103137
+CIBC,539498.1270036985,42265.26693196023,0.0,581763.3939356587
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1619.6523747517138,126.88652013688115,0.0,1746.538894888595
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2223.6557544097163,174.2052461736753,0.0,2397.8610005833916
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,895109.925721453,70124.54362757211,0.0,965234.4693490252
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

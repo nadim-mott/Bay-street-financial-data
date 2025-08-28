@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,HYDR RM Equity 2019,35300.0,,,,,,,,,,,,,,,,,,,352848.0186,366642.0,234579.0186,RUSHYDRO PJSC,422437.0,0.5553,201963.0,87905.0,925119.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,88686.46703426867,0.0,0.0,88686.46703426867
+BMO,17873.088671878348,0.0,0.0,17873.088671878348
+TD,10136.49052754627,0.0,0.0,10136.49052754627
+Scotiabank,4411.841289884227,0.0,0.0,4411.841289884227
+CIBC,2848.9316904320954,0.0,0.0,2848.9316904320954
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,123.39552007998725,0.0,0.0,123.39552007998725
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1275.7892917538195,0.0,0.0,1275.7892917538195
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8478.626570569173,0.0,0.0,8478.626570569173
+Healthcare of Ontario Pension Plan Trust Fund,810.7988563304527,0.0,0.0,810.7988563304527
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

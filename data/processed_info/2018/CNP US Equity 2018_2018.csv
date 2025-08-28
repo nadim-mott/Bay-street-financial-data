@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,CNP US Equity 2018,6644.7,,30466.9,,,30466.9004,,,,,,,,,,,,,,20882.8134,10589.0,14148.8134,CENTERPOINT ENERGY INC,449.0,28.23,9765.0,4771.0,27009.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,405574.3204543331,0.0,1859616.2996192225,2265190.6200735555
+BMO,305197.64606549975,0.0,1399374.882988251,1704572.529053751
+TD,81686.41397164797,0.0,374543.89791975066,456230.3118913986
+Scotiabank,25886.447035904792,0.0,118693.06417938907,144579.51121529387
+CIBC,63797.28749550121,0.0,292519.692975695,356316.98047119624
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,773.0101380798477,0.0,3544.362105899283,4317.372243979131
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,271.44584435610693,0.0,1244.6180420472574,1516.0638864033644
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,101232.39328324169,0.0,464165.0102208005,565397.4035040422
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,1152.0011353036855,0.0,5282.0900642593815,6434.091199563067
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

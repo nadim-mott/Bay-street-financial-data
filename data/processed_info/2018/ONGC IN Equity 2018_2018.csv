@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,ONGC IN Equity 2018,26790.0,550.0,,,,,,,,,,,,,,,,,,3351631.505,3622461.8,2281749.215,OIL & NATURAL GAS CORP LTD,12833.24,177.8,1012460.53,98638.21,4602349.35
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,8907.832165069902,182.8782266065116,0.0,9090.710391676414
+BMO,7648.246768433753,157.01887729147307,0.0,7805.265645725226
+TD,2118.251128663147,43.48779846079623,0.0,2161.738927123943
+Scotiabank,658.6227049496322,13.521556092657624,0.0,672.1442610422898
+CIBC,1598.3717299098535,32.81464917694735,0.0,1631.1863790868008
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,25.090500578960427,0.5151091944168807,0.0,25.605609773377306
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6.786293558558319,0.13932293606596025,0.0,6.925616494624279
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2192.2193802529696,45.006370255286804,0.0,2237.225750508256
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

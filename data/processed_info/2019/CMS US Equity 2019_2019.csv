@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CMS US Equity 2019,12659.0,5150.0,20574.5,,,5149.73,,,1.14,0.963,,0.0,,15422.7002,,,,,,31013.276,6845.0,17840.276,CMS ENERGY CORP,283.0,62.84,13293.0,140.0,26837.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3001671.3943775306,1221155.5163160032,4878583.43937995,9101410.350073483
+BMO,2102747.998181194,855450.8405587447,3417573.1495230673,6375771.988263006
+TD,1163723.0147112072,473431.82919367385,1891386.1917829071,3528541.0356877884
+Scotiabank,744056.6930690983,302701.000814113,1209307.1438685814,2256064.8377517927
+CIBC,452416.7199543325,184054.5151879937,735307.9093874331,1371779.1445297594
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,112.11272740399308,45.610280917178635,182.21558038676082,339.9385887079325
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,65018.286152075234,26451.076205323283,105673.50399265124,197142.86635004976
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,266926.9220386501,108592.59408318572,433833.38490070443,809352.9010225402
+Healthcare of Ontario Pension Plan Trust Fund,67887.80431423818,27618.46845867183,110337.3002400187,205843.5730129287
+OTPP,3192.3744341174993,1298.7383154834602,5188.530988354664,9679.643737955623
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

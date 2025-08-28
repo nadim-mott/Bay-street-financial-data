@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,2600 HK Equity 2018,73314.0,27953.801,,,,,,,,,,,,,,,,,,154417.8603,180240.154,55157.9903,ALUMINUM CORP OF CHINA LTD-H,16842.7137,2.52,101772.876,17767.318,200964.751
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,138999.9551524632,52999.11456667049,0.0,191999.0697191337
+BMO,80124.6478336612,30550.624174608478,0.0,110675.27200826968
+TD,119301.74870783862,45488.41070369817,0.0,164790.1594115368
+Scotiabank,49483.43641882108,18867.475986140125,0.0,68350.91240496121
+CIBC,53211.740675040506,20289.03633267436,0.0,73500.77700771487
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1660.1254959066193,632.9871204353868,0.0,2293.1126163420063
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,52742.54587915978,20110.137650918,0.0,72852.68353007777
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

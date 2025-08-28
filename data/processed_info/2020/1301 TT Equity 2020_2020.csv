@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,1301 TT Equity 2020,3966.55,4668.71,12758.3,6098.53,226.63,1417.11,40.71,3.78,0.179,0.45,,987.98,3979.0,,3.95,,,,,570381.6454,185813.405,613657.4324,FORMOSA PLASTICS CORP,6365.741,96.4,76977.154,120252.941,479280.423
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,24010.95281340228,28261.37966481183,77230.69052131797,129503.02299953208
+BMO,6897.059482351672,8117.9792454021945,22184.236940872415,37199.27566862628
+TD,7352.4202417042225,8653.948117796805,23648.894597501494,39655.262957002524
+Scotiabank,2661.5347721974404,3132.680542614088,8560.766825903436,14354.982140714965
+CIBC,3542.658617198881,4169.781223658491,11394.881886355199,19107.32172721257
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.5790504057129713,3.035594766145947,8.29545771341985,13.910102885278768
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,657.5738242455939,773.9777612770913,2115.0714388511983,3546.6230243738837
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,843.7825562951659,993.149224994215,2714.0076438842784,4550.939425173659
+Healthcare of Ontario Pension Plan Trust Fund,546.0412058230943,642.7016016534113,1756.329276332252,2945.0720838087577
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,47.83847632251052,56.306859308887596,153.87138480456215,258.0167204359603

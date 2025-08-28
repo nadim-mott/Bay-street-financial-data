@@ -2,9 +2,9 @@ import xlsxwriter
 import os
 import traceback
 from typing import List
-from utilities import print_cond
+from utilities.helper_functions import print_cond
 from string import ascii_lowercase
-
+from global_values import FOSSIL_FUEL_TICKERS, YEARS_OF_INTEREST
 # Fields to include in columns (column label and Bloomberg field)
 fields = [
     ("GHG_SCOPE_1", "B"),
@@ -180,15 +180,16 @@ def generate_tables_with_fi(tickers: List[str], years: List[int], banks: List[st
 
 
 
-# if __name__ == "__main__":
-#     print("\nWelcome to the GHG Emissions DataGen Tool!\nThis can be used to generate .xlsx files that when accessed through a Microsoft Excel session with a Bloomberg Terminal plugin, will output the company's most recent GHG emissions data.\n")
+if __name__ == "__main__":
+    # print("\nWelcome to the GHG Emissions DataGen Tool!\nThis can be used to generate .xlsx files that when accessed through a Microsoft Excel session with a Bloomberg Terminal plugin, will output the company's most recent GHG emissions data.\n")
 
-#     tickers_input = input(
-#         "Enter the ticker, then an underscore, then the Bloomberg exchange country code for your desired company. "
-#         "For example for Microsoft you would enter MSFT_US. "
-#         "If you want to generate the template sheets for multiple companies use a '+' to separate them like this: XOM_US+CNQ_CN+SU_CN.\n\n"
-#     )
-#     tickers = tickers_input.upper().replace("_", " ").split("+")
-#     years = list(range(2023, 2017, -1))
-#     generate_tables(tickers, years, True)
-#     print("\nTask fully completed!!\n")
+    # tickers_input = input(
+    #     "Enter the ticker, then an underscore, then the Bloomberg exchange country code for your desired company. "
+    #     "For example for Microsoft you would enter MSFT_US. "
+    #     "If you want to generate the template sheets for multiple companies use a '+' to separate them like this: XOM_US+CNQ_CN+SU_CN.\n\n"
+    # )
+    # tickers = tickers_input.upper().replace("_", " ").split("+")
+    # years = list(range(2023, 2017, -1))
+    # generate_tables(tickers, years, True)
+    # print("\nTask fully completed!!\n")
+    generate_tables_alphabetical(FOSSIL_FUEL_TICKERS, YEARS_OF_INTEREST, True)

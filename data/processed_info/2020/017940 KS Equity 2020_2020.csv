@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,017940 KS Equity 2020,14.223,9.368,4591.33,,,2.0,1297.0,0.0,0.012,0.0,,11.0,,3260.0,,,21.0,,,1874088.171,3927554.237,263066.6822,E1 CORP,5.7818,44650.0,1737141.969,182565.6966,3731448.423
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,11.54225577563467,7.602323849127863,3725.7002582442574,3744.84483786902
+BMO,6.558709345367645,4.319903617197785,2117.0718771774586,2127.950490140024
+TD,4.930777877883618,3.2476641468054375,1591.5953319762514,1599.7737740009404
+Scotiabank,6.359475620436438,4.188678029406494,2052.761645723907,2063.3097993737497
+CIBC,3.808040420103037,2.5081714585899775,1229.1892895435622,1235.505501422255
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0004865952576338838,0.00032049668660017036,0.15706705103988272,0.15787414298411678
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.3107254256464713,0.8633112414719921,423.086279817764,425.2603164848825
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.03352100663700088,0.02207866063245618,10.82017462719192,10.875774294461376
+Healthcare of Ontario Pension Plan Trust Fund,0.4408012372765616,0.2903343873167988,142.28529634757376,143.0164319721671
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.1459785772901651,0.0961490059800511,47.12011531196481,47.36224289523503

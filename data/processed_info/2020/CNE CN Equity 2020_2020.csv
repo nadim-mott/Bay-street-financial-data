@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,CNE CN Equity 2020,24.058,0.0,3.329,3.329,,,,,,,,,,,,,,,,849.0359,246.804,527.2409,CANACOL ENERGY LTD,36.1292,18.75,390.075,68.28,749.792
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,20435.804244321716,0.0,2827.78253925293,23263.586783574647
+BMO,31932.418550988743,0.0,4418.614238766378,36351.03278975512
+TD,4005.4010225686206,0.0,554.2430793969133,4559.644101965534
+Scotiabank,15625.398837609147,0.0,2162.1478398204695,17787.54667742962
+CIBC,14600.91417414696,0.0,2020.3858710505958,16621.300045197557
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,3.4678796732195853,0.0,0.47986413800598554,3.9477438112255707
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,466.11040607813237,0.0,64.49752854909397,530.6079346272263
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,14455.993307802943,0.0,2000.3326012833984,16456.32590908634
+Healthcare of Ontario Pension Plan Trust Fund,9649.375190733495,0.0,1335.2219640016547,10984.597154735151
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,700.5573239860565,0.0,96.93886987902495,797.4961938650815

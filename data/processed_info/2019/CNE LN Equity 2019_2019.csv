@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CNE LN Equity 2019,40.184,0.256,3.056,3.113,,0.027,,0.029,3.056,,,,,,,,,,,1734.2445,533.4,1602.9445,CAPRICORN ENERGY PLC,121.4255,982.233,282.9,151.6,2089.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,22687.57392411278,144.53560931148897,3514.586593609448,26346.69612703372
+BMO,22614.573387912056,144.07054517483294,3503.277905130215,26261.921838217106
+TD,6657.363116439777,42.41202861359205,1031.3081176547284,7731.083262708097
+Scotiabank,2112.3026031157037,13.45683521793799,327.2218719986874,2452.981310332329
+CIBC,6451.096491488008,41.097966897793405,999.3548591357966,7491.549317521598
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.8829195271576773,0.018366200451731172,0.4465999914532287,3.347885719062637
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,298.4197743589999,1.9011413058905033,46.22892433268899,346.5498399975794
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5315.276335518791,33.862003331993094,823.4022294595976,6172.540568310382
+Healthcare of Ontario Pension Plan Trust Fund,1307.1658513441982,8.327554696996684,202.496203081267,1517.9896091224618
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

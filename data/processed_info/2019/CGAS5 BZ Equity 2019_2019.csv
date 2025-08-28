@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,CGAS5 BZ Equity 2019,16.484,0.321,9004.21,,,,3.261,0.568,0.123,,,,,9000.26,,,,,,23106.9165,9514.222,18934.5415,CIA DE GAS DE SAO PAULO-PR A,132.521,142.46,5255.785,1083.41,8451.722
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,788.9528331066269,15.36361680582548,430957.2050044095,431761.5214543219
+BMO,919.4011486362107,17.903892787686463,502213.22830404947,503150.53334547335
+TD,253.1371671186229,4.929448595309266,138273.52085752907,138531.587473243
+Scotiabank,144.57954168047854,2.815459407876341,78975.05727698767,79122.45227807603
+CIBC,235.980681549643,4.5953529954765475,128901.970673227,129142.54670777211
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.10708112472646883,0.002085236655981345,58.49194056270124,58.60110692408369
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10.363363485722642,0.20181022075448724,5660.878540312159,5671.4437140186365
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,260.781714730193,5.078314148774081,142449.2747606273,142715.13478950626
+Healthcare of Ontario Pension Plan Trust Fund,40.645557327068104,0.7915083658085939,22202.209113751185,22243.646179444062
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

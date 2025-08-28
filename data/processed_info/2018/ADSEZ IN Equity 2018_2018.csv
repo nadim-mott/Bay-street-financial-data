@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,ADSEZ IN Equity 2018,84.457,161.541,,,,,,,,,,,,,,,,,,907915.3186,113229.6,733324.0186,ADANI PORTS AND SPECIAL ECON,2070.9518,354.1,206301.4,34864.5,473751.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,30.16811647630929,57.70259071124334,0.0,87.87070718755263
+BMO,10.991143251229653,21.022772202977723,0.0,32.01391545420738
+TD,11.212845692273904,21.446822714228766,0.0,32.65966840650267
+Scotiabank,4.697903518252497,8.985685404904588,0.0,13.683588923157085
+CIBC,3.254361494331123,6.224620933205583,0.0,9.478982427536707
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.1916430451416282,0.36655587050479843,0.0,0.5581989156464267
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1.8147352537840358,3.471046184822181,0.0,5.285781438606216
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.7087567907461418,1.3556399201241163,0.0,2.064396710870258
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8.466845016004772,16.194544096172333,0.0,24.661389112177105
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,NVA CN Equity 2018,281.59,32.218,242.918,,,,,,,,,,,,,,,,,1392.5357,555.849,919.2487,NUVISTA ENERGY LTD,190.568,4.08,473.287,0.0,2180.874
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,523619.68123533914,59909.72296615704,0.0,583529.4042014962
+BMO,411956.41409120295,47133.81778184729,0.0,459090.2318730502
+TD,185228.4332085539,21192.83234885184,0.0,206421.26555740574
+Scotiabank,42888.12453039095,4907.026514152264,0.0,47795.151044543214
+CIBC,225208.15313588956,25767.094988217235,0.0,250975.2481241068
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,758.157449665145,86.74426191736796,0.0,844.9017115825129
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,548.9366261817938,62.80635044683773,0.0,611.7429766286316
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,64009.31893621387,7323.598982516919,0.0,71332.91791873079
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

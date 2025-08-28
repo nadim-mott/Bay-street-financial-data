@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,AEV PM Equity 2019,3230.33,591.196,,,,,,,,,,,,,,,,,,594968.4937,201157.468,290088.8167,ABOITIZ EQUITY VENTURES INC,5633.543,51.5,310590.436,46424.663,588386.101
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,25972.943533882873,4753.415386495318,0.0,30726.358920378192
+BMO,21280.51066616661,3894.6339178334833,0.0,25175.144584000092
+TD,11112.952901124369,2033.827288027267,0.0,13146.780189151636
+Scotiabank,2814.0477191308423,515.0104649863257,0.0,3329.058184117168
+CIBC,6573.846915416095,1203.1068036412173,0.0,7776.953719057312
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,29.531766365400877,5.404730212752114,0.0,34.93649657815299
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,180.87650115882596,33.102953561739284,0.0,213.97945472056523
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1816.8606353241746,332.51114906560963,0.0,2149.3717843897844
+Healthcare of Ontario Pension Plan Trust Fund,469.79116117026103,85.97841561673688,0.0,555.769576786998
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

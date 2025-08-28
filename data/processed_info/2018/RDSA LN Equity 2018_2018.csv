@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,RDSA LN Equity 2018,71000.0,11000.0,1721230.0,190000.0,600.0,96000.0,6000.0,200.0,200.0,250.0,170.0,24000.0,,1351000.0,25000.0,,1650.0,700.0,,294870.167,388379.0,240899.167,SHELL PLC,8282.8,2307.5,76824.0,26741.0,399194.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,197815.702700209,30647.503235243646,4724646.960111738,4953110.166047191
+BMO,43537.68064295548,6745.274465810004,1039857.6437169663,1090140.5988257318
+TD,61265.63733613907,9491.859305599011,1463273.6595141487,1534031.1561558868
+Scotiabank,10924.429639061393,1692.5172680235958,260920.0006905794,273536.94759766443
+CIBC,9181.401611073234,1422.4706721381067,219289.37197196702,229893.24425517835
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,500.744778415942,77.58017693768116,11959.830604146506,12538.155559500128
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,6446.020629037709,998.6792523861238,153957.3014380743,161402.00131949814
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1813.7630172876438,281.0055378896349,43320.06918064602,45414.837735823305
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,22616.333912022204,3503.9390567921723,540170.4303942238,566290.7033630381
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

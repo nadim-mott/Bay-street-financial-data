@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,KEL CN Equity 2018,191.239,13.198,,,,,,,,,,,,,,,,,,1093.5899,389.277,853.7739,KELT EXPLORATION LTD,182.576,4.64,247.271,7.455,1423.521
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,276988.3015210468,19115.826810821927,0.0,296104.12833186873
+BMO,167577.12052687487,11565.019879384929,0.0,179142.1404062598
+TD,53437.00864362334,3687.8546744050154,0.0,57124.86331802836
+Scotiabank,25818.278230337095,1781.7999261865466,0.0,27600.078156523643
+CIBC,30985.1145707312,2138.379421062181,0.0,33123.49399179338
+National Bank of Canada,33733.36026018528,2328.0444298177954,0.0,36061.40469000308
+Sun Life Financial,386.6111554827338,26.681241954105182,0.0,413.292397436839
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,129.46769864949025,8.934969785326068,0.0,138.40266843481632
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,52091.037361296716,3594.964997173139,0.0,55686.00235846986
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,147.163110748642,10.156185378822192,0.0,157.31929612746418
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

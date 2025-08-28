@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,TPE PW Equity 2019,12215.9,,,,,,,,,,,,,,,,,,,16852.426,20510.942,2874.181,TAURON POLSKA ENERGIA SA,1752.5494,1.64,14829.621,1751.81,41917.765
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,14644972.671588881,0.0,0.0,14644972.671588881
+BMO,4787685.205072332,0.0,0.0,4787685.205072332
+TD,4307733.423469155,0.0,0.0,4307733.423469155
+Scotiabank,2486769.400674488,0.0,0.0,2486769.400674488
+CIBC,2516869.4548464413,0.0,0.0,2516869.4548464413
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,5406.279145259119,0.0,0.0,5406.279145259119
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,380479.645505972,0.0,0.0,380479.645505972
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,969050.0354709742,0.0,0.0,969050.0354709742
+Healthcare of Ontario Pension Plan Trust Fund,112771.0727682077,0.0,0.0,112771.0727682077
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

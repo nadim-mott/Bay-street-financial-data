@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,EBK GR Equity 2018,16620.0,1015.29,50771.699,0.0,0.0,1301.5,6269.48,0.0,3.994,0.0,0.0,0.0,0.0,43196.699,0.0,0.0,0.0,0.0,,14176.4668,,7908.9668,ENBW ENERGIE BADEN-WUERTTEMB,277.4213,28.509,6996.2,3024.1,39609.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,395372.31588834076,24152.681022760138,1207804.6892620665,1627329.6861731673
+BMO,257238.08070606645,15714.275027681237,785824.7723679913,1058777.1281017389
+TD,269537.6468137406,16465.636428009788,823398.1507350618,1109401.4339768123
+Scotiabank,109500.39137855527,6689.208926758928,334507.70544187893,450697.3057471931
+CIBC,95389.4078806855,5827.1908500109,291400.7114670149,392617.31019771134
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2775.9656292905415,169.579431032635,8480.169626328436,11425.714686651612
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,58738.67620736504,3588.25454672537,179438.07827035006,241765.00902444046
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

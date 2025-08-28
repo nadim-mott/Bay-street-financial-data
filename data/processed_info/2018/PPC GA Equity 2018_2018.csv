@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,PPC GA Equity 2018,26555.0,,0.422,,,,,,0.422,,,,,,,,,,,4001.073,4741.6,300.208,PUBLIC POWER CORP,232.0,1.294,3951.746,251.015,14088.98
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,61310694.35191601,0.0,974.3217102808719,61311668.67362629
+BMO,55390555.51484305,0.0,880.2415525235836,55391435.75639557
+TD,15880740.586526675,0.0,252.36951713478655,15880992.95604381
+Scotiabank,7165147.714251453,0.0,113.86527341043544,7165261.5795248635
+CIBC,12016569.162047649,0.0,190.96185977722112,12016760.123907426
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,53250.11325481,0.0,0.8462266162127591,53250.95948142621
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,51127.185151628204,0.0,0.8124900069285295,51127.997641635135
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,20687492.088818416,0.0,328.7562290145499,20687820.84504743
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

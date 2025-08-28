@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,600098 CH Equity 2018,1.045,710.218,,,,,,,,,,,,,,,,,,32474.2237,25981.687,15430.2725,GUANGZHOU DEVELOPMENT GRP-A,2726.1966,5.66,14900.9912,1087.3487,38462.3663
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,44.295772158268754,30104.932737513223,0.0,30149.22850967149
+BMO,40.28752635444384,27380.79080612478,0.0,27421.078332479225
+TD,11.252683645087927,7647.711457461299,0.0,7658.964141106387
+Scotiabank,3.5288952285191333,2398.358766897992,0.0,2401.8876621265113
+CIBC,9.179042042193357,6238.393187677016,0.0,6247.572229719209
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.024516093283511356,16.66198156902284,0.0,16.68649766230635
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.03914448043610377,26.60393742236244,0.0,26.643081902798542
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,14.197323799693102,9648.990348679843,0.0,9663.187672479537
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

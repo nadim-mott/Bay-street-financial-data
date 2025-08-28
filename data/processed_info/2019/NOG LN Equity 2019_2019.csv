@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,NOG LN Equity 2019,222.062,0.297,,,,,,,,,,,,,,,,,,1097.2405,322.128,41.6175,NOSTRUM OIL & GAS PLC,18.5234,169.4,1149.563,93.94,846.294
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,915252.4039646784,1224.1174265633447,0.0,916476.5213912417
+BMO,418565.5935604013,559.8165435213551,0.0,419125.41010392265
+TD,682857.6578122184,913.2977473418634,0.0,683770.9555595603
+Scotiabank,41613.78117378507,55.65694719769328,0.0,41669.43812098276
+CIBC,70378.99393284076,94.12939268336638,0.0,70473.12332552412
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,117.38725295849103,0.15700126148855648,0.0,117.54425421997959
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,160836.54390580888,215.11313750225267,0.0,161051.65704331113
+Healthcare of Ontario Pension Plan Trust Fund,29965.764209767523,40.078140205442416,0.0,30005.842349972965
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

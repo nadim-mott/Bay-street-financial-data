@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ERF CN Equity 2019,954.52,111.734,0.073,,,,,,0.073,,,,,,,,,,,1973.7673,895.9388,1582.2932,ENERPLUS CORP,231.334,9.25,508.3249,116.8508,1977.0396
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,595122.8239620824,69663.76148491316,45.51394014712318,664832.0993871427
+BMO,671847.909249689,78645.03026872643,51.381738858512435,750544.3212572739
+TD,181193.68536754124,21210.132046323655,13.857372325179682,202417.67478619007
+Scotiabank,104711.71024434661,12257.321200647264,8.008166248834288,116977.03961124271
+CIBC,446540.8188900794,52271.08060372137,34.150651404869244,498846.05014520563
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,462.6935387196254,54.16188226050645,0.035385982825433364,516.8908069629573
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,21567.430764412056,2524.635742604468,1.6494389282593136,24093.715945944783
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,233531.74458437916,27336.70949732957,17.860094450257385,260886.31417615898
+Healthcare of Ontario Pension Plan Trust Fund,38104.35120368336,4460.411072992034,2.91415333138005,42567.67643000678
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

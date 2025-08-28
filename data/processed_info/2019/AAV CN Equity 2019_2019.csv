@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,AAV CN Equity 2019,242.04,0.277,,,,,,,,,,,,,,,,,,800.3508,251.279,514.0048,ADVANTAGE ENERGY LTD,186.6587,2.75,299.445,13.099,1818.454
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1199337.967816643,1372.5690674483974,0.0,1200710.5368840913
+BMO,1198341.5634250885,1371.428743466987,0.0,1199712.9921685555
+TD,467645.1665821019,535.1913367345986,0.0,468180.35791883647
+Scotiabank,176957.39228359167,202.51692969160018,0.0,177159.90921328327
+CIBC,396078.7507820938,453.28794400363574,0.0,396532.03872609744
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,834.4180443451112,0.9549404986101296,0.0,835.3729848437213
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6896.662910540912,7.8928095613114895,0.0,6904.555720102224
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,117165.10164885617,134.08830423373476,0.0,117299.18995308991
+Healthcare of Ontario Pension Plan Trust Fund,23079.28735295857,26.41283505523684,0.0,23105.70018801381
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

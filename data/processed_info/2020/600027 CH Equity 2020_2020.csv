@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,600027 CH Equity 2020,152623.0,89.0,,,,,,,,,,,,,,,,,,183111.4924,90744.016,30514.4414,HUADIAN POWER INTL CORP-A,9862.977,3.4,112715.625,6954.029,242750.409
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2249743.7156755556,1311.907056571581,0.0,2251055.622732127
+BMO,3500484.9629002223,2041.259585371273,0.0,3502526.2224855935
+TD,439046.1147356936,256.0236937517722,0.0,439302.1384294454
+Scotiabank,1712755.0056020361,998.7694875515566,0.0,1713753.7750895878
+CIBC,1600457.6329881628,933.2848216582461,0.0,1601390.917809821
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,380.12650626466984,0.2216655357158201,0.0,380.34817180038567
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,51092.003440705295,29.793597991277665,0.0,51121.797038696575
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1584782.4162693014,924.1440349617542,0.0,1585706.5603042631
+Healthcare of Ontario Pension Plan Trust Fund,1057702.0036814439,616.7843531292694,0.0,1058318.7880345732
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,76790.55593001941,44.7793548663814,0.0,76835.33528488579

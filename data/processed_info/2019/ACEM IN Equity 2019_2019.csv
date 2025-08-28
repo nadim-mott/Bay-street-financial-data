@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,ACEM IN Equity 2019,14523.7,551.219,1973.62,114.68,0.0,1316.28,128.34,1.04,1.614,3.89,0.0,407.78,0.0,0.0,0.0,0.0,0.0,0.0,,354428.5762,271035.5,389682.8762,AMBUJA CEMENTS LTD,1985.6452,196.25,352.8,92974.7,401823.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,34413.885713616066,1306.1126069234244,4676.4991550121385,40396.49747555163
+BMO,35449.6719165819,1345.423872992857,4817.252028525239,41612.347818099995
+TD,12461.897095543969,472.96725043264814,1693.445829457774,14628.310175434392
+Scotiabank,6221.835895236087,236.13777207847454,845.4845973752849,7303.458264689846
+CIBC,9653.038421861249,366.36244110384655,1311.750332374497,11331.151195339593
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,5.031525940066443,0.19096185525434184,0.6837335081238041,5.906221303444589
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,443.6687762263032,16.83859203664952,60.29010133856121,520.7974696015139
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,9322.336720630068,353.8112963507223,1266.8113144664785,10942.95933144727
+Healthcare of Ontario Pension Plan Trust Fund,1811.3120678614,68.74485335930191,246.13899823191664,2126.1959194526185
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,DMC PM Equity 2020,3608.0,18.0,,,,,,,,,,,,,,,,,,127746.257,67700.099,75150.4802,DMCI HOLDINGS INC,13277.47,5.66,51957.773,18918.45,204393.539
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,78344.66281959965,390.8547479913508,0.0,78735.517567591
+BMO,48129.6442866908,240.11463335932217,0.0,48369.75892005012
+TD,10904.684225823485,54.40252662550518,0.0,10959.08675244899
+Scotiabank,40687.75374239059,202.98768496758058,0.0,40890.74142735817
+CIBC,46988.34251760377,234.42077752684807,0.0,47222.76329513062
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,32.11891652024334,0.16023849705221177,0.0,32.27915501729555
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,84.49819592769549,0.4215541925439354,0.0,84.91975012023943
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1340.44865358026,6.687382418083337,0.0,1347.1360359983435
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24832.579472991845,123.88759160583515,0.0,24956.46706459768
+Healthcare of Ontario Pension Plan Trust Fund,10152.746302744185,50.65117335071932,0.0,10203.397476094904
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,737.1027284533573,3.677341771663091,0.0,740.7800702250204

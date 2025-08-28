@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,ENQ LN Equity 2018,1617.37,87.526,,,,,,,,,,,,,,,,,,2979.411,1298.437,474.052,ENQUEST PLC,1231.7255,21.852,2745.963,240.604,5661.916
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,253380.6426721119,13712.010319543004,0.0,267092.6529916549
+BMO,40730.05294777788,2204.1577464075667,0.0,42934.21069418544
+TD,283943.53547712066,15365.959481238344,0.0,299309.494958359
+Scotiabank,9160.679524609113,495.74162750078045,0.0,9656.421152109893
+CIBC,16209.455650434971,877.1949617341558,0.0,17086.650612169127
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,119.41295469695308,6.462181364069765,0.0,125.87513606102284
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1415.8964628353006,76.62300760254148,0.0,1492.519470437842
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

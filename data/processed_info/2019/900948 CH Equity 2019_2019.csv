@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,900948 CH Equity 2019,15199.6,932.6,,,,,,,,,,,,,,,,,,52850.1162,40929.039,17217.0136,INNER MONGOLIA YITAI COAL-B,3254.007,0.81,41686.1127,15954.046,94418.4704
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,749566.485676703,45991.05927406598,0.0,795557.544950769
+BMO,782562.931099735,48015.61814413622,0.0,830578.5492438712
+TD,226388.84511306888,13890.512707732309,0.0,240279.35782080117
+Scotiabank,79153.15443556366,4856.5904251826805,0.0,84009.74486074634
+CIBC,227181.62143985296,13939.154987947504,0.0,241120.77642780045
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,94.46221265690352,5.7959064398950115,0.0,100.25811909679852
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,10509.141864184856,644.8081332757965,0.0,11153.949997460652
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,180268.33190164872,11060.702013966002,0.0,191329.0339156147
+Healthcare of Ontario Pension Plan Trust Fund,41075.17166624065,2520.2442890560296,0.0,43595.415955296674
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

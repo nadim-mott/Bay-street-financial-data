@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,DALBHARA IN Equity 2019,11210.0,510.0,1410.0,,,,,,,,,,,,,,,,,212752.4882,94840.0,190932.4882,DALMIA BHARAT LTD,192.7478,989.5,49710.0,28000.0,205380.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,54791.720406647895,2492.7544520419647,0.0,57284.47485868986
+BMO,12738.710540723996,579.5488292390042,0.0,13318.259369963
+TD,21127.51867442536,961.1984410309486,0.0,22088.717115456308
+Scotiabank,7872.085123751087,358.14125005468816,0.0,8230.226373805775
+CIBC,3388.026134779089,154.13856634588183,0.0,3542.1647011249706
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,50.6683283248597,2.305160343057845,0.0,52.97348866791754
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,728.3792366143794,33.13768159440977,0.0,761.5169182087891
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,10133.959224232223,461.0454241176123,0.0,10595.004648349835
+Healthcare of Ontario Pension Plan Trust Fund,555.5902560117582,25.276630737377047,0.0,580.8668867491353
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

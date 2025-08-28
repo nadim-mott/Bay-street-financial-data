@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,BKH US Equity 2018,4063.14,,1333.37,,,1333.37,,,,,,,,,,,,,,6990.9588,1754.3,3767.0708,BLACK HILLS CORP,54.42,62.78,3142.198,20.776,6963.327
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,205337.33464738703,0.0,67384.00397199861,272721.3386193856
+BMO,124976.68793482722,0.0,41012.65681016666,165989.3447449939
+TD,140843.88441544556,0.0,46219.67497133316,187063.5593867787
+Scotiabank,55112.91812726217,0.0,18085.99055000506,73198.90867726723
+CIBC,48742.74190439957,0.0,15995.537877865208,64738.27978226478
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1347.1639184482542,0.0,442.0886196245634,1789.2525380728175
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,102562.4258137118,0.0,33657.13751119304,136219.56332490483
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

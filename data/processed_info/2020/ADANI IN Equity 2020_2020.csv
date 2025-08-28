@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,ADANI IN Equity 2020,58469.801,14.607,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,611961.1556,264677.2,107030.0556,ADANI POWER LTD,3856.9389,27.75,524752.0,19821.0,750250.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,361873.9610279806,90.40381288001498,0.0,361964.3648408606
+BMO,77263.35232355051,19.302028877951923,0.0,77282.65435242846
+TD,166296.5935393665,41.544426358309764,0.0,166338.1379657248
+Scotiabank,17955.567793501174,4.485682767411363,0.0,17960.053476268586
+CIBC,35955.38534333901,8.982420065191482,0.0,35964.3677634042
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,132.2029757218962,0.03302711542270748,0.0,132.2360028373189
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,95611.15869791251,23.88570118616289,0.0,95635.04439909868
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,4204.273145271542,1.050316860715524,0.0,4205.323462132257
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,48374.81695516376,12.085058255356078,0.0,48386.902013419116
+Healthcare of Ontario Pension Plan Trust Fund,1454.779026228965,0.36343474533334724,0.0,1455.1424609742983
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

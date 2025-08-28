@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,ORI AU Equity 2018,2244.0,260.1,4416.0,,,,,,,,,,,,,,,,,8171.1279,5373.8,6458.0279,ORICA LTD,378.2151,17.03,2162.9,514.6,7164.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,39991.88235157671,4635.422727114573,0.0,44627.30507869128
+BMO,24910.09925801033,2887.306959451197,0.0,27797.40621746153
+TD,23289.130726734704,2699.4219705987957,0.0,25988.5526973335
+Scotiabank,9836.6555523862,1140.157802662946,0.0,10976.813355049148
+CIBC,5304.198205771147,614.8047920325647,0.0,5919.002997803711
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,637.963177582432,73.94573194705461,0.0,711.9089095294866
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,15290.267792122731,1772.2810395414986,0.0,17062.54883166423
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,13836.781968687375,1603.808819097855,0.0,15440.59078778523
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

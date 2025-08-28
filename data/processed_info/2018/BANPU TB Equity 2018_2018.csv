@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2018,BANPU TB Equity 2018,8423.05,259.797,,,,,,,,,,,,,,,,,,6368.9649,3481.442,2347.4109,BANPU PUBLIC CO LTD,6126.2389,12.47,4021.917,615.231,8453.593
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,10409415.495365553,321063.61916995444,0.0,10730479.114535507
+BMO,4799648.620294811,148038.33677904456,0.0,4947686.957073856
+TD,4594297.810834908,141704.5830621303,0.0,4736002.393897038
+Scotiabank,1129779.3044455913,34846.436143327104,0.0,1164625.7405889183
+CIBC,1556161.4880675555,47997.58829823956,0.0,1604159.076365795
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,8514.869573963382,262.62904419503207,0.0,8777.498618158414
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,205386.69175899285,6334.860455406423,0.0,211721.55221439927
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,858846.4169396163,26489.89648424995,0.0,885336.3134238663
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

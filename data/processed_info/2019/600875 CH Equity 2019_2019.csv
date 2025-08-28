@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2019,600875 CH Equity 2019,265.0,,,,,,,,,,,,,,,,,,,6085.3412,32840.321,26708.462,DONGFANG ELECTRIC CORP LTD-A,3090.8034,9.19,9602.1259,32569.0339,89618.9656
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,8424.280477101227,0.0,0.0,8424.280477101227
+BMO,8795.123245958528,0.0,0.0,8795.123245958528
+TD,2544.354856524498,0.0,0.0,2544.354856524498
+Scotiabank,889.5920326673996,0.0,0.0,889.5920326673996
+CIBC,2553.264766799376,0.0,0.0,2553.264766799376
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1.0616485516837322,0.0,0.0,1.0616485516837322
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,118.1108818620855,0.0,0.0,118.1108818620855
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2026.0123926267263,0.0,0.0,2026.0123926267263
+Healthcare of Ontario Pension Plan Trust Fund,461.6385248989627,0.0,0.0,461.6385248989627
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

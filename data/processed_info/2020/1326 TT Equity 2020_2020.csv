@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,1326 TT Equity 2020,6614.61,2776.46,18725.801,12342.5,226.04,1074.89,9.26,2.89,0.064,0.22,,213.06,4846.64,,10.26,,,,,509502.5282,253294.668,495411.6882,FORMOSA CHEMICALS & FIBRE,5849.017,84.7,94614.155,131621.986,531820.428
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,49597.57630177365,20818.413587319963,140409.71193367173,210825.70182276535
+BMO,14246.724675701746,5980.014119214718,40332.18267647646,60558.921471392925
+TD,15187.328331972121,6374.829297658867,42995.01215864935,64557.169788280335
+Scotiabank,5497.727431716254,2307.6523491276,15563.952566559572,23369.332347403426
+CIBC,7317.797108808706,3071.620391938908,20716.53215038539,31105.949651133003
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,5.327345827445497,2.2361352515219077,15.081605771448167,22.645086850415574
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1358.2996133275321,570.1416326010695,3845.318091080113,5773.759337008714
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1742.9366524178827,731.5917186307514,4934.217587480811,7408.745958529445
+Healthcare of Ontario Pension Plan Trust Fund,1127.915271842389,473.43859058349926,3193.104788858714,4794.458651284603
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,98.81625681434619,41.4777869586808,279.7467777305461,420.0408215035731
