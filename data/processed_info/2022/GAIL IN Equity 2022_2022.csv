@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,GAIL IN Equity 2022,4133.25,434.135,24006.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24006.5,0.0,0.0,0.0,0.0,,757174.6603,928738.2,691145.9603,GAIL INDIA LTD,6660.5778,103.77,92157.2,28040.3,965594.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1043.9365361215728,109.64964328534178,6063.330902897848,7216.9170823047625
+BMO,326.128876456373,34.25487444030424,1894.2025942417997,2254.586345138477
+TD,1073.0126830634968,112.7036499514356,6232.209272597553,7417.925605612485
+Scotiabank,208.08402567754976,21.856059635280484,1208.5814219870801,1438.5215072999104
+CIBC,187.11714555036227,19.65380801633255,1086.802819731391,1293.5737732980858
+National Bank of Canada,30.840331094097547,3.2393073585038503,179.12500052270073,213.20463897530212
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,355.7253082160567,37.363529107210496,2066.1028516757433,2459.1916889990107
+Healthcare of Ontario Pension Plan Trust Fund,43.237462441404936,4.541437308897196,251.1292910178643,298.90819076816643
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

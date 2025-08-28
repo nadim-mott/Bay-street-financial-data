@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,VEDL IN Equity 2020,57400.0,1864.71,,,,,,,,,,,,,,,,,,545764.0,844470.0,240684.0,VEDANTA LTD,3702.6,64.7,504600.0,370640.0,1836220.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,709043.0132455834,23034.139324550033,0.0,732077.1525701334
+BMO,334327.9794253045,10861.057953208358,0.0,345189.03737851285
+TD,259443.54506323647,8428.344475868775,0.0,267871.88953910524
+Scotiabank,46198.98206777351,1500.8310775539712,0.0,47699.813145327484
+CIBC,173509.0550265078,5636.656271750511,0.0,179145.7112982583
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,472.68119193631486,15.35563319539313,0.0,488.036825131708
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,419.73708264778713,13.63567831679713,0.0,433.37276096458424
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2262.764454637616,73.5087021987336,0.0,2336.2731568363497
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,19185.32349470675,623.2589647006033,0.0,19808.582459407353
+Healthcare of Ontario Pension Plan Trust Fund,2676.7778497947515,86.9584394475744,0.0,2763.736289242326
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

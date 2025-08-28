@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,MYTIL GA Equity 2020,2885.47,0.0,6991.36,1117.0,703.208,1550.85,10.991,56.7556,0.57,5.1698,1.141,13.9356,1208.15,2271.1899,52.3992,0.0,0.0,0.0,,2226.0854,1899.0,1627.3544,METLEN ENERGY & METALS SA,141.231,11.9,1028.349,492.715,3991.837
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6578352.023535868,0.0,15939042.118304102,22517394.14183997
+BMO,1945161.6392778365,0.0,4713036.514986348,6658198.154264185
+TD,2281184.5149157424,0.0,5527204.37166901,7808388.886584753
+Scotiabank,775384.0757796826,0.0,1878719.685036216,2654103.7608158984
+CIBC,980956.0804579506,0.0,2376811.126355882,3357767.2068138323
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,755.3426715164195,0.0,1830.16029120639,2585.5029627228096
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,180381.50389368163,0.0,437056.02522302454,617437.5291167062
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,264518.87583921483,0.0,640916.9785993757,905435.8544385906
+Healthcare of Ontario Pension Plan Trust Fund,95995.89726736842,0.0,232593.61071810784,328589.5079854763
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,13122.749088950752,0.0,31795.812946522277,44918.56203547303

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,FEC CN Equity 2023,690.193,54.278,9035.14,672.947,,,,,,,,,,8362.1904,,,,,,903.7652,858.397,513.8602,FRONTERA ENERGY CORP,85.3051,7.97,539.183,159.673,3016.28
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1725716.8802429147,135713.43207744052,22590911.71091865,24452342.023239005
+BMO,1518616.0799279648,119426.65832068723,19879808.894031882,21517851.632280536
+TD,297231.75630648184,23374.83177720322,3890983.7652256396,4211590.353309325
+Scotiabank,282313.3531084914,22201.622126017934,3695690.8215382323,4000205.7967727417
+CIBC,120513.08260884965,9477.362270905589,1577605.481174841,1707595.9260545962
+National Bank of Canada,193035.29943358141,15180.637854420329,2526974.996026546,2735190.933314548
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1555.3714687379954,122.31716719839365,20360.96414783632,22038.652783772708
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,221296.58706200638,17403.155570328272,2896936.176194615,3135635.91882695
+Healthcare of Ontario Pension Plan Trust Fund,217620.37660437607,17114.05186858216,2848811.859378874,3083546.287851832
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,39103.220698937184,3075.1465359644512,511890.1116027278,554068.4788376294

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,GND SJ Equity 2023,23.658,13.991,9.935,,,,,,,,,,,,,,,,,7699.6476,4845.572,7652.5296,GRINDROD LTD,667.223,1146.0,2622.863,2522.245,14572.072
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1530.1233435281322,904.8928776440144,0.0,2435.0162211721467
+BMO,474.3082177689323,280.49903942874,0.0,754.8072571976722
+TD,152.22986893118323,90.0265489989088,0.0,242.25641793009203
+Scotiabank,48.47513951465147,28.66749839164294,0.0,77.14263790629441
+CIBC,37.639338239214396,22.259361793255916,0.0,59.898700032470316
+National Bank of Canada,75.63729358198106,44.730804569511236,0.0,120.36809815149229
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,4.411608679043855,2.6089617477598517,0.0,7.020570426803706
+Intact Financial,1.6045023857209257,0.9488795704886918,0.0,2.5533819562096176
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1707.2740096294435,1009.6572266770454,0.0,2716.931236306489
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4.015893254434456,2.3749413527260317,0.0,6.390834607160487

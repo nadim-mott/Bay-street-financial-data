@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,SCI SP Equity 2021,25936.301,229.9,8878.4,,,4344.1,,,,,,,,4534.3,,,,,,10016.0644,7795.0,3560.0644,SEMBCORP INDUSTRIES LTD,1784.0,2.0,7649.0,1344.0,14395.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,5894653.60188737,52250.35224081902,2017831.7848407463,7964735.738968936
+BMO,8877143.12538644,78687.21158527357,3038784.4251356805,11994614.762107393
+TD,1376770.1197703052,12203.723674212184,471289.86632938444,1860263.7097739018
+Scotiabank,765056.04137751,6781.4752733124715,261890.6049002934,1033728.1215511158
+CIBC,3635329.3801628985,32223.64763963259,1244429.896492884,4911982.924295415
+National Bank of Canada,1432626.8676895283,12698.83924009914,490410.501562837,1935736.2084924644
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,21703.04578731778,192.37632330471325,7429.290773503986,29324.71288412648
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,85216.69237135148,755.362824335425,29171.00173805845,115143.05693374536
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2542753.3232047707,22539.027018724715,870424.0864856266,3435716.4367091223
+Healthcare of Ontario Pension Plan Trust Fund,1202249.6559115613,10656.770057305705,411548.7919825271,1624455.2179513942
+OTPP,3416.8272823941047,30.286839754921285,1169.6332234888785,4616.747345637905
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,109549.7480711304,971.0516191785744,37500.585888277754,148021.38557858672

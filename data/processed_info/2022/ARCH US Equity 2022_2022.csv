@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,ARCH US Equity 2022,4950.0,336.0,148460.0,,,,,,,,,7340.0,2680.0,138440.0,,,,,,2424.5727,3724.593,2506.5357,ARCH RESOURCES INC,17.136,142.79,191.089,273.052,2433.108
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1418343.8919302048,96275.46417950481,42538855.39312287,44053474.749232575
+BMO,1111175.7354982018,75425.26204593855,33326292.867083445,34512893.864627585
+TD,401413.3132035582,27247.44913866577,12039155.652161667,12467816.414503891
+Scotiabank,663673.6711948687,45049.364347772906,19904847.11628085,20613570.15182349
+CIBC,821723.8437896576,55777.61848754039,24645075.12101264,25522576.583289836
+National Bank of Canada,514192.3173087062,34902.75123550006,15421614.429828387,15970709.498372594
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,3868.7061189673063,262.60308201475044,116029.92129735075,120161.2304983328
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2829.9417399081926,192.0930150725561,84875.38398116571,87897.41873614646
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,183462.3779745088,12453.203838269688,5502388.814968804,5698304.396781582
+Healthcare of Ontario Pension Plan Trust Fund,423717.12479499093,28761.404834569083,12708089.767083708,13160568.296713268
+OTPP,2429.049783731387,164.8809550169184,72851.86482682054,75445.79556556884
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,30609.976949460568,2077.7681323270203,918051.9551347304,950739.700216518

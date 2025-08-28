@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,MAU FP Equity 2023,154.924,0.318,5017.58,0.0,0.0,4.43,0.0,0.0,5.708,0.0,,60.157,,4343.0,,,,604.281,,1388.8976,682.0,1338.2276,MAUREL ET PROM,198.61,6.09,226.791,211.381,1862.154
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,304410.119991547,624.8381022779682,9859033.540488927,10164068.498582752
+BMO,147128.1100374854,301.9980054214993,4765087.8743735375,4912517.982416444
+TD,96310.33517766335,197.68845747913133,3119235.407938082,3215743.4315732243
+Scotiabank,27730.61567703431,56.92039829398228,898120.8314161209,925908.3674914491
+CIBC,40157.85279574267,82.42878565649073,1300605.96421117,1340846.2457925694
+National Bank of Canada,38297.11292458772,78.60939499379627,1240341.5525012338,1278717.2748208153
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,40.287281475886466,0.08269445346964896,1304.797814661721,1345.1677905910772
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,301.92307496871234,0.6197331455426566,9778.484771947613,10081.027580061867
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,204984.11927836487,420.75436943611084,6638890.018797998,6844294.892445799
+Healthcare of Ontario Pension Plan Trust Fund,96872.96790172314,198.84332829482818,3137457.584315254,3234529.3955452717
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3716.8490203011806,7.6292762157946825,120378.84665956673,124103.3249560837

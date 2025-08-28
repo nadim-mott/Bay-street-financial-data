@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,1662 JP Equity 2023,217.436,0.029,7241.98,48.0,22.0,580.0,115.0,1.0,0.28,0.7,0.0,0.0,4.0,6471.0,0.0,0.0,0.0,0.0,,80902.6349,336492.0,242120.6349,JAPAN PETROLEUM EXPLORATION,272.4868,893.0,2202.0,194956.0,568180.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,103.45605051938513,0.013798200229318828,3445.734141266288,3549.203989985903
+BMO,78.0547572238338,0.010410364242771116,2599.712056512536,2677.777224100613
+TD,32.239032279193815,0.004299802866575087,1073.761598747567,1106.0049308296273
+Scotiabank,7.795058363280378,0.0010396470342313646,259.6242423780296,267.4203403883442
+CIBC,5.084748900102937,0.0006781660723292611,169.35397008576072,174.439397151936
+National Bank of Canada,3.1656198998344856,0.0004222068889015622,105.4349601823219,108.60100228904528
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,1.2815147793088826,0.00017091893062766788,42.682464731964075,43.96415043020359
+Intact Financial,0.4660870150394605,6.216322704678321e-05,15.523615414078035,15.989764592344542
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,9.763580014468236,0.0013021938428759673,325.1883367665826,334.95321897489373
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.34215636364168484,4.5634276502551836e-05,11.395948887791388,11.738150885709574

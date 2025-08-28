@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,EXX SJ Equity 2021,345.227,649.854,71949.297,0.27,168.05,107.56,6.16,0.02,1.836,1.36,,468.32,,70931.0,,,,264.66,,50882.4322,32771.0,36923.4322,EXXARO RESOURCES LTD,247.0,15287.0,10760.0,7349.0,75717.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1684.0593588967606,3170.0669722139214,350977.1375103098,355831.26384142047
+BMO,208.4633180985813,392.41056209287075,43446.12811633475,44047.0019965262
+TD,173.9999259873788,327.5368030385864,36263.5649553727,36765.101684398665
+Scotiabank,188.60432600845812,355.02807044032056,39307.288139697914,39850.920536146696
+CIBC,78.19244390287206,147.18916087112834,16296.19525640956,16521.576861183563
+National Bank of Canada,48.226309416598596,90.78102257243573,10050.91177000604,10189.919101995074
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,14.323905782518233,26.96326610720658,2985.2649925648034,3026.5521644545283
+Intact Financial,8.199781573935047,15.435237843355203,1708.9278057959089,1732.5628252131992
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,7.853838679709736,14.784036246771231,1636.8293692914065,1659.4672442178874
+Healthcare of Ontario Pension Plan Trust Fund,87.01866260959346,163.80360160559505,18135.67969047038,18386.50195468557
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

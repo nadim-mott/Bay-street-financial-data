@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,OKEA NO Equity 2021,199.828,0.053,25.218,,,,,,,,,,,,,,,,,337.9259,439.9784,298.4035,OKEA ASA,102.9215,25.3,294.8657,255.3433,1404.9844
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,417122.6641778666,110.63265008620878,0.0,417233.2968279528
+BMO,202155.39298969347,53.61729001167882,0.0,202209.01027970514
+TD,244004.2694405394,64.71678783928472,0.0,244068.9862283787
+Scotiabank,101686.07990187783,26.97000537862324,0.0,101713.04990725646
+CIBC,49391.22352117183,13.099940181666769,0.0,49404.323461353495
+National Bank of Canada,15575.552739830464,4.1310741998669585,0.0,15579.683814030332
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,90403.69834804218,23.977600798918242,0.0,90427.67594884109
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,20058.906520868557,5.3201855876355335,0.0,20064.226706456193
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,189062.92849782258,50.14480058042214,0.0,189113.073298403
+Healthcare of Ontario Pension Plan Trust Fund,60153.28156673766,15.95434034788466,0.0,60169.235907085545
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

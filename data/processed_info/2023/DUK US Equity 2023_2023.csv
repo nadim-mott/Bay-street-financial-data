@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,DUK US Equity 2023,73000.0,414.0,34154.102,4300.0,,22600.0,,28.0,8.1,165.0,,,253.0,6800.0,,,,,,158770.84,29060.0,74817.84,DUKE ENERGY CORP,771.0,97.04,81169.0,253.0,176893.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1412692.2536122398,8011.706753362567,660948.3903986,2081652.3507642024
+BMO,355052.51154002844,2013.5854764050928,166116.42444368883,523182.52146012237
+TD,136415.00476356974,773.6412598920257,63823.72211226627,201012.36813572803
+Scotiabank,122344.39005456453,693.8435271587632,57240.58263510414,180278.81621682743
+CIBC,63608.037869043,360.73599558607947,29759.9354271655,93728.70929179458
+National Bank of Canada,117570.27468315045,666.7684071071819,55006.944089805314,173243.98718006295
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,3775.9710785555953,21.414411322219404,1766.642381015009,5564.027870892824
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,4118.442874052499,23.356648628188143,1926.872736502417,6068.672259183104
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,682236.014832826,3869.119316997123,319193.9325233126,1005299.0666731356
+Healthcare of Ontario Pension Plan Trust Fund,382.47562346092855,2.1691083303126635,178.9467217979027,563.591453589144
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3809.144984672105,21.60254826923632,1782.1632701505414,5612.910803091882

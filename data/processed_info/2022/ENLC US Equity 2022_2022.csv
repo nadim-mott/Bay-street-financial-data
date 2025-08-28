@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,ENLC US Equity 2022,4984.89,535.518,,,,,,,,,,,,,,,,,,12168.0617,9542.1,5768.4617,ENLINK MIDSTREAM LLC,485.3,12.3,4815.9,22.6,8651.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,609800.4242521147,65509.791308262356,0.0,675310.2155603771
+BMO,440987.4605460239,47374.51034961366,0.0,488361.9708956376
+TD,215930.57607751375,23197.04351347332,0.0,239127.61959098707
+Scotiabank,136166.99616641295,14628.181856178398,0.0,150795.17802259134
+CIBC,346927.66085107235,37269.83084554415,0.0,384197.4916966165
+National Bank of Canada,209068.63392713523,22459.87708924201,0.0,231528.51101637725
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,13083.424754298014,1405.5294013653588,0.0,14488.954155663372
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1238.3452888315096,133.03326500373575,0.0,1371.3785538352454
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,31436.514247810646,3377.169654086462,0.0,34813.68390189711
+Healthcare of Ontario Pension Plan Trust Fund,178628.49938485338,19189.746761428614,0.0,197818.246146282
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,13394.523361401534,1438.9501797333594,0.0,14833.473541134894

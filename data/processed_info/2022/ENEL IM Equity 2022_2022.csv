@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,ENEL IM Equity 2022,47622.199,3755.81,70062.602,14411.0996,0.0,35008.1016,9.824,,0.0,0.0,,,,20633.5996,,,,,,143890.4165,140517.0,51102.4165,ENEL SPA,10160.538,5.03,90271.0,16475.0,219874.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1162294.8079131446,91666.46131793005,1709988.760363769,2963950.0295948437
+BMO,98637.59134274992,7779.230269081308,145117.37589905952,251534.19751089075
+TD,179189.85366797674,14132.128680255268,263627.29460490384,456949.27695313585
+Scotiabank,49204.172315412914,3880.5751583195674,72390.05203286228,125474.79950659476
+CIBC,27326.953579113033,2155.189127700057,40203.899352493434,69686.04205930652
+National Bank of Canada,19475.719644314668,1535.9875044265275,28653.02457262858,49664.731721369775
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,6137.474978585406,484.0429544070582,9029.562172129374,15651.080105121837
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,85419.56141620035,6736.766669732731,125670.77555750421,217827.1036434373
+Healthcare of Ontario Pension Plan Trust Fund,51378.28848987993,4052.0407235536504,75588.65035469312,131018.9795681267
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,600483 CH Equity 2023,15431.8,5.499,,,,,,,,,,,,,,,,,,40224.9632,14694.9188,21013.6061,FUJIAN FUNENG CO LTD-A,2540.9422,8.27,19009.7673,5829.5107,50689.6265
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,669549.5470337193,238.58869082922422,0.0,669788.1357245485
+BMO,699040.450282353,249.09754118784969,0.0,699289.5478235409
+TD,131727.20950546418,46.93995030200932,0.0,131774.1494557662
+Scotiabank,297724.6140156781,106.09181381771498,0.0,297830.70582949586
+CIBC,41015.40010307892,14.615513755156949,0.0,41030.015616834076
+National Bank of Canada,69043.43470110063,24.60308242857945,0.0,69068.03778352922
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,155954.8699735073,55.57328568179452,0.0,156010.4432591891
+Healthcare of Ontario Pension Plan Trust Fund,118984.3898139882,42.399147188735014,0.0,119026.78896117694
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,20215.787256048356,7.203736059371551,0.0,20222.990992107727

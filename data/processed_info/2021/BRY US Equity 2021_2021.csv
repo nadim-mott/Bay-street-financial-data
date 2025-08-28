@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,BRY US Equity 2021,1310.69,,,,,,,,,,,,,,,,,,,1052.9432,544.95,673.6602,BERRY CORP,80.209,8.42,394.566,15.283,1456.479
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,15933741.093150526,0.0,0.0,15933741.093150526
+BMO,13500840.383816648,0.0,0.0,13500840.383816648
+TD,6143625.5352179045,0.0,0.0,6143625.5352179045
+Scotiabank,5657672.662790529,0.0,0.0,5657672.662790529
+CIBC,4700652.893372653,0.0,0.0,4700652.893372653
+National Bank of Canada,919280.4849388461,0.0,0.0,919280.4849388461
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,327828.05270372215,0.0,0.0,327828.05270372215
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,529717.7569492751,0.0,0.0,529717.7569492751
+Healthcare of Ontario Pension Plan Trust Fund,406653.0963384805,0.0,0.0,406653.0963384805
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,16802.41587672836,0.0,0.0,16802.41587672836

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,SNG RO Equity 2020,536.867,0.518,,,,,,,,,,,,,,,,,,8428.9574,4074.893,10830.3694,SOCIETATEA NATIONALA DE GAZE,3854.224,2.81,8.612,2410.024,9261.167
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3893.119617785151,3.7563045633512737,0.0,3896.8759223485026
+BMO,3603.18166950058,3.476555841207041,0.0,3606.658225341787
+TD,837.3947273672862,0.8079663469281113,0.0,838.2026937142143
+Scotiabank,770.6232422690955,0.7435413975815082,0.0,771.366783666677
+CIBC,1414.1476814262678,1.3644505975945753,0.0,1415.5121320238625
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,11.103795591681296,0.010713577322671931,0.0,11.114509169003968
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2169.5032047568016,2.0932608263574095,0.0,2171.596465583159
+Healthcare of Ontario Pension Plan Trust Fund,2143.528254354833,2.0681987079775874,0.0,2145.5964530628103
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

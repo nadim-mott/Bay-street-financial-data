@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,CGAS5 BZ Equity 2022,6.127,0.178,9697.46,,,,2.639,3.136,0.038,,,,,9691.64,,,,,,22967.0603,17414.153,17227.6763,CIA DE GAS DE SAO PAULO-PR A,132.521,129.5,6980.64,1241.256,12664.111
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,261.489966351411,7.596738046442166,413870.8435881164,414139.93029251427
+BMO,208.41793933636887,6.054903411436863,329871.5800671272,330086.052909875
+TD,74.6125994368724,2.167625705853319,118092.4067646314,118169.18698977413
+Scotiabank,78.80676409040724,2.289473479368776,124730.68236474817,124811.77860231794
+CIBC,153.63239707493227,4.463288180078006,243160.26602113486,243318.36170638987
+National Bank of Canada,133.08444006461855,3.8663343123065297,210638.17570719038,210775.1264815673
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2.4746033799114278,0.07189152956165075,3916.655781023701,3919.202275933174
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1.0544982784474537,0.030635007926170518,1668.997469205989,1670.0826024923626
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,31.85687311758928,0.9254975379355136,50421.1734592436,50453.955829899125
+Healthcare of Ontario Pension Plan Trust Fund,91.59802381473816,2.661081808229703,144975.9312610256,145070.19036664857
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5.512554238089555,0.1601492825820044,8724.944611363519,8730.61731488419

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,NTGY SM Equity 2020,14301.9,1153.61,123218.0,,,30638.3008,,,0.621,8.286,,,,92462.8984,,,,107.846,,36104.8777,15345.0,18383.8777,NATURGY ENERGY GROUP SA,969.6138,18.96,17359.0,4485.0,39545.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2778259.023687913,224098.01441183433,23936077.55473021,26938434.592829958
+BMO,813302.2783816714,65602.02779797648,7007001.955109732,7885906.2612893805
+TD,874942.2904178698,70573.99196253356,7538061.1889656335,8483577.471346037
+Scotiabank,328861.09080784407,26526.36663428195,2833301.1814934234,3188688.6389355497
+CIBC,425653.17261112976,34333.74282129825,3667212.907136572,4127199.822569
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,310.4055734661464,25.037720415209243,2674.2977586170514,3009.741052498407
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,79143.30776906767,6383.802940551546,681858.7959389221,767385.9066485413
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,108450.57284078863,8747.765355292804,934355.4003565199,1051553.7385526013
+Healthcare of Ontario Pension Plan Trust Fund,44357.65661125998,3577.9467233944883,382163.18195696006,430098.78529161453
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5757.67330632318,464.421475671588,49605.207297054636,55827.302079049405

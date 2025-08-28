@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,EQNR NO Equity 2023,11477.0,120.128,278463.0,,791.0,77.0,4206.0,22.0,94.0,24.0,,,10344.0,249557.0,7433.0,,,5915.0,,85145.3299,107174.0,93782.3299,EQUINOR ASA,3021.0,322.15,31796.0,40443.0,143580.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,19818.810686212222,207.4404539612531,480857.84439441614,500884.0955345896
+BMO,7056.01353373926,73.8542122315091,171197.93470816725,178327.80245413803
+TD,2304.1542711768348,24.117229614701646,55905.002249256344,58233.27375004788
+Scotiabank,675.0432844599226,7.065574599250813,16378.372233211066,17060.481092270238
+CIBC,4217.307220045938,44.14190831486263,102323.25698489604,106584.70611325685
+National Bank of Canada,1564.00528923093,16.370203658162687,37946.990054466536,39527.36554735563
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2840.4196215219004,29.73023684710141,68916.24719594432,71786.39705431332
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,13322.436916765064,139.44390537049347,323238.28101012023,336700.1618322558
+Healthcare of Ontario Pension Plan Trust Fund,3176.839851576347,33.25149583429149,77078.71008011712,80288.80142752775
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,116.13779495149863,1.2155965001249132,2817.816397628227,2935.1697890798505

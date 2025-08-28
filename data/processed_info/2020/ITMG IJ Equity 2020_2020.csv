@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,ITMG IJ Equity 2020,899.539,3.0,,,,,,,,,,,,,,,,,,907.3907,1185.336,1081.9477,INDO TAMBANGRAYA MEGAH TBK P,1096.556,13850.0,64.748,231.459,1158.629
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3861649.8615635484,12878.762993811994,0.0,3874528.6245573605
+BMO,1126523.364706076,3757.002302421827,0.0,1130280.3670084977
+TD,1272612.4005319295,4244.215316507443,0.0,1276856.615848437
+Scotiabank,521189.9888534354,1738.1903025441986,0.0,522928.1791559796
+CIBC,665594.5938939563,2219.785669861861,0.0,667814.3795638181
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,345.0339466501015,1.150702570928336,0.0,346.1846492210298
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,2258.9330916827125,7.5336358679814195,0.0,2266.466727550694
+Fairfax,996.8571133336666,3.3245599579351195,0.0,1000.1816732916017
+Intact Financial,111536.5881419222,371.97916313330114,0.0,111908.5673050555
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,129335.35134646528,431.3387791295272,0.0,129766.6901255948
+Healthcare of Ontario Pension Plan Trust Fund,46263.648099626254,154.29119170917411,0.0,46417.93929133543
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,10829.077482211016,36.115424063473675,0.0,10865.19290627449

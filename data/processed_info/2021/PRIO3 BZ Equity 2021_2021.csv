@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,PRIO3 BZ Equity 2021,377.642,0.038,11.465,11.465,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,16597.7923,,17347.3653,PRIO SA,825.228,20.67,3901.293,4650.866,12221.416
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4941.417815073048,0.4972272071771037,150.01868237593405,5091.933724656159
+BMO,3670.5628872645,0.3693481914512978,111.43623723655604,3782.3684726925076
+TD,2387.364700967011,0.24022714273504114,72.47905766992756,2460.083985779673
+Scotiabank,372.1046161401812,0.037442804066621,11.296888121679203,383.438947065927
+CIBC,472.22215721715395,0.047517071655832376,14.336400698266267,486.60607498707606
+National Bank of Canada,561.65091536984,0.05651578686706966,17.051407800814573,578.7588389575217
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,24.925980546452205,0.002508161859023053,0.7567388345710343,25.685227542882263
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,106.12589970651047,0.010678855076626534,3.221922985619032,109.35850154720613
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,4935.648920012078,0.4966467155678102,149.84354194697218,5085.9891086746175
+Healthcare of Ontario Pension Plan Trust Fund,1224.2466095989803,0.12318908162958903,37.167442654822054,1261.5372413354319
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

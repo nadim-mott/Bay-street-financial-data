@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,CNX US Equity 2021,626.653,391.32,31646.1,,,,,,,,,,,,,,,,,5067.4966,1850.792,2798.5556,CNX RESOURCES CORP,215.9714,13.75,2272.506,3.565,8100.751
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,173036.98578866897,108054.75004320085,0.0,281091.7358318698
+BMO,261447.60398149674,163263.68243675414,0.0,424711.2864182509
+TD,44871.20654409207,28020.292801333606,0.0,72891.49934542568
+Scotiabank,14682.892316307742,9168.885206354305,0.0,23851.777522662047
+CIBC,125926.71944939221,78636.25300594771,0.0,204562.9724553399
+National Bank of Canada,41527.11209846965,25932.03815568288,0.0,67459.15025415254
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2372.4340281107866,1481.4911663716812,0.0,3853.9251944824678
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,54398.26645145088,33969.56469973295,0.0,88367.83115118384
+Healthcare of Ontario Pension Plan Trust Fund,23660.970877619868,14775.339978951997,0.0,38436.310856571865
+OTPP,272.51082701376384,170.17222741617138,0.0,442.6830544299352
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3367.087350703341,2102.612804976967,0.0,5469.700155680308

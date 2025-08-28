@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,CSX US Equity 2021,3956.08,173.317,325.168,,,,,,,,,,,,,,,,325.168,97389.1912,12522.0,82787.1912,CSX CORP,2250.0,37.6,16908.0,2316.0,40531.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,49101.067380578075,2151.131851529709,4035.837464866184,55288.03669697397
+BMO,61909.99784903923,2712.2947708847983,5088.661043400636,69710.95366332466
+TD,10093.674419527837,442.2067727066455,829.6444772727112,11365.525669507193
+Scotiabank,5131.753173913696,224.82357910942147,421.80186347474483,5778.378616497862
+CIBC,23290.96281744609,1020.3837643908373,1914.3889399161062,26225.73552175303
+National Bank of Canada,9333.970425125379,408.9239227142665,767.2009906769249,10510.09533851657
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,3712.027065365638,162.62497090250358,305.1081921474828,4179.760228415625
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,506.2941137686526,22.18089040566459,41.61458928685093,570.0895934611681
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,14368.622170140736,629.4934603603268,1181.021651185093,16179.137281686155
+Healthcare of Ontario Pension Plan Trust Fund,5091.421674902771,223.05664456460022,418.4868362583124,5732.965155725684
+OTPP,23255.45771819832,1018.8282758045788,1911.4706161935835,26185.75661019648
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,718.5601310749627,31.4803255337403,59.06168750414134,809.1021441128443

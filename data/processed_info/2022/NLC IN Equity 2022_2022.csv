@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,NLC IN Equity 2022,28522.9,0.213,,,,,,,,,,,,,,,,,,321755.7199,119479.4,86734.1199,NLC INDIA LTD,1386.6366,62.55,220860.7,7690.4,497854.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,205526.45825947903,1.5348066153606061,0.0,205527.99306609438
+BMO,166200.40064302308,1.2411320495799485,0.0,166201.64177507267
+TD,57248.62432713749,0.4275146279543905,0.0,57249.051841765446
+Scotiabank,51521.953195030925,0.3847496583636862,0.0,51522.33794468929
+CIBC,132022.23035297095,0.9859002789051187,0.0,132023.21625324985
+National Bank of Canada,79462.08370646072,0.5933977200591852,0.0,79462.67710418078
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,471.24840543865366,0.0035191341118341133,0.0,471.2519245727655
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,10905.470775405885,0.08143860810651979,0.0,10905.552214013993
+Healthcare of Ontario Pension Plan Trust Fund,64208.17073627792,0.47948632035407324,0.0,64208.65022259828
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5097.243743404838,0.03806460483840109,0.0,5097.281808009677

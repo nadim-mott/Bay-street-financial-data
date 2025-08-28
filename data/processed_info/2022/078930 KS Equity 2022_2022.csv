@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,078930 KS Equity 2022,15687.9,2004.3,,,,,,,,,,,,,,,,,,17518649.68,28777837.0,4068822.681,GS HOLDINGS,92.8955,43800.0,12206557.0,2586194.0,33922242.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,494.4699194671049,63.17391490179809,0.0,557.643834368903
+BMO,344.39313621197346,43.999972138377885,0.0,388.3931083503513
+TD,341.4088737970245,43.61870012884938,0.0,385.02757392587387
+Scotiabank,264.59303388355255,33.80464037970693,0.0,298.3976742632595
+CIBC,119.45532059424735,15.26171757004124,0.0,134.7170381642886
+National Bank of Canada,178.38100856280593,22.79011565999477,0.0,201.1711242228007
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,113.1706335963575,14.458780392352026,0.0,127.62941398870953
+Healthcare of Ontario Pension Plan Trust Fund,167.66233994063796,21.42068906246347,0.0,189.08302900310144
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.5667785206685932,0.07241212584068368,0.0,0.6391906465092769

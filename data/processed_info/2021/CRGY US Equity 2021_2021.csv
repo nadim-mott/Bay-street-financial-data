@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,CRGY US Equity 2021,1358.08,710.186,,,,,,,,,,,,,,,,,,3070.824,1476.977,2149.144,CRESCENT ENERGY INC-A,169.49,12.68,1037.823,128.578,5157.462
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,483710.12235569133,252948.39549606727,0.0,736658.5178517586
+BMO,748320.8201218718,391322.2858440384,0.0,1139643.1059659102
+TD,75275.81392405534,39364.2710204621,0.0,114640.08494451744
+Scotiabank,67198.65457130838,35140.45100095666,0.0,102339.10557226503
+CIBC,304964.89869455004,159476.46791373682,0.0,464441.36660828686
+National Bank of Canada,128668.98419091507,67285.36699355651,0.0,195954.35118447157
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,6695.1575138752905,3501.1244802581864,0.0,10196.281994133476
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,153850.23306023233,80453.494356823,0.0,234303.72741705534
+Healthcare of Ontario Pension Plan Trust Fund,65641.61180451378,34326.2206357508,0.0,99967.83244026458
+OTPP,212.9559303611112,111.36186407239349,0.0,324.3177944335047
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,9502.131527715219,4968.986201948311,0.0,14471.117729663529

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,SRE US Equity 2023,6751.42,505.97,67000.0,,,142.407,,,6.996,,,,,67699.898,,,,,,84410.8933,16720.0,47186.8933,SEMPRA,630.296,74.73,31745.0,236.0,87181.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,92945.9552759611,6965.625748505949,934072.8463421357,1033984.4273666027
+BMO,22255.97107534096,1667.9237382639894,223664.36698325723,247588.26179686218
+TD,8080.203344940278,605.5526817231683,81203.08748264215,89888.84350930559
+Scotiabank,6076.391894611125,455.381535575685,61065.51549917359,67597.2889293604
+CIBC,1432.2136820988808,107.33403591119655,14393.223531204587,15932.771249214664
+National Bank of Canada,3388.6662184645243,253.95597467740055,34054.8557555494,37697.477948691325
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,17399.17852400764,1303.94233476693,174855.37869487164,193558.49955364622
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,814.6877828042983,61.05494510273259,8187.3141645033875,9063.05689241042
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,6358.256125753462,476.5052169687976,63898.14790241765,70732.9092451399
+Healthcare of Ontario Pension Plan Trust Fund,1786.7616845205616,133.90483920669558,17956.301244523765,19876.967768251023
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,659.7339948209728,49.44228167697576,6630.085284953481,7339.26156145143

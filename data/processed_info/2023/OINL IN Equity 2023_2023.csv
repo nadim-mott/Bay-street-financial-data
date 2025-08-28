@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,OINL IN Equity 2023,1441.07,16.198,20.029,,,,,,,,,,,,,,,,,456005.1671,410389.4,272890.5671,OIL INDIA LTD,1626.6078,167.77,188317.5,38913.9,738830.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1084.7265001341264,12.192606777722514,0.0,1096.9191069118488
+BMO,347.4107374523463,3.904986659394135,0.0,351.31572411174045
+TD,209.54589701536074,2.355350149440911,0.0,211.90124716480165
+Scotiabank,108.6622293512028,1.2213915986251764,0.0,109.88362094982797
+CIBC,116.66258302117764,1.3113176457611604,0.0,117.9739006669388
+National Bank of Canada,90.03698354658152,1.01203901232246,0.0,91.04902255890399
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,122.56647437631419,1.3776789135486391,0.0,123.94415328986283
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,636.0413186667455,7.1492691401277835,0.0,643.1905878068733
+Healthcare of Ontario Pension Plan Trust Fund,129.31000680968572,1.4534779645008844,0.0,130.7634847741866
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,6.643197964903199,0.07467126554261903,0.0,6.717869230445818

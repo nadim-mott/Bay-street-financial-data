@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,002608 CH Equity 2021,53322.398,7.373,,,,,,,,,,,,,,,,,,52347.6585,28010.548,26446.5579,JIANGSU GUOXIN CORP LTD-A,3778.0797,7.0,33191.3792,16747.216,80454.3218
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1422762.220345204,196.72832138204268,0.0,1422958.948666586
+BMO,2302712.4283960597,318.4008853946169,0.0,2303030.8292814544
+TD,236243.92708050678,32.665944137856975,0.0,236276.59302464462
+Scotiabank,159006.10920236242,21.98610878582426,0.0,159028.09531114824
+CIBC,973039.6424100999,134.5442356791543,0.0,973174.1866457791
+National Bank of Canada,371744.8028897553,51.40193491872151,0.0,371796.204824674
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,16859.732512713876,2.33123063625607,0.0,16862.063743350132
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,21361.978709902356,2.9537656770070635,0.0,21364.932475579364
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,487026.9035689518,67.34223318339662,0.0,487094.2458021352
+Healthcare of Ontario Pension Plan Trust Fund,204250.3567012023,28.242125944110107,0.0,204278.59882714643
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,30318.081534761845,4.192144831067033,0.0,30322.273679592912

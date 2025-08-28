@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,INA CZ Equity 2020,1310.0,60.0,11608.4,,,,,,0.133,,,,,11357.1,,,,,,3972.3937,,3716.2386,INA INDUSTRIJA NAFTE DD,10.0,371.624,317.7384,63.3088,2521.2025
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,215540.73788480644,9872.094864952967,1868661.3596562396,2094074.192405999
+BMO,277764.21029586205,12722.024899047117,2408116.6835046597,2698602.918699569
+TD,73376.08785399301,3360.736848274489,636144.5239589837,712881.3486612512
+Scotiabank,153479.06617190831,7029.575549858398,1330608.7901807488,1491117.4319025155
+CIBC,115152.04109876046,5274.139286966128,998327.1459421362,1118753.3263278627
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,34.193175863358185,1.5660996578637334,296.442645259645,332.20192078086694
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3600.858674682514,164.92482479461896,31218.16104461108,34983.94454408821
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,143372.33890202854,6566.672010779932,1242987.067683437,1392926.0785962453
+Healthcare of Ontario Pension Plan Trust Fund,74544.64845179747,3414.2587077159146,646275.5277634757,724234.4349229891
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,5412.039474537507,247.87967058950414,46920.45291413743,52580.37205926444

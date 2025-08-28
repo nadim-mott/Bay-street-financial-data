@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ALE US Equity 2023,1864.35,2209.76,,,,,,,,,,,,,,,,,,5852.1308,1879.8,3520.4308,ALLETE INC,57.3,61.16,1806.1,71.9,6656.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,114859.5628694079,136139.7096287193,0.0,250999.27249812722
+BMO,40057.96630060161,47479.54601465253,0.0,87537.51231525413
+TD,129821.25909135894,153873.37436088792,0.0,283694.63345224684
+Scotiabank,23538.775084003923,27899.827623369278,0.0,51438.6027073732
+CIBC,14998.766827059913,17777.60344557831,0.0,32776.37027263822
+National Bank of Canada,8732.775403510273,10350.705487521585,0.0,19083.48089103186
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,15608.313491064786,18500.081433215506,0.0,34108.39492428029
+Healthcare of Ontario Pension Plan Trust Fund,3185.953719073245,3776.218569613696,0.0,6962.172288686941
+OTPP,592.6001016693752,702.391718649888,0.0,1294.9918203192633
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,789.0743087465318,935.2668997214773,0.0,1724.341208468009

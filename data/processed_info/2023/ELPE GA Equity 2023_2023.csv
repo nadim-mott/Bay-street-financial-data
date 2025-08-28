@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ELPE GA Equity 2023,3842.57,407.687,54748.602,7469.6499,0.0,130.735,554.34,2.18,0.0,0.0,0.0,0.0,1004.67,42886.1992,379.383,0.0,25.178,2296.29,,4133.5431,12803.0,2225.0241,HELLENIQ ENERGY HOLDINGS SA,305.6352,7.28,2761.06,919.457,8108.303
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,618047.8074192546,65573.31589621885,8805894.935492072,9489516.058807546
+BMO,230955.81588532007,24503.830434016425,3290639.6964974003,3546099.342816737
+TD,441381.3048586755,46829.444885563265,6288764.963515677,6776975.713259915
+Scotiabank,53334.29391169291,5658.634268725449,759902.6855319455,818895.6137123639
+CIBC,49778.444053707106,5281.367553726722,709239.2257155328,764299.0373229666
+National Bank of Canada,41326.60859718329,4384.649096609785,588818.1609552004,634529.4186489935
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,3889.1568140767554,412.62974365086654,55412.39024116638,59714.176798894005
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,148525.37898802984,15758.168669274191,2116177.530155876,2280461.07781318
+Healthcare of Ontario Pension Plan Trust Fund,85682.33844298587,9090.680329260256,1220794.9953042758,1315568.0140765219
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3538.580067514775,375.43443372141456,50417.40124518202,54331.41574641821

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,TLW LN Equity 2020,2040.19,1.281,324.104,,,,,0.21,5.833,0.186,,,,,,,,318.271,,4152.5974,1396.1,570.9974,TULLOW OIL PLC,1410.6293,29.58,4387.0,805.4,6557.2
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,12939079.671466105,8124.2242434028585,2058009.9664201625,15005213.86212967
+BMO,4165368.7711888007,2615.362978885718,662517.7881720653,4830501.922339751
+TD,4095376.715340561,2571.4161780771683,651385.2847666207,4749333.416285259
+Scotiabank,1498406.6819568707,940.8236289692387,238327.29711203589,1737674.8026978758
+CIBC,1962450.189090178,1232.1885178461407,312135.18660505285,2275817.564213077
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,1472.0877538146408,0.9242984293798886,234.1411712207446,1707.1532234647652
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,363491.3382792987,228.22992188756024,57814.68356948736,421534.2517706736
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,472418.6860045247,296.6235187760925,75139.99363219517,547855.303155496
+Healthcare of Ontario Pension Plan Trust Fund,144879.16078076712,90.96711823906728,23043.583035579493,168013.7109345857
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,26443.98414073339,16.60372008699164,4206.016524768765,30666.604385589148

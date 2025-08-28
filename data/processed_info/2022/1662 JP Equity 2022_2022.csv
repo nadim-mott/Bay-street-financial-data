@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,1662 JP Equity 2022,623.74,67.0,10196.0,32.0,35.0,444.0,90.0,2.0,0.29,0.7,,,3.0,9447.9,,,,,,26486.6264,249140.0,143039.6264,JAPAN PETROLEUM EXPLORATION,283.97,514.2,2587.0,150271.0,471941.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,520.5303552163081,55.91357584809799,8391.117233720626,8967.561164785033
+BMO,52.97704874318659,5.6906118988577,854.0071145627655,912.6747752048099
+TD,29.12015239995062,3.127986357771975,469.42624998355,501.6743887412726
+Scotiabank,31.24376938389431,3.356097971463941,503.65964078049353,538.2595081358518
+CIBC,23.233329138505077,2.495644102157694,374.52876009469213,400.2577333353549
+National Bank of Canada,14.39873363651347,1.5466623170654479,232.11223082445076,248.0576267780297
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,24.406333180970893,2.621644151609725,393.43796363550905,420.4659409680897
+Fairfax,5.756004966746754,0.6182902054895189,92.78865678021653,99.1629519524528
+Intact Financial,1.569819536385478,0.16862460149714148,25.305997303695417,27.044441441578037
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1.2602162389316753,0.13536808286853858,20.315092279911042,21.710676601711256
+Healthcare of Ontario Pension Plan Trust Fund,25.147636850930702,2.7012724356500413,405.38801791780963,433.2369272043904
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

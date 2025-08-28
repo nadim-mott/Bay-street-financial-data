@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,COAL IN Equity 2022,21257.199,6637.52,715.25,,,,,,,,,,,,,,,,,814036.4203,1097135.0,1128087.42,COAL INDIA LTD,6162.7283,183.05,35136.4,355925.3,1934846.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,15979.10595298811,4989.445474216883,0.0,20968.55142720499
+BMO,10928.99038091835,3412.5564818371968,0.0,14341.546862755547
+TD,4388.084279790124,1370.1709791959208,0.0,5758.255258986045
+Scotiabank,3628.989736819333,1133.1451503997803,0.0,4762.134887219113
+CIBC,8290.795775401875,2588.7852287192427,0.0,10879.581004121119
+National Bank of Canada,4714.6622642064385,1472.144334346003,0.0,6186.806598552442
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,27.002841824971334,8.43158605562679,0.0,35.43442788059812
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,3151.8704381394487,984.1655558928226,0.0,4136.035994032271
+Healthcare of Ontario Pension Plan Trust Fund,3675.9667672936203,1147.8136389110696,0.0,4823.78040620469
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,292.0754000607506,91.19998873846143,0.0,383.275388799212

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,998 HK Equity 2021,6.669,157.676,,,,,,,,,,,,,,,,,,,204554.0,198326.6047,CHINA CITIC BANK CORP LTD-H,48935.0,3.38,2507439.0,778594.0,8042884.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6.535180415963627,154.51208685972122,0.0,161.04726727568485
+BMO,3.689247834937598,87.22534737166303,0.0,90.91459520660064
+TD,3.045202336386289,71.99809920408525,0.0,75.04330154047153
+Scotiabank,3.4090730793416335,80.60114062952039,0.0,84.01021370886203
+CIBC,1.809467567615753,42.78146771500697,0.0,44.59093528262272
+National Bank of Canada,0.2827639846143143,6.685424207234461,0.0,6.968188191848776
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.2811835461225944,6.648057702568029,0.0,6.929241248690624
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.8433152539115696,19.938607883604835,0.0,20.781923137516404
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.6014409119766471,14.219942605612506,0.0,14.821383517589153
+Healthcare of Ontario Pension Plan Trust Fund,0.31612132469487086,7.474095965300413,0.0,7.790217289995284
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

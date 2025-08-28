@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,VPK NA Equity 2022,327.97,189.04,385.891,78.038,156.8,71.302,0.0,56.01,0.706,6.616,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.419,,6684.994,1367.0,3480.294,VOPAK,125.396,27.75,3084.6,41.5,6999.1
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,290522.7594163022,167455.62838082068,341830.4056892895,799808.7934864124
+BMO,142057.72274123968,81881.24495229425,167145.76542470264,391084.73311823653
+TD,135781.49148893743,78263.66177110324,159761.1230666145,373806.2763266552
+Scotiabank,26150.005482295463,15072.711029585429,30768.215890381674,71990.93240226257
+CIBC,70623.03278113861,40706.70523812068,83095.3829403493,194425.12095960858
+National Bank of Canada,15325.836564382207,8833.723036042358,18032.44930227159,42192.00890269616
+Sun Life Financial,123.16683303192202,70.99264602358306,144.91865830875207,339.07813736425715
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,78.31035826283642,45.137634923946074,92.14032521390435,215.58831840068683
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,8874.231573539477,5115.055452211796,10441.461402398763,24430.748428150036
+Healthcare of Ontario Pension Plan Trust Fund,5443.182435162088,3137.418689340613,6404.4733148981095,14985.07443940081
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,859.3407424775035,495.3190046588019,1011.1042426300767,2365.763989766382

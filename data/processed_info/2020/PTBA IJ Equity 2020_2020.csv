@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,PTBA IJ Equity 2020,415.337,66.436,0.013,,,,,,0.013,,,,,,,,,,,28194241.11,17325192.0,31427212.11,BUKIT ASAM TBK PT,11185.639,2810.0,932184.0,4340947.0,24056755.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,60.11091244272001,9.61515246425083,0.0018814645980381236,69.72794637156888
+BMO,16.788702417899582,2.68546802677242,0.0005254844413878238,19.47469592911339
+TD,17.905797707043252,2.8641550751922553,0.0005604493945676938,20.770513231630076
+Scotiabank,6.912584644817227,1.1057152949606641,0.00021636309883931349,8.01851630287673
+CIBC,7.468918636225795,1.194704730174044,0.0002337762883416005,8.663857142688181
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.006555056531229807,0.001048526222582586,2.0517251028920487e-07,0.007603787926322682
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.015845791897065604,0.002534643025960727,4.959714512837835e-07,0.018380930894477614
+Intact Financial,1.3661610056508446,0.21852681694965662,4.276068126235076e-05,1.5847305832817635
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2.8268020498939506,0.452166363667948,8.847857679094654e-05,3.2790568921386893
+Healthcare of Ontario Pension Plan Trust Fund,0.7991882632188082,0.1278356405887382,2.5014500085098384e-05,0.9270489183076315
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0978104302169996,0.015645448736559917,3.0614551384080754e-06,0.11345894040869793

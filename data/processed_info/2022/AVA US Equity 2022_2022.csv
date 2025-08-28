@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,AVA US Equity 2022,2458.68,,1120.52,,,,,,,,,,,,,,,,,6233.0983,1710.207,3323.1033,AVISTA CORP,72.989,44.34,2923.423,13.428,7417.35
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2187346.275488938,0.0,0.0,2187346.275488938
+BMO,1055573.2909536697,0.0,0.0,1055573.2909536697
+TD,1001146.6295375167,0.0,0.0,1001146.6295375167
+Scotiabank,205364.79608081997,0.0,0.0,205364.79608081997
+CIBC,554480.5841575854,0.0,0.0,554480.5841575854
+National Bank of Canada,85731.4991201146,0.0,0.0,85731.4991201146
+Sun Life Financial,967.0162104199408,0.0,0.0,967.0162104199408
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1449.414503605711,0.0,0.0,1449.414503605711
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,614.8358614070168,0.0,0.0,614.8358614070168
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,41033.44990810247,0.0,0.0,41033.44990810247
+Healthcare of Ontario Pension Plan Trust Fund,17519.492614027375,0.0,0.0,17519.492614027375
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,6638.155654083939,0.0,0.0,6638.155654083939

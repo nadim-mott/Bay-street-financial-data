@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,MDU US Equity 2023,1424.52,80.114,,,,,,,,,,,,,,,,,,6423.821,4657.3,4033.044,MDU RESOURCES GROUP INC,203.64,10.9638,2467.752,76.975,7833.159
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,137939.2207374876,7757.604477412099,0.0,145696.8252148997
+BMO,30708.614465897223,1727.0308169214125,0.0,32435.645282818634
+TD,20885.7855555258,1174.6018476366735,0.0,22060.387403162473
+Scotiabank,11017.745494470182,619.6302351276108,0.0,11637.375729597792
+CIBC,4010.0171384195164,225.52053535741243,0.0,4235.537673776929
+National Bank of Canada,21044.024582920494,1183.5010989218072,0.0,22227.5256818423
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,193181.24226762712,10864.376802732626,0.0,204045.61907035974
+Healthcare of Ontario Pension Plan Trust Fund,348.9735693436521,19.6260273877498,0.0,368.5995967314019
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,408.666416731382,22.9831110198649,0.0,431.6495277512469

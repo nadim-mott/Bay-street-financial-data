@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,5019 JP Equity 2021,12671.0,829.0,108187.0,,,,,,,,,,,108187.0,,,,,,2090122.359,4556620.0,848404.3589,IDEMITSU KOSAN CO LTD,1486.345,570.8,1308855.0,131343.0,3954443.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2299.7209179001543,150.45920929202336,19635.380549669637,22085.560676861813
+BMO,275.3135477790861,18.012385061073502,2350.6705700872844,2643.996502927444
+TD,158.67045305441087,10.381012199676949,1354.7533978847407,1523.8048631388285
+Scotiabank,301.2707435065489,19.710634233046253,2572.297208408414,2893.2785861480093
+CIBC,83.5319883220369,5.465079182303574,713.2093142290432,802.2063817333838
+National Bank of Canada,74.86963301597908,4.89834470604109,639.2487559860886,719.0167337081087
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,22.880566084276868,1.496960720058837,195.35788832449384,219.73541512882954
+Intact Financial,13.098078626573638,0.8569416132451697,111.83346479150202,125.78848503132083
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,12.545480098428568,0.8207878621732526,107.11529124841698,120.4815592090188
+Healthcare of Ontario Pension Plan Trust Fund,139.0009324715175,9.094134087198169,1186.8119233916868,1334.9069899504025
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

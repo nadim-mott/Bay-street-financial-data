@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,NVA CN Equity 2021,277.146,92.89,308.436,55.672,,,,0.242,0.009,,0.837,,251.676,,,,,,,2125.2082,885.29,1583.9452,NUVISTA ENERGY LTD,226.288,6.96,541.263,0.0,2391.984
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,633715.5531340352,212400.09861452275,705262.5343553551,1551378.186103913
+BMO,576544.3392751215,193238.23427098364,641636.6457703209,1411419.219316426
+TD,237353.14142559984,79552.77473614618,264150.4965929377,581056.4127546838
+Scotiabank,56588.7321960381,18966.636118471775,62977.64428718872,138533.0126016986
+CIBC,186583.79172422236,62536.59952971725,207649.2476321226,456769.6388860622
+National Bank of Canada,51893.009640737575,17392.788153277023,57751.770985511364,127037.56877952596
+Sun Life Financial,337.87085942114663,113.24292658609654,376.01674350855063,827.1305295157938
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2037.723474271711,682.9762418548319,2267.784047074356,4988.4837632008985
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,57471.29077445356,19262.440013707546,63959.844418859946,140693.57520702106
+Healthcare of Ontario Pension Plan Trust Fund,21995.025507195576,7371.991366873045,24478.28107689584,53845.297950964465
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2631.0533988170805,881.8404386717419,2928.1013838105,6440.995221299322

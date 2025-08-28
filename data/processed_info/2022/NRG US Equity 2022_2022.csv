@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,NRG US Equity 2022,37417.602,141.831,2.432,0.0,0.0,0.0,0.0,0.0,2.432,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,15176.632,31543.0,7304.632,NRG ENERGY INC,236.0,31.82,8302.0,430.0,29146.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,192849.9450890887,730.9955502207366,12.534503586217623,193593.47514289565
+BMO,109138.88998268495,413.6897363207346,7.093607453462406,109559.67332645915
+TD,62698.77092781676,237.65898679084722,4.075178599004029,62940.505093206615
+Scotiabank,63579.83208791353,240.9986392196075,4.132444180624021,63824.96317131376
+CIBC,58831.322230880345,222.99946595530068,3.823809330846509,59058.14550616649
+National Bank of Canada,19864.855691019067,75.29751231821123,1.291139101873989,19941.444342439154
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,10034.876817613811,38.03708783686844,0.6522283394974586,10073.566133790177
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,25525.161399780303,96.75283751460715,1.6590371698396305,25623.57327446475
+Healthcare of Ontario Pension Plan Trust Fund,44160.62942554806,167.39036969966452,2.87027080898805,44330.890066056716
+OTPP,22282.651432679977,84.46213991341384,1.4482865119009418,22368.56185910529
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

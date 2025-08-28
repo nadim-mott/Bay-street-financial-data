@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,KAR AU Equity 2020,19.971,0.152,,,,,,,,,,,,,,,,,,-65.5495,2.3091,230.5123,KAROON ENERGY LTD,449.3861,0.5991,1.5194,297.5811,399.1485
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,29291.43187586953,222.93814256332524,0.0,29514.370018432855
+BMO,17136.369616718934,130.42552609990875,0.0,17266.795142818843
+TD,23788.82692593844,181.05761818349822,0.0,23969.88454412194
+Scotiabank,11298.824249291685,85.9957581439255,0.0,11384.82000743561
+CIBC,6145.541535093789,46.773937876633916,0.0,6192.315472970423
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2.5991237777767173,0.01978202464684097,0.0,2.618905802423558
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2100.351924821365,15.985854117112188,0.0,2116.337778938477
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,111788.05376979883,850.8229018581654,0.0,112638.876671657
+Healthcare of Ontario Pension Plan Trust Fund,719.6107366071137,5.476983223888703,0.0,725.0877198310025
+OTPP,24.345126051841916,0.18529163085874376,0.0,24.53041768270066
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,233.92113999990454,1.7803822182156874,0.0,235.70152221812023

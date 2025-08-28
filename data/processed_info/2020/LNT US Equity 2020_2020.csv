@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,LNT US Equity 2020,12624.3,4.187,6221.71,,,1599.75,,,,,,,,4621.96,,,,,,20202.7194,3416.0,12875.7194,ALLIANT ENERGY CORP,248.4,51.53,7181.0,54.0,17710.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3514951.9320994215,1165.7758243784033,1732294.9855011597,5248412.69342496
+BMO,1019513.8593498706,338.1339582470243,502453.1715703591,1522305.1648784766
+TD,1139742.4454823083,378.00920599434625,561706.1516663682,1701826.6063546708
+Scotiabank,406761.14350550383,134.90719547678245,200466.5505540607,607362.6012550413
+CIBC,556378.4384505926,184.5295598007518,274203.3454759817,830766.313486375
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,404.9355020893046,0.13430169967823313,199.56680867090034,604.6366124598832
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,99745.51694563955,33.081793006455236,49158.185423021874,148936.7841616679
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1379825.0769195855,457.6354805464307,680027.5246406815,2060310.2370408133
+Healthcare of Ontario Pension Plan Trust Fund,39752.312340699194,13.184329568412311,19591.37213257381,59356.86880284142
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,7256.483416375166,2.406699465662478,3576.2565398870065,10835.146655727835

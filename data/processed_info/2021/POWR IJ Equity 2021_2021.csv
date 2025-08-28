@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,POWR IJ Equity 2021,2860.39,0.062,26.316,,,,,,,,,,,,,,,,,834.6214,514.851,679.8365,CIKARANG LISTRINDO TBK PT,15769.9969,615.0,544.7907,390.0058,1358.9429
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1123873.4820210447,24.360369000487616,0.0,1123897.8423900453
+BMO,517468.0166775394,11.21630862714785,0.0,517479.23298616655
+TD,175426.1512290087,3.8024260244926533,0.0,175429.9536550332
+Scotiabank,734312.478279704,15.91649168586859,0.0,734328.3947713899
+CIBC,93990.61717045201,2.0372810227164915,0.0,93992.65445147472
+National Bank of Canada,54655.00322504014,1.1846671957154404,0.0,54656.18789223586
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,6445.840257179483,0.13971594640770246,0.0,6445.979973125891
+Intact Financial,24201.35323713863,0.5245731878179534,0.0,24201.87781032645
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,632592.7432551797,13.711679205220666,0.0,632606.4549343849
+Healthcare of Ontario Pension Plan Trust Fund,627013.6413093442,13.590750128891285,0.0,627027.232059473
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

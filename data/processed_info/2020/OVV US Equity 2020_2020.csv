@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,OVV US Equity 2020,4607.62,453.332,,,,,,,,,,,,,,,,,,11732.728,6087.0,3730.728,OVINTIV INC,259.8,14.36,8012.0,10.0,14469.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3383447.6387859937,332888.7983353948,0.0,3716336.4371213885
+BMO,1721226.539024019,169347.09663315042,0.0,1890573.6356571694
+TD,1399019.2512702057,137645.94198671437,0.0,1536665.1932569202
+Scotiabank,241231.6185044849,23734.16472709884,0.0,264965.7832315838
+CIBC,1019652.6986402629,100321.03280652217,0.0,1119973.7314467852
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,2224.3175112203303,218.8449364306377,0.0,2443.162447650968
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2213.202098893299,217.75131931354952,0.0,2430.9534182068487
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1618847.4162629922,159274.27541970363,0.0,1778121.6916826959
+Healthcare of Ontario Pension Plan Trust Fund,46321.62830418085,4557.467065945306,0.0,50879.09537012615
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

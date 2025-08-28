@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,HES US Equity 2020,3130.0,428.0,45800.0,,,,,,,,,,,,,,,,,24510.4791,4804.0,16205.4791,HESS CORP,304.8,52.79,9075.0,1739.0,18821.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,64904.68152836037,8875.14495020391,0.0,73779.82647856428
+BMO,25555.148813835436,3494.442074224143,0.0,29049.590888059578
+TD,19303.83224523118,2639.6294571753824,0.0,21943.461702406563
+Scotiabank,1551.9164749655567,212.2109429026384,0.0,1764.1274178681952
+CIBC,3116.5804903602016,426.16499995979757,0.0,3542.745490319999
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,5.214902902808964,0.7130921541221203,0.0,5.927995056931084
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,251105.4936968818,34336.470064621535,0.0,285441.96376150334
+Healthcare of Ontario Pension Plan Trust Fund,84.01788010081108,11.488706927523051,0.0,95.50658702833414
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

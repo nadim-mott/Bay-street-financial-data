@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,MEG CN Equity 2020,2113.45,0.016,21.832,,,1.718,,1.087,2.315,,0.889,4.682,,,,,,,,4430.9305,2292.0,1346.9305,MEG ENERGY CORP,302.0,4.45,3198.0,114.0,7224.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,753901.9633158502,5.707460035985525,3813.653452795078,757721.3242286813
+BMO,1135660.6249542942,8.597586883658808,5744.80008582477,1141414.0226270026
+TD,137734.38273169997,1.0427264064478459,696.73675070837,138432.16220881479
+Scotiabank,555952.3302798474,4.208870465105661,2812.3146339027885,558768.8537842153
+CIBC,502084.0334746299,3.80105729285958,2539.8189698726105,504627.6535017954
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,119.25054781965365,0.0009027934254959703,0.6032352819985887,119.85468589507774
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,16028.21507865476,0.12134256370317548,81.07958428441557,16109.416005502879
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,509932.60242454964,3.860475354890249,2579.521376195728,512515.98427610024
+Healthcare of Ontario Pension Plan Trust Fund,353388.0148604549,2.6753451644312753,1787.6321970584231,355178.32240267773
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,24090.179745725556,0.1823761508110478,121.86146427005701,24212.223586146425

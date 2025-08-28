@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,ADSEZ IN Equity 2023,121.102,304.234,2023.07,475.39,848.22,132.02,422.72,0.33,0.169,1.37,0.0,97.65,0.0,0.0,0.0,11.59,0.0,33.61,,1821486.599,208519.1,1364991.799,ADANI PORTS AND SPECIAL ECON,2160.1389,631.9,525685.7,82801.5,1147630.9
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,47.98702234840314,120.55361395471651,801.6470191686478,970.1876554717675
+BMO,14.250996359282889,35.801536113111844,238.06996543061283,288.12249790300757
+TD,21.47395340065336,53.947141573998564,358.73304678953605,434.15414176418795
+Scotiabank,2.0252102291202116,5.087759152170554,33.83214177318292,40.945111154473686
+CIBC,3.513576059221437,8.826850909160662,58.69603148216424,71.03645845054633
+National Bank of Canada,9.210816172823028,23.13953070570792,153.87125451220385,186.2216013907348
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.02217998673851373,0.055720847594630855,0.3705276840274994,0.448428518360644
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,58.765608703851264,147.63171705180332,981.7086524986513,1188.105978254306
+Healthcare of Ontario Pension Plan Trust Fund,0.5337392008755945,1.340866476517197,8.916378188437745,10.790983865830537
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.21408123200013454,0.537817620983377,3.5763332062334245,4.328232059216936

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,OKE US Equity 2021,3800.0,2700.0,66700.0,,,,,,,,,,,66700.0,,,,,,39825.2233,15180.264,26215.0793,ONEOK INC,446.403,58.76,13756.535,146.391,23621.613
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,55020.18069424646,39093.28628275407,965748.9611332208,1059862.4281102214
+BMO,32712.51596023209,23243.103445428067,574190.7406703896,630146.3600760498
+TD,19474.379388964884,13837.059039527681,341826.6066431468,375138.04507163935
+Scotiabank,16248.556608409725,11545.02706387007,285204.92783708655,312998.51150936633
+CIBC,9053.293231884292,6432.603085812523,158909.12067544268,174395.0169931395
+National Bank of Canada,1482.8869886348198,1053.6302287668457,26028.568984721704,28565.08620212337
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,19568.88987934513,13904.211230061013,343485.51446113683,376958.615570543
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,4341.974277377067,3085.0869865573895,76213.07481606588,83640.13608000035
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24675.35545467528,17532.489402006122,433117.42337548453,475325.26823216595
+Healthcare of Ontario Pension Plan Trust Fund,9041.551897956686,6424.260559074487,158703.02936676604,174168.8418237972
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

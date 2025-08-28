@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,NOG LN Equity 2023,180.136,0.021,1.869,1.43,0.15,,,0.289,,,,,,,,,,,,335.2099,119.629,20.0159,NOSTRUM OIL & GAS PLC,169.3816,9.275,476.403,161.711,519.341
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2059685.818174551,240.11525836959618,21370.257994894062,2081296.1914278148
+BMO,597963.4314719798,69.70973076404259,6204.16603799979,604237.3072407437
+TD,354838.0141787279,41.36651362167077,3681.619712328699,358561.0004046783
+Scotiabank,187975.5910051509,21.913928426900615,1950.3396299941544,189947.84456357194
+CIBC,198820.16356996185,23.178173352185013,2062.857428344466,200906.1991716585
+National Bank of Canada,162578.59201934462,18.953182220134995,1686.8332175920145,164284.37841915677
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,208881.76699523878,24.351140843029796,2167.2515350296517,211073.36967111146
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1052553.5139564048,122.70519936650365,10920.762743618823,1063596.98189939
+Healthcare of Ontario Pension Plan Trust Fund,206703.8528369946,24.097242692059815,2144.6545995933234,208872.60467928
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,11321.553764757018,1.3198507186786508,117.4667139623999,11440.340329438097

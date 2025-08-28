@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,AKSEN TI Equity 2021,4026.33,0.0,,,,,,,,,,,,,,,,,,17728.1363,13887.0,12251.119,AKSA ENERJI URETIM A.S.,1226.3382,9.99,5662.7245,1118.0974,20649.5381
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1444904.7021786335,0.0,0.0,1444904.7021786335
+BMO,469744.6731421024,0.0,0.0,469744.6731421024
+TD,653580.6258505855,0.0,0.0,653580.6258505855
+Scotiabank,278348.4563206022,0.0,0.0,278348.4563206022
+CIBC,221869.9574585799,0.0,0.0,221869.9574585799
+National Bank of Canada,98045.16223456812,0.0,0.0,98045.16223456812
+Sun Life Financial,39.766647438491134,0.0,0.0,39.766647438491134
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,54937.45911128607,0.0,0.0,54937.45911128607
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,233825.91503845487,0.0,0.0,233825.91503845487
+Healthcare of Ontario Pension Plan Trust Fund,144292.45860561798,0.0,0.0,144292.45860561798
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

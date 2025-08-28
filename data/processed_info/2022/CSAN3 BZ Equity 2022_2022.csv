@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,CSAN3 BZ Equity 2022,1768.5,8.637,34194.301,8.535,1.076,255.501,178.423,53.468,1.585,10.876,0.0,0.0,0.0,33677.301,0.0,0.0,7.548,0.0,,100260.2403,162253.4,31956.8443,COSAN SA,1869.077,17.12,56519.374,15732.21,134484.992
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,41329.43264363559,201.84467613405747,799113.1218144716,840644.3991342412
+BMO,32094.305772863812,156.74216508918562,620550.0351229926,652801.0830609456
+TD,11221.178040411207,54.80198741025252,216963.79651826262,228239.7765460841
+Scotiabank,10168.052935689899,49.65873520246178,196601.40496666625,206819.11663755862
+CIBC,22885.244163485815,111.76695156348714,442490.92564753024,465487.93676257954
+National Bank of Canada,16747.6221987288,81.79203445316408,323818.7364823754,340648.1507155574
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,79.3025893360816,0.38729797234703806,1533.331954463351,1613.0218417717795
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,5063.246201064978,24.727880937855932,97898.9117304364,102986.88581243924
+Healthcare of Ontario Pension Plan Trust Fund,12090.075427128453,59.04550832010656,233764.1070674804,245913.22800292895
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,857.7739949122574,4.189196490843748,16585.23746977107,17447.20066117417

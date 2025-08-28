@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,WHAUP TB Equity 2021,0.274,13.458,2166.41,,,,,,,,,,,,,,,,,27092.5424,2180.8195,15606.0,WHA UTILITIES AND POWER PCL,3825.0,4.08,12391.0545,904.5122,25838.8149
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,73.96397013968988,3632.872664744329,0.0,3706.836634884019
+BMO,24.361454825067284,1196.5564198385237,0.0,1220.917874663591
+TD,23.27439151608356,1143.1633613994616,0.0,1166.4377529155452
+Scotiabank,15.96646072023581,784.2212714340639,0.0,800.1877321542996
+CIBC,11.477204408560812,563.7234194540562,0.0,575.200623862617
+National Bank of Canada,4.53643291041907,222.81501499423297,0.0,227.35144790465205
+Sun Life Financial,0.0021244393182109447,0.10434563629373317,0.0,0.10647007561194412
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.14681455850313985,7.211059592464436,0.0,7.357874150967576
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,2.4945833653722924,122.52592310649749,0.0,125.02050647186978
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,9.37095450467769,460.27118877354866,0.0,469.64214327822634
+Healthcare of Ontario Pension Plan Trust Fund,3.9170973984364994,192.39524375240293,0.0,196.31234115083944
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

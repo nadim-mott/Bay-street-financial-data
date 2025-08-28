@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,MER PM Equity 2020,3059.08,2030.07,29422.199,0.0,0.0,29422.199,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,311819.8219,275304.0,329112.8219,MANILA ELECTRIC COMPANY,1127.0,292.0,40144.0,58931.0,390267.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,6253.367334273402,4149.866438369838,60144.82070723602,70548.05447987925
+BMO,2323.57399880445,1541.97270674613,22348.110080171264,26213.656785721843
+TD,972.6584508982328,645.4766601118557,9355.018666187068,10973.153777197156
+Scotiabank,4521.573519649008,3000.6115417164183,43488.44616297826,51010.631224343684
+CIBC,6017.759498053758,3993.5121095930776,57878.747036977715,67890.01864462455
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,3.5041878749726094,2.325452972575299,33.70324182134211,39.53288266889002
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,93.03293485570516,61.73861751327896,894.7897808748363,1049.5613332438204
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1192.9761304750916,791.6841184910396,11474.031771999462,13458.692020965593
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

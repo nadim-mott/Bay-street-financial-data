@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,REP SM Equity 2020,22400.0,456.509,84093.398,600.0,,,994.27,,2.992,22.244,,473.847,,80100.0,1900.0,,,,,24690.0174,32956.0,12601.0174,REPSOL SA,1572.0,8.25,15614.0,5705.0,49302.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,60825.31081974381,1239.6116882593942,228348.40777229625,290413.3302802995
+BMO,132751.94747370158,2705.4669102353596,498373.0526939039,633830.4670778408
+TD,10102.295390846773,205.88342707946742,37925.70948271209,48233.88830063833
+Scotiabank,21527.150656898546,438.72044728705794,80816.53032476568,102782.40142895129
+CIBC,12370.556682192979,252.1102884121087,46441.142405453706,59063.809376058794
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,22330.641333770396,455.0954796713478,83832.9689463011,106618.70575974285
+Healthcare of Ontario Pension Plan Trust Fund,7610.052185151336,155.09184432996656,28569.4109265336,36334.5549560149
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

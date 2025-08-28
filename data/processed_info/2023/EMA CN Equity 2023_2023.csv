@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,EMA CN Equity 2023,13555.4,2.306,8301.21,,,946.921,,,,,,,,7354.29,,,,,,35013.3948,7563.0,14288.3948,EMERA INC,274.0,50.29,19856.0,567.0,39480.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,3102216.7106132875,527.7388889058413,1899770.975591044,5002515.425093237
+BMO,1940451.0362913546,330.1031389474205,1188315.6149890958,3129096.754419398
+TD,816969.2013549345,138.98010964814605,500304.95012679795,1317413.1315913806
+Scotiabank,481428.43785591534,81.89902014663829,294822.65695164585,776332.9938277078
+CIBC,329101.1803369263,55.985608824302645,201538.74753425765,530695.9134800083
+National Bank of Canada,359091.4844122308,61.087460573247874,219904.55319718627,579057.1250699903
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,330.1475964255971,0.05616362168268195,202.1795637953677,532.3833238426474
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1375.6149851066546,0.23401509034450813,842.4148491473653,2218.263849344364
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,1702632.8202661364,289.64628734922695,1042677.7739169832,2745600.240470469
+Healthcare of Ontario Pension Plan Trust Fund,947568.1906409808,161.19717954601873,580282.6539533328,1528012.0417738596
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,55287.389301421026,9.405308565521999,33857.52425086966,89154.3188608562

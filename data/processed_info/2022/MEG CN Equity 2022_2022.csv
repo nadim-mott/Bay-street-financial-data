@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,MEG CN Equity 2022,2368.08,0.383,16.04,,,1.611,,0.996,1.962,,0.668,10.803,,,,,,,,7119.8769,6118.0,5486.8769,MEG ENERGY CORP,304.0,18.85,1825.0,192.0,7033.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,336348.01032644685,54.399043932227436,2278.2262785193943,338680.6356488985
+BMO,295047.02622745966,47.719254013849635,1998.477374365922,297093.2228558394
+TD,72580.45348165183,11.738756158353032,491.61788193206957,73083.81011974225
+Scotiabank,67347.42738624224,10.892395818101916,456.1723992750775,67814.49218133542
+CIBC,176045.90328607516,28.47267869268217,1192.432810001624,177266.80877476948
+National Bank of Canada,104832.29464105527,16.954988365056995,710.0731419726219,105559.32277139295
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,618.4681562657255,0.10002757670761668,4.189144465770682,622.7573283082038
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,17509.597417795172,2.8319042477515763,118.59985413560125,17631.029176178527
+Healthcare of Ontario Pension Plan Trust Fund,80618.81315398199,13.03883544389341,546.065066631985,81177.91705605786
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,6689.6416065029625,1.0819451772282334,45.31175102543306,6736.0353027056235

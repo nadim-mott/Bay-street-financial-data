@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,NTPC IN Equity 2020,226080.0,15.845,980.753,,,,,,28.0,0.06,,,,,,,,,952.69,2840447.423,1094640.4,833121.723,NTPC LTD,9894.5573,84.2,2006296.7,32142.9,3784854.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1080153.9066818932,75.70346183375176,4685.779122338406,1084915.3892660653
+BMO,466537.0631801423,32.69762812318363,2023.8686514239407,468593.62945968943
+TD,319004.91755632684,22.357718147027597,1383.8644413188588,320411.1397157927
+Scotiabank,204414.02952110997,14.326522902344248,886.7615863978618,205315.11763041018
+CIBC,156034.82229690943,10.935826960786137,676.8893841458506,156722.64750801606
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,128.89833146266432,0.0090339440110842,0.5591694912509202,129.46653489792632
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,30378.487394212378,2.129100905702827,131.7838884990879,30512.40038361717
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,121361.44249836107,8.505715040633984,526.4739681982821,121896.42218159998
+Healthcare of Ontario Pension Plan Trust Fund,68342.43807132132,4.789835152335837,296.4740186590958,68643.70192513274
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,6174.6371244241345,0.4327544463751788,26.7859844293125,6201.855863299822

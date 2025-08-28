@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,KGN PW Equity 2020,2026.25,,,,,,,,,,,,,,,,,,,-58.807,,521.5,KOGENERACJA,14.9,35.0,58.245,644.738,2854.313
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1014710.2540747842,0.0,0.0,1014710.2540747842
+BMO,1037824.6572387345,0.0,0.0,1037824.6572387345
+TD,365016.4069990412,0.0,0.0,365016.4069990412
+Scotiabank,525053.2454458294,0.0,0.0,525053.2454458294
+CIBC,273662.25551294343,0.0,0.0,273662.25551294343
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,34.968839884947265,0.0,0.0,34.968839884947265
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,94194.39837008629,0.0,0.0,94194.39837008629
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,34183.98370086289,0.0,0.0,34183.98370086289
+Healthcare of Ontario Pension Plan Trust Fund,85269.57334611697,0.0,0.0,85269.57334611697
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,10490.65196548418,0.0,0.0,10490.65196548418

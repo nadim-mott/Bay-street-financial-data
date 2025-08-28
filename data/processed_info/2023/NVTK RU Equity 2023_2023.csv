@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,NVTK RU Equity 2023,9482.0,173.0,176397.0,,,,,,,,,6366.0,,170031.0,,,,,,4520972.506,,4446366.506,NOVATEK PJSC,3001.5,,220176.0,157661.0,3219153.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,18781.583549918905,342.671794361524,349400.442254276,368524.69759855646
+BMO,7010.576248254961,127.90863646362668,130420.22974725063,137558.71463196923
+TD,5038.256769830031,91.92347829367174,93728.47283565787,98858.65308378157
+Scotiabank,1446.5831449837751,26.39304831071431,26911.297935636256,28384.274128930745
+CIBC,2040.0442949900182,37.22080394782463,37951.66562996775,40028.930728905594
+National Bank of Canada,1320.7895975456054,24.097932965132856,24571.11607659272,25916.00360710346
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,39.197992735149484,0.715171139335674,729.2141240774271,769.1272879519122
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,138.35840099322664,2.524362304558976,2573.9302742039863,2714.8130375017718
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,364.5620179561509,6.651469005105896,6782.076173951819,7153.289660913076
+Healthcare of Ontario Pension Plan Trust Fund,38.56463199077544,0.7036154117701066,717.4314901156733,756.6997375182189
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,101.30573118346534,1.8483327878864693,1884.6263513572806,1987.7804153286324

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,DBI AU Equity 2021,1.163,70.073,,,,,,,,,,,,,,,,,,3206.0092,505.065,1006.3962,DALRYMPLE BAY INFRASTRUCTURE,497.9814,2.03,2262.44,62.827,3547.331
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1003.9429709690875,60489.50628092594,0.0,61493.44925189503
+BMO,182.58383129825015,11001.02907185063,0.0,11183.61290314888
+TD,329.35882210207075,19844.506226275495,0.0,20173.865048377564
+Scotiabank,40.54105728936576,2442.677134512233,0.0,2483.2181918015986
+CIBC,98.08227117709704,5909.646593458917,0.0,6007.728864636014
+National Bank of Canada,14.972063686250006,902.0958028259645,0.0,917.0678665122144
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,236.33927175003245,14239.898357128135,0.0,14476.237628878167
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,9.295714749320396,560.084797617479,0.0,569.3805123667994
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,256.9426156418317,15481.289686904618,0.0,15738.23230254645
+Healthcare of Ontario Pension Plan Trust Fund,30.995731104708067,1867.5527650044783,0.0,1898.5484961091863
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

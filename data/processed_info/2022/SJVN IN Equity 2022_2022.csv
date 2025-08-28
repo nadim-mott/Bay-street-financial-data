@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,SJVN IN Equity 2022,0.152,20.058,,,,,,,,,,,,,,,,,,147914.0776,24170.0,107872.8776,SJVN LTD,3929.7952,27.45,69061.5,29020.3,232484.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4.15039110813523,547.6877950458976,0.0,551.8381861540328
+BMO,1.9623455748064702,258.95215486492225,0.0,260.9145004397287
+TD,1.672186484807373,220.66260863333085,0.0,222.33479511813823
+Scotiabank,0.3892347449531651,51.36362180441175,0.0,51.752856549364914
+CIBC,1.0280841159279503,135.66652103475545,0.0,136.6946051506834
+National Bank of Canada,0.1625230770704869,21.446630788683066,0.0,21.60915386575355
+Sun Life Financial,0.0018416492117384658,0.24302499927006677,0.0,0.24486664848180523
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.00788654218676373,1.0407122577770187,0.0,1.0485987999637825
+Fairfax,0.0018599670692385421,0.2454422333867545,0.0,0.24730220045599305
+Intact Financial,0.0016781975601993212,0.2214558333057762,0.0,0.22313403086597552
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,0.0007904860044263806,0.10431294918937066,0.0,0.10510343519379704
+Healthcare of Ontario Pension Plan Trust Fund,0.020890811945856534,2.75676253953941,0.0,2.7776533514852666
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.012642139806975912,1.6682634226863342,0.0,1.68090556249331

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,9104 JP Equity 2023,10860.0,37.224,3224.58,50.4,1221.7,2168.6,,0.7,9.081,0.2,,,,545.2,,,,,,2268091.57,1611984.0,1197382.57,MITSUI OSK LINES LTD,361.1833,3310.0,1153446.0,94461.0,3564247.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1044.8480638898893,3.581346623410427,384.4464573097969,1432.8758678230968
+BMO,788.3092535746533,2.702027960871353,290.0543249063664,1081.065606441891
+TD,325.5961375819927,1.1160212362202666,119.80141987451846,446.5135786927314
+Scotiabank,78.72571587541984,0.26984217750889755,28.966721204234666,107.9622792571634
+CIBC,51.353110977722025,0.17601917155015878,18.895112379997315,70.42424252926949
+National Bank of Canada,31.97098484572061,0.10958452485240368,11.763559014392536,43.84412838496555
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,12.942580248182502,0.044362302684930514,4.7621556634150775,17.749098214282508
+Intact Financial,4.707217343242269,0.016134572595290074,1.7319963485020498,6.455348264339609
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,98.60668006884383,0.33798665367243486,36.28181946226259,135.22648618477885
+Healthcare of Ontario Pension Plan Trust Fund,0.0,0.0,0.0,0.0
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3.4555872982183127,0.011844455026600226,1.271465527513065,4.738897280757978

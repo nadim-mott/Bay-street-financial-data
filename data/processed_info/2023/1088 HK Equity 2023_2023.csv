@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,1088 HK Equity 2023,188790.0,3110.0,,,,,,,,,,,,,,,,,,570412.8983,343074.0,599135.8983,CHINA SHENHUA ENERGY CO-H,19869.0,26.75,44046.0,142942.0,633412.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,62521.63615347834,1029.9395541994684,0.0,63551.57570767781
+BMO,46176.25658635985,760.6767200782834,0.0,46936.933306438135
+TD,29620.07257511046,487.941234750747,0.0,30108.013809861204
+Scotiabank,94272.7557475085,1552.9862300691323,0.0,95825.74197757764
+CIBC,15434.09936917145,254.25101455650832,0.0,15688.350383727959
+National Bank of Canada,20640.55950426097,340.0187513017195,0.0,20980.57825556269
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,1219.4517171697905,20.08843074526219,0.0,1239.5401479150528
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,47194.041869682434,777.443033077559,0.0,47971.48490275999
+Healthcare of Ontario Pension Plan Trust Fund,34.03121071171509,0.5606073696352238,0.0,34.59181808135031
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,316.04911429490954,5.206381405038237,0.0,321.2554956999478

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,KEL CN Equity 2022,171.431,7.447,,,,,,,,,,,,,,,,,,974.2131,613.358,961.9901,KELT EXPLORATION LTD,191.101,5.01,12.348,0.125,1128.104
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,345792.71616828494,15021.310949041994,0.0,360814.0271173269
+BMO,120610.25601822721,5239.335806054552,0.0,125849.59182428177
+TD,55425.7095920218,2407.704903615952,0.0,57833.41449563775
+Scotiabank,47281.049450508894,2053.899092100844,0.0,49334.94854260974
+CIBC,73589.20698664155,3196.731188813689,0.0,76785.93817545525
+National Bank of Canada,68363.9108611841,2969.7431863737474,0.0,71333.65404755784
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,1173.6550781551703,50.983832370000485,0.0,1224.6389105251708
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,255.36710097120547,11.093202518404297,0.0,266.46030348960977
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,24857.03799446585,1079.795147580001,0.0,25936.83314204585
+Healthcare of Ontario Pension Plan Trust Fund,49500.94336313856,2150.331767447503,0.0,51651.275130586066
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,2788.366384435765,121.12724340926171,0.0,2909.493627845027

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,BTU US Equity 2021,6035.22,567.606,,,,,,,,,,,,,,,,,,1628.431,3318.3,1342.331,PEABODY ENERGY CORP,111.1,10.07,1181.4,954.3,4949.8
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,17835814.608691897,1677439.3289360076,0.0,19513253.937627904
+BMO,5758922.741976458,541620.5377570807,0.0,6300543.279733539
+TD,5179859.836135796,487160.2894591572,0.0,5667020.125594953
+Scotiabank,3202823.535476719,301222.135345157,0.0,3504045.6708218763
+CIBC,2868068.3185443827,269738.7644552647,0.0,3137807.0829996476
+National Bank of Canada,1123807.2760444335,105692.87494515139,0.0,1229500.1509895849
+Sun Life Financial,544.0249983051871,51.164970487904995,0.0,595.189968793092
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,638811.238092542,60079.51518068196,0.0,698890.753273224
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2009592.3751444318,189000.01817435492,0.0,2198592.3933187868
+Healthcare of Ontario Pension Plan Trust Fund,355810.33318905695,33463.582103072935,0.0,389273.9152921299
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

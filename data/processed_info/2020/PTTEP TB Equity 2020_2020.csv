@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2020,PTTEP TB Equity 2020,5387.74,14.372,36943.301,0.0,0.0,0.0,0.0,0.0,6.95,0.0,0.0,5.352,3806.85,33124.199,0.0,0.0,0.0,0.0,,13301.9521,5135.5198,13017.3241,PTT EXPLOR & PROD PUBLIC CO,3970.0,98.25,3932.061,3804.003,22493.446
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,1537680.3254318605,4101.820361989758,10543764.91594313,12085547.06173698
+BMO,442024.15045500785,1179.1161211081776,3030928.244632474,3474131.51120859
+TD,470791.1595640459,1255.8532047304561,3228181.585501816,3700228.5982705923
+Scotiabank,170423.75169409817,454.6117962907599,1168583.57633663,1339461.9398270189
+CIBC,226977.67844160844,605.4715325095117,1556369.8403845534,1783952.9903586714
+National Bank of Canada,0.0,0.0,0.0,0.0
+Sun Life Financial,165.14210167049615,0.44052279531090416,1132.3676767792851,1297.9503012450923
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,42105.85535624791,112.31895993125039,288716.86339376005,330935.03770993924
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,54948.03362850895,146.57595565282116,376774.7688451577,431869.3784293195
+Healthcare of Ontario Pension Plan Trust Fund,35046.13398232898,93.48688644849827,240308.85471500247,275448.47558378
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,3063.199735497098,8.171201022796998,21004.14329785336,24075.514234373255

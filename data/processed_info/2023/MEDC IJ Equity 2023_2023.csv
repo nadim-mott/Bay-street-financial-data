@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,MEDC IJ Equity 2023,5639.83,27.92,,,,,,,,,,,,,,,,,,5246.1719,2249.3376,1878.1881,MEDCO ENERGI INTERNASIONAL T,25029.4999,1155.0,3533.8779,364.9468,7468.3163
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,4610573.721604348,22824.66285458842,0.0,4633398.384458937
+BMO,3503130.7431880757,17342.262151485254,0.0,3520473.005339561
+TD,777224.6658308611,3847.653682823355,0.0,781072.3195136845
+Scotiabank,615406.5822906663,3046.5726409404897,0.0,618453.1549316068
+CIBC,201428.06591097027,997.1704112064176,0.0,202425.23632217667
+National Bank of Canada,495507.63709449547,2453.0124538644454,0.0,497960.6495483599
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,10738.025696148325,53.15863730581618,0.0,10791.18433345414
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,4285.000746197891,21.212912593791856,0.0,4306.213658791683
+Intact Financial,1558.4550716725337,7.715137796901173,0.0,1566.170209469435
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,2144950.660841691,10618.586455744238,0.0,2155569.247297435
+Healthcare of Ontario Pension Plan Trust Fund,509960.1308516437,2524.559579522413,0.0,512484.6904311661
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,98179.66671176333,486.03881581402845,0.0,98665.70552757736

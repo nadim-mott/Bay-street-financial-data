@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,WEC US Equity 2021,21676.0,82.0,25137.199,348.0,,6435.0,605.0,,1.206,,,,,17299.0,,,,449.0,,46425.9299,8316.0,30619.2299,WEC ENERGY GROUP INC,315.4,97.07,15622.9,16.3,38988.5
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,582464.7677373494,2203.4559399549107,675472.2667630514,1260140.4904403556
+BMO,882415.2003901313,3338.1641646055896,1023318.5398476659,1909071.904402403
+TD,104819.75877518722,396.53165803493965,121557.29236031504,226773.5827935372
+Scotiabank,148384.517534845,561.3365213995796,172078.43626517858,321024.29032142315
+CIBC,341644.86377235764,1292.4376651288674,396198.436957358,739135.7383948445
+National Bank of Canada,133111.8269568236,503.5601499566127,154367.01491280808,287982.40201958833
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,7500.424430988058,28.373999046919206,8698.086086417215,16226.884516452192
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,196450.9467953667,743.1711403035647,227820.0737447025,425014.19168037275
+Healthcare of Ontario Pension Plan Trust Fund,137839.32429992303,521.4442052313013,159849.39517567682,298210.16368083115
+OTPP,2661.075548474196,10.066810987953685,3085.9939215518934,5757.136281014043
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,10645.010115032319,40.269922007411424,12344.796647612617,23030.076684652347

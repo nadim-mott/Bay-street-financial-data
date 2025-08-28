@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,PXT CN Equity 2021,158.324,0.176,2828.43,0.0827,,18.4295,9.4906,0.5968,0.97,,,,227.657,2571.21,,,,,,1681.4017,900.199,2054.6607,PAREX RESOURCES INC,125.21,21.61,5.079,378.338,1784.221
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,358971.91925265326,399.0491510350103,6412984.227195176,6772355.195598865
+BMO,185210.9530843706,205.88873286961683,3308768.338500269,3494185.1803175095
+TD,90756.67117398023,100.88915216025693,1621355.5142786351,1712213.0746047755
+Scotiabank,75404.26488537424,83.82273451798757,1347086.8762656786,1422574.9638855709
+CIBC,50150.06887706569,55.749047032437026,895924.1195549221,946129.9374790202
+National Bank of Canada,33270.25163230114,36.984691438347944,594368.4937723294,627675.7300960689
+Sun Life Financial,9.32377983381879,0.010364728346631635,166.56805116290002,175.90219572506544
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,11764.683749487205,13.078145700650234,210174.46568097593,221952.2275761638
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,52945.045258324164,58.85606708689176,945855.9902307958,998859.8915562069
+Healthcare of Ontario Pension Plan Trust Fund,13090.432774618215,14.551907280846907,233858.79064178333,246963.77532368238
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1158.6915484391172,1.2880530590768589,20699.86599451676,21859.845596014955

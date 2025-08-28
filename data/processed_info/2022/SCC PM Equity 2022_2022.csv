@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,SCC PM Equity 2022,5262.59,29.022,30830.301,,,1335.0,,,,,,,,29495.0,,,,,0.289,136854.2228,91128.6927,146643.8929,SEMIRARA MINING AND POWER CO,4250.5476,34.5,10266.8884,20056.5585,87102.783
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,50556.16333375449,278.8058678848671,296177.57155903353,347012.5407606729
+BMO,23484.50984391454,129.5117888131296,137581.34787456942,161195.3695072971
+TD,13469.202774826226,74.27962332824839,78907.80283995038,92451.28523810486
+Scotiabank,9041.229816055982,49.86034855870905,52967.023489274805,62058.11365388949
+CIBC,15501.942628324758,85.48972634372828,90816.37963297006,106403.81198763855
+National Bank of Canada,10742.123802893126,59.240396270194765,62931.518761099396,73732.88296026272
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,412.80664044619067,2.276535758823953,2418.3810682715443,2833.464244476559
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,9520.140067012639,52.50143085910944,55772.66509199444,65345.30658986619
+Healthcare of Ontario Pension Plan Trust Fund,6700.903618537257,36.953976049281486,39256.48684785427,45994.34444244081
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,556.2464510924069,3.067574046924391,3258.7069945413323,3818.0210196806634

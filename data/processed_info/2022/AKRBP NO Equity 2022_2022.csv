@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,AKRBP NO Equity 2022,1066.46,7.847,63112.0,56.265,30.906,26.22,107.388,2.529,4.109,11.041,0.0,29.356,4155.06,58689.199,0.0,0.0,0.0,0.0,,22238.2059,13010.0,19580.6609,AKER BP ASA,496.765,304.1,5413.557,2756.012,37561.78
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,32073.491665442205,235.99637032680548,1898078.2658086377,1930387.7538444067
+BMO,20782.142023612698,152.91475391415415,1229867.0972100336,1250802.1539875604
+TD,16239.055943203635,119.48678055090572,961011.6498870577,977370.1926108123
+Scotiabank,5849.591647848822,43.041225794375514,346173.18521015806,352065.81808380125
+CIBC,2595.201091501462,19.095458774836352,153581.49460506722,156195.79115534353
+National Bank of Canada,6298.165095132208,46.34182388603646,372719.3286668378,379063.83558585605
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,11873.362252037163,87.36405827854361,702654.1128650056,714614.8391753213
+Healthcare of Ontario Pension Plan Trust Fund,2435.40088577909,17.919650761124206,144124.67273742534,146577.99327396555
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,192.91490411337443,1.4194655707458783,11416.517742054357,11610.852111738477

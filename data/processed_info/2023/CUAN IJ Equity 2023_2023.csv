@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,CUAN IJ Equity 2023,50.064,1.027,,,,,,,,,,,,,,,,,,9763.2345,,9737.9307,PETRINDO JAYA KREASI TBK PT,112418.9,1343.0,74.0888,61.0133,230.4203
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,5832.368978349784,119.6437148602834,0.0,5952.0126932100675
+BMO,5603.480581762613,114.94835725212133,0.0,5718.428939014734
+TD,1599.1598017841716,32.80475224577229,0.0,1631.9645540299439
+Scotiabank,1141.537242609459,23.417200945987425,0.0,1164.9544435554465
+CIBC,326.32829642133316,6.6942146137885326,0.0,333.0225110351217
+National Bank of Canada,548.1990460252505,11.245614019413795,0.0,559.4446600446643
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,17.166244159038843,0.3521439108208071,0.0,17.51838806985965
+Intact Financial,2.668248193633171,0.05473575612937972,0.0,2.7229839497625505
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,649.8135461161169,13.330107699369846,0.0,663.1436538154867
+Healthcare of Ontario Pension Plan Trust Fund,869.8283465911295,17.84343464263922,0.0,887.6717812337687
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,149.5555683098053,3.067944404245966,0.0,152.62351271405126

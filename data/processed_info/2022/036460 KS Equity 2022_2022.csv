@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,036460 KS Equity 2022,324.82,427.221,121864.0,12525.0,0.0,33.0,843.0,9.0,2.053,3.0,0.0,1012.0,0.0,106373.0,0.0,0.0,0.0,1065.0,,47374695.99,51724287.0,3106935.59,KOREA GAS CORPORATION,85.827,36200.0,44883078.0,697123.6778,62424980.64
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,13.40770174125174,17.63454142478699,5030.263787038469,5061.306030204508
+BMO,9.338324274691512,12.282273982384037,3503.5262073347326,3525.146805591808
+TD,9.257405094773786,12.175844658562747,3473.1671772584123,3494.6004270117487
+Scotiabank,7.174520312472908,9.43632086206203,2691.7163294411907,2708.3271706157257
+CIBC,3.2390672250788435,4.260198075750903,1215.2241212203564,1222.7233865211863
+National Bank of Canada,4.836855114849677,6.361695951669214,1814.677682791937,1825.8762338584559
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,0.0,0.0,0.0,0.0
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,3.0686560322288496,4.036063970029067,1151.2897297159611,1158.394449718219
+Healthcare of Ontario Pension Plan Trust Fund,4.54621516630797,5.979430421665098,1705.6362052568331,1716.1618508448062
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.01536837137972339,0.020213321190865115,5.765862301316648,5.801443993887236

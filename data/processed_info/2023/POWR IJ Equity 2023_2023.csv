@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,POWR IJ Equity 2023,2733.35,0.074,23.519,,,,,,0.027,0.0,,,,,,,,,8.0,808.3162,546.1,729.0875,CIKARANG LISTRINDO TBK PT,15785.9528,710.0,499.6839,420.4551,1324.2293
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,955969.0936273081,25.880956675296176,2807.3843139540863,958802.3588979376
+BMO,2065474.7873197661,55.918610592007134,6065.65793543299,2071596.3638657911
+TD,205171.59524748402,5.5546117578479945,602.5252510844034,205779.67511032626
+Scotiabank,56444.96387607797,1.52813482606683,165.761327687006,56612.25333859104
+CIBC,79572.55302004216,2.154268177687863,233.67987381487129,79808.38716203472
+National Bank of Canada,70811.13693486722,1.917070310490853,207.95031597716323,71021.00432115488
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,87014.3206405267,2.3557391945411217,255.5340339808322,87272.21041370207
+Fairfax,5349.8248838445315,0.14483583931969757,15.710774084043408,5365.680493767894
+Intact Financial,1945.7316851543883,0.0526768049102474,5.714009635331836,1951.4983715946303
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,502984.76211702987,13.61730930786771,1477.1100245169475,504475.48945085466
+Healthcare of Ontario Pension Plan Trust Fund,101249.27865311092,2.741122293277556,297.33768443431,101549.3574598385
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,4986.171755790629,0.13499065612837963,14.642837793817613,5000.949584240575

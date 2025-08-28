@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,1326 TT Equity 2022,4698.68,3166.59,14488.3,5647.6,92.67,829.34,108.0,3.99,0.089,0.21,,355.35,4640.12,,7.45,,,2893.45,,466139.1885,379896.563,412355.6555,FORMOSA CHEMICALS & FIBRE,5849.017,70.5,139408.747,132862.605,555546.296
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,44861.59738221415,30233.658315643013,139188.97103178204,214284.22672963922
+BMO,16538.944445446075,11146.121057723678,51314.23742450405,78999.3029276738
+TD,10554.696058291362,7113.145604983706,32747.324429629414,50415.16609290448
+Scotiabank,5983.735624452956,4032.6298856352178,18565.322081554426,28581.6875916426
+CIBC,5471.337553948015,3687.3085174892194,16975.54007748052,26134.186148917754
+National Bank of Canada,5010.637358507141,3376.8279927714007,15546.157489713392,23933.622840991935
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,152.4272591430482,102.72558133981991,472.9254996552363,728.0783401381044
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,571.7873860953995,385.34571814548576,1774.0451201838798,2731.178224424765
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,727.5419054365316,490.31364603170823,2257.2938796058297,3475.1494310740695
+Healthcare of Ontario Pension Plan Trust Fund,231.57503084130735,156.06578377582116,718.491809037405,1106.1326236545335
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,0.0,0.0,0.0,0.0

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2023,SUNF IN Equity 2023,1627.41,214.702,282.872,,,,,,,,,,,,,,,,,32568.4576,,26573.3576,SUNFLAG IRON & STEEL CO LTD,180.2194,147.45,6094.4,114.9,49423.4
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,142384.7308576467,18784.624946754942,0.0,161169.35580440165
+BMO,73355.68373076047,9677.716130760984,0.0,83033.39986152145
+TD,64366.25226915248,8491.752597496374,0.0,72858.00486664886
+Scotiabank,36650.497237880096,4835.250525661838,0.0,41485.747763541935
+CIBC,40578.87603070528,5353.5162261166415,0.0,45932.39225682192
+National Bank of Canada,22636.880891935165,2986.453076520522,0.0,25623.333968455685
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,0.0,0.0,0.0,0.0
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,5269.214793918252,695.1603804104906,0.0,5964.375174328743
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,21721.249255306753,2865.6550332201905,0.0,24586.904288526945
+Healthcare of Ontario Pension Plan Trust Fund,834.3020390468083,110.06833950106478,0.0,944.3703785478731
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,304.3735692624706,40.15559328490728,0.0,344.5291625473779

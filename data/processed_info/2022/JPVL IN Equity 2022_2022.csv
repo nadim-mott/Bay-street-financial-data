@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,JPVL IN Equity 2022,6941.55,,,,,,,,,,,,,,,,,,,93454.02,46245.5,46603.52,JAIPRAKASH POWER VENTURES LT,10658.9888,6.8,50783.5,3933.0,173465.3
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,444945.8134117338,0.0,0.0,444945.8134117338
+BMO,208452.2582167613,0.0,0.0,208452.2582167613
+TD,177830.4189586967,0.0,0.0,177830.4189586967
+Scotiabank,41145.08959409075,0.0,0.0,41145.08959409075
+CIBC,108676.35433010211,0.0,0.0,108676.35433010211
+National Bank of Canada,17381.31141488883,0.0,0.0,17381.31141488883
+Sun Life Financial,194.67640749024966,0.0,0.0,194.67640749024966
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,833.6678291682689,0.0,0.0,833.6678291682689
+Fairfax,196.6127451316982,0.0,0.0,196.6127451316982
+Intact Financial,177.39831776655498,0.0,0.0,177.39831776655498
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,604.4352422306298,0.0,0.0,604.4352422306298
+Healthcare of Ontario Pension Plan Trust Fund,3180.5090506039032,0.0,0.0,3180.5090506039032
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1336.370870698179,0.0,0.0,1336.370870698179

@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2021,MTDR US Equity 2021,774.427,,,,,,,,,,,,,,,,,,,6086.0656,1480.437,4351.0306,MATADOR RESOURCES CO,116.999,36.92,1562.992,48.135,4262.153
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,2896627.6192415194,0.0,0.0,2896627.6192415194
+BMO,1269355.5966112947,0.0,0.0,1269355.5966112947
+TD,743653.114261481,0.0,0.0,743653.114261481
+Scotiabank,532664.6228900343,0.0,0.0,532664.6228900343
+CIBC,631914.460721099,0.0,0.0,631914.460721099
+National Bank of Canada,113275.03755570002,0.0,0.0,113275.03755570002
+Sun Life Financial,21.536430242526908,0.0,0.0,21.536430242526908
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,36556.04348588125,0.0,0.0,36556.04348588125
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,51256.88196424085,0.0,0.0,51256.88196424085
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,155468.2861543194,0.0,0.0,155468.2861543194
+Healthcare of Ontario Pension Plan Trust Fund,74888.21951217718,0.0,0.0,74888.21951217718
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,1572.6933687848577,0.0,0.0,1572.6933687848577

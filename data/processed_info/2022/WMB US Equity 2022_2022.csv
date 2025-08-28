@@ -1,0 +1,22 @@
+year,ticker,ghg_scope_1,ghg_scope_2_location_based,ghg_scope_3,scope_3_purch_goods_srvcs,scope_3_capital_goods,scope_3_fuel_enrg_relatd_act,scope_3_upstream_trans_dist,scope_3_waste_genrtd_in_op,scope_3_business_trvl_emissions,scope_3_employee_commuting,scope_3_upstream_leased_assets,scope_3_dwnstrm_trans_dist,scope_3_prcss_of_sold_prods,scope_3_use_sold_products,scope_3_eol_trtmnt_prods,scope_3_dwnstrm_lease_assts,scope_3_franchises,scope_3_investments,scope_3_emissions_other,enterprise_value,is_comp_sales,historical_market_cap,name,is_avg_num_sh_for_eps,px_last,short_and_long_term_debt,cash_and_marketable_securities,bs_tot_asset
+2022,WMB US Equity 2022,13235.4,1777.03,22118.0,,,,,,2.896,26.786,,,,22088.3008,,,,,,65242.2,10965.0,40072.2,WILLIAMS COS INC,1218.362,32.9,22727.0,152.0,48433.0
+
+Financial Institution,Financed Scope 1,Financed Scope 2,Financed Scope 3,Total Financed Emissions
+RBC,293514.47048078215,39408.255094554326,490498.8145159987,823421.5400913352
+BMO,142252.09561741058,19099.252117428045,237720.76432369577,399072.1120585344
+TD,21442.020468055158,2878.8788878574173,35832.2559129072,60153.15526881978
+Scotiabank,33461.23094314761,4492.6191292217545,55917.83629262181,93871.68636499117
+CIBC,25142.246215580875,3375.68383218291,42015.78866899247,70533.71871675625
+National Bank of Canada,8762.23233563418,1176.4472344917424,14642.768944585025,24581.448514710948
+Sun Life Financial,0.0,0.0,0.0,0.0
+Power Corp of Canada,0.0,0.0,0.0,0.0
+Manulife,0.0,0.0,0.0,0.0
+Brookfield Asset Management,56320.520775001125,7561.785441528042,94118.52379138657,158000.83000791573
+Fairfax,0.0,0.0,0.0,0.0
+Intact Financial,1169.222453471484,156.98379924236752,1953.914661835387,3280.1209145492385
+OMERS,0.0,0.0,0.0,0.0
+CPPIB,3670.830041774597,492.85817649143297,6134.40891289223,10298.09713115826
+Healthcare of Ontario Pension Plan Trust Fund,2924.7075778220315,392.68122663592214,4887.546421059988,8204.935225517942
+OTPP,0.0,0.0,0.0,0.0
+OPSEU,0.0,0.0,0.0,0.0
+Investment Management of Ontario,11917.481515863865,1600.0817639161314,19915.57876506905,33433.142044849046
